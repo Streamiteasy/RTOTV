@@ -1,0 +1,5 @@
+<settings>
+    <setting id="channel" value="13" />
+    <setting id="current" value="http://www.fmplayer.co.il/NowPlaying/Ch13-90s.xml" />
+    <setting id="page" value="1" />
+</settings>

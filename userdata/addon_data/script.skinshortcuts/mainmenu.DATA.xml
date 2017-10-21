@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>RTOTV</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/livetv.png</thumb>
+		<action>noop</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.ustvnow</defaultID>
+		<label>USTVnow</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cJamisons-PC%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.ustvnow%5cresources%5cimages%5cicon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.ustvnow",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>script.hdhomerun.view</defaultID>
+		<label>Local TV</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultAddon.png</icon>
+		<thumb>image://C%3a%5cUsers%5cJamisons-PC%5cAppData%5cRoaming%5cKodi%5caddons%5cscript.hdhomerun.view%5cicon.png/</thumb>
+		<action>RunAddOn(script.hdhomerun.view)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.abcfamily</defaultID>
+		<label>ABC Family</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cJamisons-PC%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.abcfamily%5cicon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.abcfamily",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.thinktv</defaultID>
+		<label>PBS Think</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cJamisons-PC%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.thinktv%5cicon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.thinktv",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.travel</defaultID>
+		<label>Travel Channel</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cJamisons-PC%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.travel%5cicon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.travel",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.sundance</defaultID>
+		<label>Sundance </label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cJamisons-PC%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.sundance%5cicon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sundance",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.shoutfactorytv</defaultID>
+		<label>Shout Factory </label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cJamisons-PC%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.shoutfactorytv%5cicon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.shoutfactorytv",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.youtube</defaultID>
+		<label>YouTube &amp; More</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cJamisons-PC%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.youtube%5cicon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.youtube",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>script.100fm</defaultID>
+		<label>100FM Radius Digital</label>
+		<label2>Music Add-On</label2>
+		<icon>DefaultAddon.png</icon>
+		<thumb>image://C%3a%5cUsers%5cJamisons-PC%5cAppData%5cRoaming%5cKodi%5caddons%5cscript.100fm%5cicon.png/</thumb>
+		<action>RunAddOn(script.100fm)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>settings</defaultID>
+		<label>Shutdown</label>
+		<label2>Custom item</label2>
+		<icon>special://skin/extras/icons/settings.png</icon>
+		<thumb>special://skin/extras/icons/power.png</thumb>
+		<action>ShutDown</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>power</defaultID>
+		<label>13012</label>
+		<label2>Common Shortcut</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/power.png</thumb>
+		<action>ActivateWindow(shutdownmenu)</action>
+		<visible>Skin.HasSetting(Home_Horizontal)</visible>
+	</shortcut>
+</shortcuts>

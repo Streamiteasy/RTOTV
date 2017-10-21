@@ -1,0 +1,1 @@
+["LOCAL", ["local bus", "local h", "local", "local natives", "local news", "local 58", "local sound", "local music", "localhost", "local weather"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

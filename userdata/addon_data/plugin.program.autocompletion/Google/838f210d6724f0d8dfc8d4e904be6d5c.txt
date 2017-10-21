@@ -1,0 +1,1 @@
+["HGTV", ["hgtv", "hgtv shows", "hgtv daddy", "hgtv live", "hgtv hgtv", "hgtv urban oasis", "hgtv diy", "hgtv episodes", "hgtv hello neighbor", "hgtv videos"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

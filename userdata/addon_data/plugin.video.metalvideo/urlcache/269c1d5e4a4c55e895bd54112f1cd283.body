@@ -1,0 +1,657 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Top Music Videos from Metal Video</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link rel="shortcut icon" href="http://metalvideo.com/uploads/favicon.ico">
+<link href="http://metalvideo.com/templates/B52/style.css" rel="stylesheet" type="text/css" />
+<link type="application/atom+xml" rel="alternate" title="Top Music Videos from Metal Video" href="http://metalvideo.com/rss.php" />
+<script type="text/javascript">
+ var MELODYURL = "http://metalvideo.com";
+ var MELODYURL2 = "http://metalvideo.com";
+ var TemplateP = "http://metalvideo.com/templates/B52";
+</script>
+ <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+ <script type="text/javascript" src="http://metalvideo.com/js/general.js"></script>
+ <script type="text/javascript" src="http://metalvideo.com/js/langselector.js"></script>
+ <script type="text/javascript" src="http://metalvideo.com/js/jquery.hover.js"></script>
+ <script type="text/javascript" src="http://metalvideo.com/jwplayer.js"></script>
+  
+ 
+ <script type="text/javascript">
+ jQuery(document).ready( 
+  function() {
+	catlist(); 
+  });
+
+  $(document).ready(function() {
+	  $("#pm_sources").change(function () {
+		  var str = $("select option:selected").attr('value');
+		  $("#pm_sources_ex").text(str);
+	  })
+	  .change();
+  });
+ </script>
+ 
+
+
+</head>
+<body>
+		<div id="logo_search">
+		<div id="logo">
+
+		</div>
+		  			<div id="search_form">
+				<form action="http://metalvideo.com/search.php" method="get" id="search" name="search" onsubmit="return validateSearch('true');">
+				<input name="keywords" type="text" value="" class="search_keywords" id="inputString" onkeyup="lookup(this.value);" onblur="fill();" autocomplete="off"  />  
+				<input name="btn" value="Search" type="submit" class="search_bttn" />
+				<div class="suggestionsBox" id="suggestions" style="display: none;">
+					<div class="suggestionList" id="autoSuggestionsList">
+					</div>
+				</div>
+				</form>	
+			</div>
+		  		</div>
+
+<a name="top" id="top"></a>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+	<div id="wrapper">
+		<div id="menu">
+			<div id="menu_links">
+			<ul>
+				<li><a href="http://metalvideo.com/index.html">Homepage</a></li>
+								<li><a href="http://metalvideo.com/topvideos.html">Top Videos</a></li>
+				<li><a href="http://metalvideo.com/newvideos.html">New Videos</a></li>
+				<li><a href="http://metalvideo.com/randomizer.php" rel="nofollow">Random video</a></li>
+								<li><a href="http://metalvideo.com/contact_us.html">Contact us</a></li>
+								<li><a href="http://metalvideo.com/register.html">Register</a></li>
+											</ul>
+			</div>
+						 <ul id="lang_selector">
+			   <li class="lang_selected">
+				<span>
+				 <img src="http://metalvideo.com/lang/flags/us.png" width="16" height="11" border="0" alt="English" title="English" align="absmiddle" /> 
+				 <img src="http://metalvideo.com/templates/B52/images/lang_arrow.gif" name="arrow_profile" width="9" height="7" align="absmiddle" class="arrow">
+				 </span>
+			   </li>
+			  <li>
+			  <div class="lang_submenu">
+			  			   			  			   				 <a href="#" title="Deutsch" name="2" id="lang_select_2"><img src="http://metalvideo.com/lang/flags/de.png" width="16" height="11" border="0" alt="Deutsch" title="Deutsch" /></a>
+			   			  			   				 <a href="#" title="Română" name="3" id="lang_select_3"><img src="http://metalvideo.com/lang/flags/ro.png" width="16" height="11" border="0" alt="Română" title="Română" /></a>
+			   			  			   				 <a href="#" title="Français" name="4" id="lang_select_4"><img src="http://metalvideo.com/lang/flags/fr.png" width="16" height="11" border="0" alt="Français" title="Français" /></a>
+			   			  			   				 <a href="#" title="Nederlands" name="5" id="lang_select_5"><img src="http://metalvideo.com/lang/flags/nl.png" width="16" height="11" border="0" alt="Nederlands" title="Nederlands" /></a>
+			   			  			   				 <a href="#" title="Lithuanian" name="6" id="lang_select_6"><img src="http://metalvideo.com/lang/flags/lt.png" width="16" height="11" border="0" alt="Lithuanian" title="Lithuanian" /></a>
+			   			  			   				 <a href="#" title="Albanian" name="7" id="lang_select_7"><img src="http://metalvideo.com/lang/flags/al.png" width="16" height="11" border="0" alt="Albanian" title="Albanian" /></a>
+			   			  			   				 <a href="#" title="Arabic" name="8" id="lang_select_8"><img src="http://metalvideo.com/lang/flags/sa.png" width="16" height="11" border="0" alt="Arabic" title="Arabic" /></a>
+			   			  			   				 <a href="#" title="Bulgarian" name="9" id="lang_select_9"><img src="http://metalvideo.com/lang/flags/bg.png" width="16" height="11" border="0" alt="Bulgarian" title="Bulgarian" /></a>
+			   			  			   				 <a href="#" title="Danish" name="10" id="lang_select_10"><img src="http://metalvideo.com/lang/flags/dk.png" width="16" height="11" border="0" alt="Danish" title="Danish" /></a>
+			   			  			   				 <a href="#" title="Italian" name="11" id="lang_select_11"><img src="http://metalvideo.com/lang/flags/it.png" width="16" height="11" border="0" alt="Italian" title="Italian" /></a>
+			   			  			   				 <a href="#" title="Portuguese" name="12" id="lang_select_12"><img src="http://metalvideo.com/lang/flags/pt.png" width="16" height="11" border="0" alt="Portuguese" title="Portuguese" /></a>
+			   			  			   				 <a href="#" title="Russian" name="13" id="lang_select_13"><img src="http://metalvideo.com/lang/flags/ru.png" width="16" height="11" border="0" alt="Russian" title="Russian" /></a>
+			   			  			   				 <a href="#" title="Serbian" name="14" id="lang_select_14"><img src="http://metalvideo.com/lang/flags/sr.png" width="16" height="11" border="0" alt="Serbian" title="Serbian" /></a>
+			   			  			   				 <a href="#" title="Swedish" name="15" id="lang_select_15"><img src="http://metalvideo.com/lang/flags/se.png" width="16" height="11" border="0" alt="Swedish" title="Swedish" /></a>
+			   			  			   				 <a href="#" title="Spanish" name="17" id="lang_select_17"><img src="http://metalvideo.com/lang/flags/es.png" width="16" height="11" border="0" alt="Spanish" title="Spanish" /></a>
+			   			  			   				 <a href="#" title="Türkçe" name="16" id="lang_select_16"><img src="http://metalvideo.com/lang/flags/tr.png" width="16" height="11" border="0" alt="Türkçe" title="Türkçe" /></a>
+			   			  			   				 <a href="#" title="Georgian" name="18" id="lang_select_18"><img src="http://metalvideo.com/lang/flags/ge.png" width="16" height="11" border="0" alt="Georgian" title="Georgian" /></a>
+			   			  			   				 <a href="#" title="Croatian" name="19" id="lang_select_19"><img src="http://metalvideo.com/lang/flags/hr.png" width="16" height="11" border="0" alt="Croatian" title="Croatian" /></a>
+			   			  			   				 <a href="#" title="Brazilian" name="20" id="lang_select_20"><img src="http://metalvideo.com/lang/flags/pt-br.png" width="16" height="11" border="0" alt="Brazilian" title="Brazilian" /></a>
+			   			  			   				 <a href="#" title="Slovak" name="21" id="lang_select_21"><img src="http://metalvideo.com/lang/flags/sk.png" width="16" height="11" border="0" alt="Slovak" title="Slovak" /></a>
+			   			  			   				 <a href="#" title="Polish" name="22" id="lang_select_22"><img src="http://metalvideo.com/lang/flags/pl.png" width="16" height="11" border="0" alt="Polish" title="Polish" /></a>
+			   			  			  </div>
+			  </li>
+			 </ul>
+					</div>
+
+					<div align="center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Top Ad Unit -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-6339100196819244"
+     data-ad-slot="4942731354"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		 
+
+<br />
+<table width="886" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="150" valign="top">
+	<div id="reg_box">
+	<h3 class="captions">Category</h3>
+		<div id="list_cats">
+		<ul id='ul_categories'>
+<li class=""><a href="http://metalvideo.com/browse-alternative-videos-1-date.html">Alternative</a></li>
+<li class=""><a href="http://metalvideo.com/browse-black_metal-videos-1-date.html">Black Metal</a></li>
+<li class=""><a href="http://metalvideo.com/browse-classic_metal-videos-1-date.html">Classic Metal</a></li>
+<li class=""><a href="http://metalvideo.com/browse-concerts-videos-1-date.html">Concerts</a></li>
+<li class=""><a href="http://metalvideo.com/browse-death_metal-videos-1-date.html">Death Metal</a></li>
+<li class=""><a href="http://metalvideo.com/browse-featured-videos-1-date.html">Featured</a></li>
+<li class=""><a href="http://metalvideo.com/browse-folk_metal-videos-1-date.html">Folk Metal</a></li>
+<li class=""><a href="http://metalvideo.com/browse-gothic_metal-videos-1-date.html">Gothic Metal</a></li>
+<li class=""><a href="http://metalvideo.com/browse-grindcore-videos-1-date.html">Grindcore</a></li>
+<li class=""><a href="http://metalvideo.com/browse-grunge-videos-1-date.html">Grunge</a></li>
+<li class=""><a href="http://metalvideo.com/browse-hair_metal-videos-1-date.html">Hair Metal</a></li>
+<li class=""><a href="http://metalvideo.com/browse-hard_rock-videos-1-date.html">Hard Rock</a></li>
+<li class=""><a href="http://metalvideo.com/browse-hardcore-videos-1-date.html">Hardcore</a></li>
+<li class=""><a href="http://metalvideo.com/browse-heavy_metal-videos-1-date.html">Heavy Metal</a></li>
+<li class=""><a href="http://metalvideo.com/browse-indie_metal-videos-1-date.html">Indie Metal</a></li>
+<li class=""><a href="http://metalvideo.com/browse-industrial-videos-1-date.html">Industrial</a></li>
+<li class=""><a href="http://metalvideo.com/browse-Interviews-videos-1-date.html">Interviews</a></li>
+<li class=""><a href="http://metalvideo.com/browse-lyric-videos-1-date.html">Lyric Videos</a></li>
+<li class=""><a href="http://metalvideo.com/browse-metalcore-videos-1-date.html">Metalcore</a></li>
+<li class=""><a href="http://metalvideo.com/browse-Nu_metal-videos-1-date.html">Nu metal</a></li>
+<li class=""><a href="http://metalvideo.com/browse-promo-videos-1-date.html">Promo Videos</a></li>
+<li class=""><a href="http://metalvideo.com/browse-punk-videos-1-date.html">Punk</a></li>
+<li class=""><a href="http://metalvideo.com/browse-stoner_rock-videos-1-date.html">Stoner Rock</a></li>
+<li class=""><a href="http://metalvideo.com/browse-thrash-videos-1-date.html">Thrash Metal</a></li>
+<li class=""><a href="http://metalvideo.com/browse-technical-videos-1-date.html">Technical</a></li>
+<li class=""><a href="http://metalvideo.com/browse-IronMike-videos-1-date.html">Iron Mikes Metal Video</a></li>
+<li class=""><a href="http://metalvideo.com/browse-Capital_Chaos-videos-1-date.html">Capital Chaos</a></li>
+
+</ul>		
+		</div>
+	</div>	
+	<br />
+	<div id="reg_box">
+	<h3 class="captions">Members</h3>
+		<form name="login_form" method="post" action="http://metalvideo.com/login.php">
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr>
+    <td class="reg_box_login">Username<br />
+    <input name="username" type="text" size="15" class="inputtext" /></td>
+  </tr>
+  <tr>
+    <td class="reg_box_login">Password<br />
+      <input name="pass" type="password" size="15" class="inputtext" />
+	</td>
+  </tr>
+  <tr>
+  <td class="reg_box_login">
+  <input name="remember" type="checkbox" value="1"  />
+      Remember Me
+  </td>
+  </tr>
+  
+  <tr>
+    <td><label>
+	<input type="hidden" name="ref" value="" />
+      <input type="submit" name="Login" value="Login" class="inputbutton" />
+    </label></td>
+  </tr>
+  <tr>
+    <td><span class="signup"><a href="http://metalvideo.com/login.html?do=forgot_pass">Forgot your password?</a></span></td>
+  </tr>
+</table>
+</form> 
+		</div>	
+	</td>
+    <td width="738" valign="top">
+	<div id="browse_main">
+	<table width="100%" border="0" cellspacing="3" cellpadding="3">
+      <tr>
+        <td width="50%" valign="top">
+				<h2>Top Music Videos</h2>
+				</td>
+        <td width="50%" valign="top">
+		<div id="sorting">
+		Sorting: 
+		<select name="categories" size="1" onChange="javascript:document.location=this.value;">
+		<option value="http://metalvideo.com/topvideos.html">Select one</option>
+		<optgroup label="By time">
+			<option value="http://metalvideo.com/topvideos.html">All time</option>
+			<option value="http://metalvideo.com/topvideos.html?do=recent" >
+				Last 7 days
+			</option>
+		</optgroup>
+		<optgroup label="By category">
+			<option value="http://metalvideo.com/topvideos.html?c=alternative" > Alternative</option>
+<option value="http://metalvideo.com/topvideos.html?c=black_metal" > Black Metal</option>
+<option value="http://metalvideo.com/topvideos.html?c=classic_metal" > Classic Metal</option>
+<option value="http://metalvideo.com/topvideos.html?c=concerts" > Concerts</option>
+<option value="http://metalvideo.com/topvideos.html?c=death_metal" > Death Metal</option>
+<option value="http://metalvideo.com/topvideos.html?c=featured" > Featured</option>
+<option value="http://metalvideo.com/topvideos.html?c=folk_metal" > Folk Metal</option>
+<option value="http://metalvideo.com/topvideos.html?c=gothic_metal" > Gothic Metal</option>
+<option value="http://metalvideo.com/topvideos.html?c=grindcore" > Grindcore</option>
+<option value="http://metalvideo.com/topvideos.html?c=grunge" > Grunge</option>
+<option value="http://metalvideo.com/topvideos.html?c=hair_metal" > Hair Metal</option>
+<option value="http://metalvideo.com/topvideos.html?c=hard_rock" > Hard Rock</option>
+<option value="http://metalvideo.com/topvideos.html?c=hardcore" > Hardcore</option>
+<option value="http://metalvideo.com/topvideos.html?c=heavy_metal" > Heavy Metal</option>
+<option value="http://metalvideo.com/topvideos.html?c=indie_metal" > Indie Metal</option>
+<option value="http://metalvideo.com/topvideos.html?c=industrial" > Industrial</option>
+<option value="http://metalvideo.com/topvideos.html?c=Interviews" > Interviews</option>
+<option value="http://metalvideo.com/topvideos.html?c=lyric" > Lyric Videos</option>
+<option value="http://metalvideo.com/topvideos.html?c=metalcore" > Metalcore</option>
+<option value="http://metalvideo.com/topvideos.html?c=Nu_metal" > Nu metal</option>
+<option value="http://metalvideo.com/topvideos.html?c=promo" > Promo Videos</option>
+<option value="http://metalvideo.com/topvideos.html?c=punk" > Punk</option>
+<option value="http://metalvideo.com/topvideos.html?c=stoner_rock" > Stoner Rock</option>
+<option value="http://metalvideo.com/topvideos.html?c=thrash" > Thrash Metal</option>
+<option value="http://metalvideo.com/topvideos.html?c=technical" > Technical</option>
+<option value="http://metalvideo.com/topvideos.html?c=IronMike" > Iron Mikes Metal Video</option>
+<option value="http://metalvideo.com/topvideos.html?c=Capital_Chaos" > Capital Chaos</option>
+
+		</optgroup>
+		</select>
+		</div>
+		</td>
+      </tr>
+    </table>
+		<div id="topvideos_results">
+		<table width="100%" border="0" cellspacing="2" cellpadding="5">
+		  <tr class="heading">
+			<td width="20"><strong>Rank</strong></td>
+			<td width="10"> </td>
+			<td><strong>Artist</strong></td>
+			<td><strong>Video title</strong></td>
+			<td width="100"><strong>Views</strong></td>
+		  </tr>
+			
+			  <tr>
+				<td align="center" class="row2">1.</td>
+				<td align="center" class="row2" width="10"><a href="http://metalvideo.com/buckcherry/crazy-bitch-video_6bf13e2a4.html"><img src="http://metalvideo.com/uploads/thumbs/6bf13e2a4-1.jpg" alt="Crazy Bitch" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row2">Buckcherry</td>
+<td class="row2"><a href="http://metalvideo.com/buckcherry/crazy-bitch-video_6bf13e2a4.html">Crazy Bitch</a></td>
+				<td class="row2">219,917</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row1">2.</td>
+				<td align="center" class="row1" width="10"><a href="http://metalvideo.com/rammstein/du-hast-video_126711d81.html"><img src="http://www.metalvideo.com/uploads/thumbs/rammstein_du_hast_thumb.jpg" alt="Du Hast" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row1">Rammstein</td>
+<td class="row1"><a href="http://metalvideo.com/rammstein/du-hast-video_126711d81.html">Du Hast</a></td>
+				<td class="row1">178,144</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row2">3.</td>
+				<td align="center" class="row2" width="10"><a href="http://metalvideo.com/night-ranger/you-can-still-rock-in-america-live-acoustic-video_fd2f49a3d.html"><img src="http://i1.ytimg.com/vi/txSm6sonILM/0.jpg" alt="(You Can Still) Rock in America (Live Acoustic)" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row2">Night Ranger</td>
+<td class="row2"><a href="http://metalvideo.com/night-ranger/you-can-still-rock-in-america-live-acoustic-video_fd2f49a3d.html">(You Can Still) Rock in America (Live Acoustic)</a></td>
+				<td class="row2">166,312</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row1">4.</td>
+				<td align="center" class="row1" width="10"><a href="http://metalvideo.com/slipknot/duality-video_19c752e03.html"><img src="http://www.metalvideo.com/uploads/thumbs/slipknot_duality_thumb.jpg" alt="Duality" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row1">Slipknot</td>
+<td class="row1"><a href="http://metalvideo.com/slipknot/duality-video_19c752e03.html">Duality</a></td>
+				<td class="row1">149,133</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row2">5.</td>
+				<td align="center" class="row2" width="10"><a href="http://metalvideo.com/metallica-with-slipknot/hanging-out-with-backstage-video_0b7177f65.html"><img src="http://i.ytimg.com/vi/i6kicf-4ZH0/1.jpg" alt="Hanging out with backstage" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row2">Metallica with Slipknot</td>
+<td class="row2"><a href="http://metalvideo.com/metallica-with-slipknot/hanging-out-with-backstage-video_0b7177f65.html">Hanging out with backstage</a></td>
+				<td class="row2">130,251</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row1">6.</td>
+				<td align="center" class="row1" width="10"><a href="http://metalvideo.com/bullet-for-my-valentine/waking-the-demon-video_98d842a82.html"><img src="http://www.metalvideo.com/uploads/thumbs/bullet_for_my_valentine_waking_the_demon_thumb.jpg" alt="Waking The Demon" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row1">Bullet For My Valentine</td>
+<td class="row1"><a href="http://metalvideo.com/bullet-for-my-valentine/waking-the-demon-video_98d842a82.html">Waking The Demon</a></td>
+				<td class="row1">113,121</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row2">7.</td>
+				<td align="center" class="row2" width="10"><a href="http://metalvideo.com/dio/rainbow-in-the-dark-video_ac0ce706f.html"><img src="http://metalvideo.com/uploads/thumbs/ac0ce706f-1.jpg" alt="Rainbow In The Dark" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row2">Dio</td>
+<td class="row2"><a href="http://metalvideo.com/dio/rainbow-in-the-dark-video_ac0ce706f.html">Rainbow In The Dark</a></td>
+				<td class="row2">99,526</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row1">8.</td>
+				<td align="center" class="row1" width="10"><a href="http://metalvideo.com/%d0%b3%d1%80%d0%b0%d0%b9/%d0%b2-%d0%be%d0%b1%d1%8a%d1%8f%d1%82%d0%b8%d1%8f%d1%85-%d0%bc%d0%b0%d1%80%d1%8b-video_c10cda42c.html"><img src="http://i1.ytimg.com/vi/yicTUvDVTHA/0.jpg" alt="В объятиях Мары" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row1">ГРАЙ</td>
+<td class="row1"><a href="http://metalvideo.com/%d0%b3%d1%80%d0%b0%d0%b9/%d0%b2-%d0%be%d0%b1%d1%8a%d1%8f%d1%82%d0%b8%d1%8f%d1%85-%d0%bc%d0%b0%d1%80%d1%8b-video_c10cda42c.html">В объятиях Мары</a></td>
+				<td class="row1">97,717</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row2">9.</td>
+				<td align="center" class="row2" width="10"><a href="http://metalvideo.com/slipknot/psychosocial-video_df26ded97.html"><img src="http://www.metalvideo.com/uploads/thumbs/Slipknot-PsychoSocial_thumb.jpg" alt="Psychosocial" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row2">Slipknot</td>
+<td class="row2"><a href="http://metalvideo.com/slipknot/psychosocial-video_df26ded97.html">Psychosocial</a></td>
+				<td class="row2">93,776</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row1">10.</td>
+				<td align="center" class="row1" width="10"><a href="http://metalvideo.com/slipknot/before-i-forget-video_06a50b022.html"><img src="http://www.metalvideo.com/uploads/thumbs/slipknot_before_i_forget_thumb.jpg" alt="Before I Forget" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row1">Slipknot</td>
+<td class="row1"><a href="http://metalvideo.com/slipknot/before-i-forget-video_06a50b022.html">Before I Forget</a></td>
+				<td class="row1">76,758</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row2">11.</td>
+				<td align="center" class="row2" width="10"><a href="http://metalvideo.com/slipknot/spit-it-out-video_fda1341b6.html"><img src="http://www.metalvideo.com/uploads/thumbs/slipknot_spit_it_out_thumb.jpg" alt="Spit It Out" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row2">Slipknot</td>
+<td class="row2"><a href="http://metalvideo.com/slipknot/spit-it-out-video_fda1341b6.html">Spit It Out</a></td>
+				<td class="row2">74,174</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row1">12.</td>
+				<td align="center" class="row1" width="10"><a href="http://metalvideo.com/slipknot/wait-and-bleed-video_17ca0ad62.html"><img src="http://www.metalvideo.com/uploads/thumbs/slipknot_wait_and_bleed_thumb.jpg" alt="Wait and Bleed" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row1">Slipknot</td>
+<td class="row1"><a href="http://metalvideo.com/slipknot/wait-and-bleed-video_17ca0ad62.html">Wait and Bleed</a></td>
+				<td class="row1">73,885</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row2">13.</td>
+				<td align="center" class="row2" width="10"><a href="http://metalvideo.com/metallica/whiskey-in-the-jar-video_ffa4d1b8c.html"><img src="http://i.ytimg.com/vi/boanuwUMNNQ/hqdefault.jpg" alt="Whiskey In The Jar" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row2">Metallica</td>
+<td class="row2"><a href="http://metalvideo.com/metallica/whiskey-in-the-jar-video_ffa4d1b8c.html">Whiskey In The Jar</a></td>
+				<td class="row2">72,581</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row1">14.</td>
+				<td align="center" class="row1" width="10"><a href="http://metalvideo.com/megadeth/a-tout-le-monde-video_e5721e6d2.html"><img src="http://www.metalvideo.com/uploads/thumbs/megadeth_a_tout_le_monde_thumb.jpg" alt="A Tout Le Monde" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row1">Megadeth</td>
+<td class="row1"><a href="http://metalvideo.com/megadeth/a-tout-le-monde-video_e5721e6d2.html">A Tout Le Monde</a></td>
+				<td class="row1">65,828</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row2">15.</td>
+				<td align="center" class="row2" width="10"><a href="http://metalvideo.com/metallica/until-it-sleeps-video_5597b0728.html"><img src="http://i.ytimg.com/vi/eRV9uPr4Dz4/hqdefault.jpg" alt="Until It Sleeps" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row2">Metallica</td>
+<td class="row2"><a href="http://metalvideo.com/metallica/until-it-sleeps-video_5597b0728.html">Until It Sleeps</a></td>
+				<td class="row2">63,915</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row1">16.</td>
+				<td align="center" class="row1" width="10"><a href="http://metalvideo.com/eternal-helcaraxe/flames-in-the-darkness-video_d072abadd.html"><img src="http://i1.ytimg.com/vi/clwyQStFg6o/0.jpg" alt="Flames In The Darkness" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row1">Eternal Helcaraxe</td>
+<td class="row1"><a href="http://metalvideo.com/eternal-helcaraxe/flames-in-the-darkness-video_d072abadd.html">Flames In The Darkness</a></td>
+				<td class="row1">62,238</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row2">17.</td>
+				<td align="center" class="row2" width="10"><a href="http://metalvideo.com/slipknot/sulfur-video_1d9196c99.html"><img src="http://metalvideo.com/uploads/thumbs/1d9196c99-1.jpg" alt="Sulfur" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row2">Slipknot</td>
+<td class="row2"><a href="http://metalvideo.com/slipknot/sulfur-video_1d9196c99.html">Sulfur</a></td>
+				<td class="row2">60,829</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row1">18.</td>
+				<td align="center" class="row1" width="10"><a href="http://metalvideo.com/slipknot/left-behind-video_b25f55f1f.html"><img src="http://www.metalvideo.com/uploads/thumbs/slipknot_left_behind_thumb.jpg" alt="Left Behind" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row1">Slipknot</td>
+<td class="row1"><a href="http://metalvideo.com/slipknot/left-behind-video_b25f55f1f.html">Left Behind</a></td>
+				<td class="row1">58,991</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row2">19.</td>
+				<td align="center" class="row2" width="10"><a href="http://metalvideo.com/slipknot/wait-and-bleed-animated-video_53d19ae1f.html"><img src="http://www.metalvideo.com/uploads/thumbs/slipknot_wait_and_bleed_animated.jpg" alt="Wait and Bleed (Animated)" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row2">Slipknot</td>
+<td class="row2"><a href="http://metalvideo.com/slipknot/wait-and-bleed-animated-video_53d19ae1f.html">Wait and Bleed (Animated)</a></td>
+				<td class="row2">58,390</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row1">20.</td>
+				<td align="center" class="row1" width="10"><a href="http://metalvideo.com/slipknot/vermillion-video_49a18fac9.html"><img src="http://images.roxwel.com/images/feat/slipknot.jpg" alt="Vermillion" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row1">Slipknot</td>
+<td class="row1"><a href="http://metalvideo.com/slipknot/vermillion-video_49a18fac9.html">Vermillion</a></td>
+				<td class="row1">57,385</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row2">21.</td>
+				<td align="center" class="row2" width="10"><a href="http://metalvideo.com/metallica/wherever-i-may-roam-video_86435fcbd.html"><img src="http://i.ytimg.com/vi/dHUHxTiPFUU/hqdefault.jpg" alt="Wherever I May Roam" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row2">Metallica</td>
+<td class="row2"><a href="http://metalvideo.com/metallica/wherever-i-may-roam-video_86435fcbd.html">Wherever I May Roam</a></td>
+				<td class="row2">57,123</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row1">22.</td>
+				<td align="center" class="row1" width="10"><a href="http://metalvideo.com/kamelot/rule-the-world-video_6881c284c.html"><img src="http://www.metalvideo.com/uploads/thumbs/kamelot_rule_the_world_thumb.jpg" alt="Rule The World" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row1">Kamelot</td>
+<td class="row1"><a href="http://metalvideo.com/kamelot/rule-the-world-video_6881c284c.html">Rule The World</a></td>
+				<td class="row1">57,011</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row2">23.</td>
+				<td align="center" class="row2" width="10"><a href="http://metalvideo.com/tool/jambi-video_0cee94748.html"><img src="http://www.metalvideo.com/uploads/thumbs/tool_jambi_thumb.jpg" alt="Jambi" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row2">Tool</td>
+<td class="row2"><a href="http://metalvideo.com/tool/jambi-video_0cee94748.html">Jambi</a></td>
+				<td class="row2">56,457</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row1">24.</td>
+				<td align="center" class="row1" width="10"><a href="http://metalvideo.com/metallica/turn-the-page-video_57989e7f6.html"><img src="http://i.ytimg.com/vi/qPOTEs_yTJo/hqdefault.jpg" alt="Turn The Page" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row1">Metallica</td>
+<td class="row1"><a href="http://metalvideo.com/metallica/turn-the-page-video_57989e7f6.html">Turn The Page</a></td>
+				<td class="row1">56,086</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row2">25.</td>
+				<td align="center" class="row2" width="10"><a href="http://metalvideo.com/bullet-for-my-valentine/tears-dont-fall-video_3e36c880c.html"><img src="http://metalvideo.com/uploads/thumbs/3e36c880c-1.jpg" alt="Tears Don't Fall" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row2">Bullet For My Valentine</td>
+<td class="row2"><a href="http://metalvideo.com/bullet-for-my-valentine/tears-dont-fall-video_3e36c880c.html">Tears Don't Fall</a></td>
+				<td class="row2">53,873</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row1">26.</td>
+				<td align="center" class="row1" width="10"><a href="http://metalvideo.com/slipknot/my-plague-video_0b2893048.html"><img src="http://www.metalvideo.com/uploads/thumbs/slipknot_my_plague_thumb.jpg" alt="My Plague" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row1">Slipknot</td>
+<td class="row1"><a href="http://metalvideo.com/slipknot/my-plague-video_0b2893048.html">My Plague</a></td>
+				<td class="row1">53,707</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row2">27.</td>
+				<td align="center" class="row2" width="10"><a href="http://metalvideo.com/slipknot/people-shit-video_689ef24cc.html"><img src="http://metalvideo.com/uploads/thumbs/689ef24cc-1.jpg" alt="People = Shit" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row2">Slipknot</td>
+<td class="row2"><a href="http://metalvideo.com/slipknot/people-shit-video_689ef24cc.html">People = Shit</a></td>
+				<td class="row2">53,340</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row1">28.</td>
+				<td align="center" class="row1" width="10"><a href="http://metalvideo.com/megadeth/symphony-of-destruction-video_f54af616a.html"><img src="http://www.metalvideo.com/uploads/thumbs/megadeth_symphony_of_destruction__thumb.jpg" alt="Symphony Of Destruction" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row1">Megadeth</td>
+<td class="row1"><a href="http://metalvideo.com/megadeth/symphony-of-destruction-video_f54af616a.html">Symphony Of Destruction</a></td>
+				<td class="row1">50,516</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row2">29.</td>
+				<td align="center" class="row2" width="10"><a href="http://metalvideo.com/megadeth/holy-wars-the-punishment-due-video_4b77ac7ad.html"><img src="http://www.metalvideo.com/uploads/thumbs/megadeth_holy_wars_thumb.jpg" alt="Holy Wars . . . The Punishment Due" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row2">Megadeth</td>
+<td class="row2"><a href="http://metalvideo.com/megadeth/holy-wars-the-punishment-due-video_4b77ac7ad.html">Holy Wars . . . The Punishment Due</a></td>
+				<td class="row2">49,437</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row1">30.</td>
+				<td align="center" class="row1" width="10"><a href="http://metalvideo.com/the-letter-black/hanging-on-by-a-thread-video_1976d1887.html"><img src="http://www.metalvideo.com/uploads/thumbs/the_letter_black_hanging_on_by_a_thread.jpg" alt="Hanging on by a Thread" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row1">The Letter Black</td>
+<td class="row1"><a href="http://metalvideo.com/the-letter-black/hanging-on-by-a-thread-video_1976d1887.html">Hanging on by a Thread</a></td>
+				<td class="row1">49,188</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row2">31.</td>
+				<td align="center" class="row2" width="10"><a href="http://metalvideo.com/nine-inch-nails/closer-video_bd70ae88b.html"><img src="http://www.metalvideo.com/uploads/thumbs/nin_closer_thumb.jpg" alt="Closer" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row2">Nine Inch Nails</td>
+<td class="row2"><a href="http://metalvideo.com/nine-inch-nails/closer-video_bd70ae88b.html">Closer</a></td>
+				<td class="row2">48,562</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row1">32.</td>
+				<td align="center" class="row1" width="10"><a href="http://metalvideo.com/led-zeppelin/kashmir-video_896f32c02.html"><img src="http://i1.ytimg.com/vi/73dvrir5kig/0.jpg" alt="Kashmir" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row1">Led Zeppelin</td>
+<td class="row1"><a href="http://metalvideo.com/led-zeppelin/kashmir-video_896f32c02.html">Kashmir</a></td>
+				<td class="row1">48,499</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row2">33.</td>
+				<td align="center" class="row2" width="10"><a href="http://metalvideo.com/slipknot/dead-memories-video_609d2ca3a.html"><img src="http://www.metalvideo.com/uploads/thumbs/slipknot_dead_memories_thumb.jpg" alt="Dead Memories" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row2">Slipknot</td>
+<td class="row2"><a href="http://metalvideo.com/slipknot/dead-memories-video_609d2ca3a.html">Dead Memories</a></td>
+				<td class="row2">48,407</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row1">34.</td>
+				<td align="center" class="row1" width="10"><a href="http://metalvideo.com/slipknot/the-nameless-video_8cd6382a1.html"><img src="http://www.metalvideo.com/uploads/thumbs/slipknot_the_nameless_thumb.jpg" alt="The Nameless" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row1">Slipknot</td>
+<td class="row1"><a href="http://metalvideo.com/slipknot/the-nameless-video_8cd6382a1.html">The Nameless</a></td>
+				<td class="row1">47,977</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row2">35.</td>
+				<td align="center" class="row2" width="10"><a href="http://metalvideo.com/a-perfect-circle/the-outsider-video_91e66fe64.html"><img src="http://metalvideo.com/uploads/thumbs/91e66fe64-1.jpg" alt="The Outsider" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row2">A Perfect Circle</td>
+<td class="row2"><a href="http://metalvideo.com/a-perfect-circle/the-outsider-video_91e66fe64.html">The Outsider</a></td>
+				<td class="row2">46,212</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row1">36.</td>
+				<td align="center" class="row1" width="10"><a href="http://metalvideo.com/slipknot/three-nil-live-video_b8887e89b.html"><img src="http://www.metalvideo.com/uploads/thumbs/slipknot_3_nil_live.jpg" alt="Three Nil (Live)" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row1">Slipknot</td>
+<td class="row1"><a href="http://metalvideo.com/slipknot/three-nil-live-video_b8887e89b.html">Three Nil (Live)</a></td>
+				<td class="row1">46,188</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row2">37.</td>
+				<td align="center" class="row2" width="10"><a href="http://metalvideo.com/slipknot/the-blister-exists-live-video_b7a61ae87.html"><img src="http://www.metalvideo.com/uploads/thumbs/slipknot_the_blister_exists_live.jpg" alt="The Blister Exists (Live)" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row2">Slipknot</td>
+<td class="row2"><a href="http://metalvideo.com/slipknot/the-blister-exists-live-video_b7a61ae87.html">The Blister Exists (Live)</a></td>
+				<td class="row2">46,140</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row1">38.</td>
+				<td align="center" class="row1" width="10"><a href="http://metalvideo.com/chastain/evil-awaits-us-video_64c3b009b.html"><img src="http://i1.ytimg.com/vi/e7dw_jP8b_c/0.jpg" alt="Evil Awaits Us" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row1">Chastain</td>
+<td class="row1"><a href="http://metalvideo.com/chastain/evil-awaits-us-video_64c3b009b.html">Evil Awaits Us</a></td>
+				<td class="row1">45,949</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row2">39.</td>
+				<td align="center" class="row2" width="10"><a href="http://metalvideo.com/megadeth/peace-sells-video_2c7698ba0.html"><img src="http://metalvideo.com/uploads/thumbs/2c7698ba0-1.jpg" alt="Peace Sells" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row2">Megadeth</td>
+<td class="row2"><a href="http://metalvideo.com/megadeth/peace-sells-video_2c7698ba0.html">Peace Sells</a></td>
+				<td class="row2">45,928</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row1">40.</td>
+				<td align="center" class="row1" width="10"><a href="http://metalvideo.com/dimmu-borgir/gateways-video_c8e21c8dd.html"><img src="http://www.metalvideo.com/uploads/thumbs/dimmu_borgir_gateways_thumb.jpg" alt="Gateways" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row1">Dimmu Borgir</td>
+<td class="row1"><a href="http://metalvideo.com/dimmu-borgir/gateways-video_c8e21c8dd.html">Gateways</a></td>
+				<td class="row1">45,477</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row2">41.</td>
+				<td align="center" class="row2" width="10"><a href="http://metalvideo.com/napalm-death/when-all-is-said-and-done-video_c841de6ba.html"><img src="http://metalvideo.com/uploads/thumbs/c841de6ba-1.jpg" alt="When All is Said and Done" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row2">Napalm Death</td>
+<td class="row2"><a href="http://metalvideo.com/napalm-death/when-all-is-said-and-done-video_c841de6ba.html">When All is Said and Done</a></td>
+				<td class="row2">45,440</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row1">42.</td>
+				<td align="center" class="row1" width="10"><a href="http://metalvideo.com/lamb-of-god/set-to-fail-video_f316d1a6b.html"><img src="http://i.ytimg.com/vi/qUylZ08N_Q4/hqdefault.jpg" alt="Set To Fail" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row1">Lamb of God</td>
+<td class="row1"><a href="http://metalvideo.com/lamb-of-god/set-to-fail-video_f316d1a6b.html">Set To Fail</a></td>
+				<td class="row1">45,431</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row2">43.</td>
+				<td align="center" class="row2" width="10"><a href="http://metalvideo.com/cradle-of-filth/the-death-of-love-video_9da4b6441.html"><img src="http://i.ytimg.com/vi/K_aMnV1uaCY/1.jpg" alt="The Death Of Love" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row2">Cradle of Filth</td>
+<td class="row2"><a href="http://metalvideo.com/cradle-of-filth/the-death-of-love-video_9da4b6441.html">The Death Of Love</a></td>
+				<td class="row2">45,428</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row1">44.</td>
+				<td align="center" class="row1" width="10"><a href="http://metalvideo.com/behemoth/ov-fire-and-the-void-video_f3e5c5f92.html"><img src="http://metalvideo.com/uploads/thumbs/f3e5c5f92-1.jpg" alt="Ov Fire And The Void" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row1">Behemoth</td>
+<td class="row1"><a href="http://metalvideo.com/behemoth/ov-fire-and-the-void-video_f3e5c5f92.html">Ov Fire And The Void</a></td>
+				<td class="row1">45,428</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row2">45.</td>
+				<td align="center" class="row2" width="10"><a href="http://metalvideo.com/in-flames/alias-video_2004d913c.html"><img src="http://www.metalvideo.com/uploads/thumbs/in_flames_alias_thumb.jpg" alt="Alias" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row2">In Flames</td>
+<td class="row2"><a href="http://metalvideo.com/in-flames/alias-video_2004d913c.html">Alias</a></td>
+				<td class="row2">45,423</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row1">46.</td>
+				<td align="center" class="row1" width="10"><a href="http://metalvideo.com/testament/more-than-meets-the-eye-video_74649b98b.html"><img src="http://www.metalvideo.com/uploads/thumbs/testament_more_than_meets_the_eye_thumb.jpg" alt="More Than Meets The Eye" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row1">Testament</td>
+<td class="row1"><a href="http://metalvideo.com/testament/more-than-meets-the-eye-video_74649b98b.html">More Than Meets The Eye</a></td>
+				<td class="row1">45,421</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row2">47.</td>
+				<td align="center" class="row2" width="10"><a href="http://metalvideo.com/black-label-society/my-dying-time-video_60d897eb7.html"><img src="http://i1.ytimg.com/vi/W7mNmiW9qts/0.jpg" alt="My Dying Time" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row2">Black Label Society</td>
+<td class="row2"><a href="http://metalvideo.com/black-label-society/my-dying-time-video_60d897eb7.html">My Dying Time</a></td>
+				<td class="row2">45,421</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row1">48.</td>
+				<td align="center" class="row1" width="10"><a href="http://metalvideo.com/perzonal-war/dead-mans-theories-video_5fba15f29.html"><img src="http://i1.ytimg.com/vi/611qWDn7LkM/0.jpg" alt="Dead Man's Theories" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row1">Perzonal War</td>
+<td class="row1"><a href="http://metalvideo.com/perzonal-war/dead-mans-theories-video_5fba15f29.html">Dead Man's Theories</a></td>
+				<td class="row1">45,420</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row2">49.</td>
+				<td align="center" class="row2" width="10"><a href="http://metalvideo.com/universum/leto-destinatus-video_707cd71fd.html"><img src="http://www.metalvideo.com/uploads/thumbs/universum_thumb.jpg" alt="Leto Destinatus" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row2">Universum</td>
+<td class="row2"><a href="http://metalvideo.com/universum/leto-destinatus-video_707cd71fd.html">Leto Destinatus</a></td>
+				<td class="row2">45,418</td>
+			  </tr>
+			  <tr>
+				<td align="center" class="row1">50.</td>
+				<td align="center" class="row1" width="10"><a href="http://metalvideo.com/loudness/crazy-nights-video_6d1eec78c.html"><img src="http://i.ytimg.com/vi/pXCpPpPCW4c/mqdefault.jpg" alt="Crazy Nights" class="tinythumb" width="72" height="53" align="left" border="1" /></a></td>
+				<td class="row1">Loudness</td>
+<td class="row1"><a href="http://metalvideo.com/loudness/crazy-nights-video_6d1eec78c.html">Crazy Nights</a></td>
+				<td class="row1">39,566</td>
+			  </tr>
+		</table>
+
+		</div>
+	</div>
+	</td>
+  </tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+
+	<div id="footer">
+	<div align="center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Bottom of page -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-6339100196819244"
+     data-ad-slot="7021566956"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+    <!--
+	Removing the PHPSugar.com copyright link is against our terms of agreement.
+	Removing the link without our permission affects your license and as a result you won't 
+	benefit from the free support and the upgrades we provide.
+
+	To ask for permission, please visit the following URL where you can contact the PHPSugar Team.
+
+	http://www.phpsugar.com/customer_care.html
+
+	* Please include your URL when making the request.
+//-->
+
+	
+<div align="center">	
+<a href="http://metalvideo.com/index.html">Homepage</a> | <a href="http://metalvideo.com/contact_us.html">Contact us</a> | <a href="http://metalvideo.com/register.html">Register</a> |   <a href="#top">Go Up</a><br />
+	© 2017 Metal Video. All rights reserved
+</div>
+	
+	</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1055870-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html> 

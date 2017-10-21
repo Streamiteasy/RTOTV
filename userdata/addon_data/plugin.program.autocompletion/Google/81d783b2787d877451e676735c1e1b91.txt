@@ -1,0 +1,1 @@
+["LOC", ["location", "loca", "locked away", "locked up", "locksmith", "loco", "locash", "local bus", "lockdown", "location cover"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

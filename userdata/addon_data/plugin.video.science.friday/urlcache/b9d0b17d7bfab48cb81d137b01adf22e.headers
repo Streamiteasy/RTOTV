@@ -1,0 +1,23 @@
+Server: nginx
+X-Varnish: 583600889 571432354
+Vary: Accept-Encoding, Cookie
+Cache-Control: public, max-age=600
+X-Pantheon-Site: e72f0d7c-eeb4-4b32-b10a-bd9114cc95da
+Content-Type: text/html; charset=UTF-8
+Surrogate-Key-Raw: 
+X-Pantheon-Environment: live
+X-Pantheon-Styx-Hostname: styx480365c9
+Date: Mon, 09 Oct 2017 21:58:13 GMT
+Surrogate-Key: HYnaH2NeDgolVzH5JZJW V9Dpeecx87c7HdjTUiSE
+X-Pantheon-Phpreq: yes
+Link: <https://www.sciencefriday.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.sciencefriday.com/?p=1118>; rel=shortlink
+X-Styx-Req-Id: styx-f4dbf4961c30e33777da240020838942
+Accept-Ranges: bytes
+Via: 1.1 varnish-v4
+Connection: close
+Age: 146
+xkey: HYnaH2NeDgolVzH5JZJW V9Dpeecx87c7HdjTUiSE
+Content-Length: 17682
+X-Local-Cache: HIT
+X-Location: https://www.sciencefriday.com/explore/

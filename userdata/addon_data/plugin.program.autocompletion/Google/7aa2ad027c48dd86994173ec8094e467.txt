@@ -1,0 +1,1 @@
+["TR", ["travis scott", "trolls", "trump", "try not to laugh", "transformers", "trailer", "try guys", "trap nation", "try not to cry", "trap music"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

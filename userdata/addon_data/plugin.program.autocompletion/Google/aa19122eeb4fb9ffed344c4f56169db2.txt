@@ -1,0 +1,1 @@
+["RT", ["rt", "rtaa", "rtv", "rtj", "rt life", "rtj3", "rtk", "rta", "rt shorts", "rt podcast"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

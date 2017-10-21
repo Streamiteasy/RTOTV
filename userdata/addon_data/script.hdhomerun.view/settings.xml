@@ -1,0 +1,13 @@
+<settings>
+    <setting id="API.LEVEL" value="2" />
+    <setting id="confirm.exit" value="true" />
+    <setting id="debug" value="true" />
+    <setting id="dvr.skip.livetv" value="false" />
+    <setting id="guide.full.detail" value="false" />
+    <setting id="last.channel" value="3.1" />
+    <setting id="overlay.timeout" value="0" />
+    <setting id="show.DRM" value="false" />
+    <setting id="touch.mode" value="false" />
+    <setting id="transcode" value="0" />
+    <setting id="window.animations" value="true" />
+</settings>

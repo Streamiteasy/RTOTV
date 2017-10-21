@@ -1,0 +1,413 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Let It Burn Video by Avatar</title>
+<meta name="keywords" content="Avatar, Hard Rock" />
+<meta name="description" content="Avatar - Let It Burn..." />
+<link rel="shortcut icon" href="http://metalvideo.com/uploads/favicon.ico">
+<link href="http://metalvideo.com/templates/B52/style.css" rel="stylesheet" type="text/css" />
+<link type="application/atom+xml" rel="alternate" title="Let It Burn Video by Avatar" href="http://metalvideo.com/rss.php" />
+<script type="text/javascript">
+ var MELODYURL = "http://metalvideo.com";
+ var MELODYURL2 = "http://metalvideo.com";
+ var TemplateP = "http://metalvideo.com/templates/B52";
+</script>
+ <script type="text/javascript" src="http://metalvideo.com/js/swfobject.js"></script>
+ <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+ <script type="text/javascript" src="http://metalvideo.com/js/general.js"></script>
+ <script type="text/javascript" src="http://metalvideo.com/js/langselector.js"></script>
+ <script type="text/javascript" src="http://metalvideo.com/js/jquery.hover.js"></script>
+ <script type="text/javascript" src="http://metalvideo.com/jwplayer.js"></script>
+  
+ 
+ <script type="text/javascript">
+ jQuery(document).ready( 
+  function() {
+	catlist(); 
+  });
+
+  $(document).ready(function() {
+	  $("#pm_sources").change(function () {
+		  var str = $("select option:selected").attr('value');
+		  $("#pm_sources_ex").text(str);
+	  })
+	  .change();
+  });
+ </script>
+ 
+
+
+ <script type="text/javascript" src="http://metalvideo.com/rating.js"></script> 
+ <script type="text/javascript" src="http://metalvideo.com/js/popup.js"></script>
+ <script type="text/javascript" src="http://metalvideo.com/js/favorites.js"></script>
+ <script type="text/javascript" src="http://metalvideo.com/js/comment.js"></script>
+ <script type="text/javascript" src="http://metalvideo.com/js/ajaxtabs/ajaxtabs.js"></script>
+ <script type="text/javascript" src="http://metalvideo.com/js/lightsoff.js"></script>
+ 
+ <script type="text/javascript">
+ jQuery(document).ready(function() {
+   lightsoff();
+ });
+ </script>
+ 
+ <link rel="image_src" href="http://i.ytimg.com/vi/6djKy7CEKYg/0.jpg" />
+</head>
+<body>
+		<div id="logo_search">
+		<div id="logo">
+
+		</div>
+		  			<div id="search_form">
+				<form action="http://metalvideo.com/search.php" method="get" id="search" name="search" onsubmit="return validateSearch('true');">
+				<input name="keywords" type="text" value="" class="search_keywords" id="inputString" onkeyup="lookup(this.value);" onblur="fill();" autocomplete="off"  />  
+				<input name="btn" value="Search" type="submit" class="search_bttn" />
+				<div class="suggestionsBox" id="suggestions" style="display: none;">
+					<div class="suggestionList" id="autoSuggestionsList">
+					</div>
+				</div>
+				</form>	
+			</div>
+		  		</div>
+
+<a name="top" id="top"></a>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+	<div id="wrapper">
+		<div id="menu">
+			<div id="menu_links">
+			<ul>
+				<li><a href="http://metalvideo.com/index.html">Homepage</a></li>
+								<li><a href="http://metalvideo.com/topvideos.html">Top Videos</a></li>
+				<li><a href="http://metalvideo.com/newvideos.html">New Videos</a></li>
+				<li><a href="http://metalvideo.com/randomizer.php" rel="nofollow">Random video</a></li>
+								<li><a href="http://metalvideo.com/contact_us.html">Contact us</a></li>
+								<li><a href="http://metalvideo.com/register.html">Register</a></li>
+											</ul>
+			</div>
+						 <ul id="lang_selector">
+			   <li class="lang_selected">
+				<span>
+				 <img src="http://metalvideo.com/lang/flags/us.png" width="16" height="11" border="0" alt="English" title="English" align="absmiddle" /> 
+				 <img src="http://metalvideo.com/templates/B52/images/lang_arrow.gif" name="arrow_profile" width="9" height="7" align="absmiddle" class="arrow">
+				 </span>
+			   </li>
+			  <li>
+			  <div class="lang_submenu">
+			  			   			  			   				 <a href="#" title="Deutsch" name="2" id="lang_select_2"><img src="http://metalvideo.com/lang/flags/de.png" width="16" height="11" border="0" alt="Deutsch" title="Deutsch" /></a>
+			   			  			   				 <a href="#" title="Rom&#226;n&#259;" name="3" id="lang_select_3"><img src="http://metalvideo.com/lang/flags/ro.png" width="16" height="11" border="0" alt="Rom&#226;n&#259;" title="Rom&#226;n&#259;" /></a>
+			   			  			   				 <a href="#" title="Fran&#231;ais" name="4" id="lang_select_4"><img src="http://metalvideo.com/lang/flags/fr.png" width="16" height="11" border="0" alt="Fran&#231;ais" title="Fran&#231;ais" /></a>
+			   			  			   				 <a href="#" title="Nederlands" name="5" id="lang_select_5"><img src="http://metalvideo.com/lang/flags/nl.png" width="16" height="11" border="0" alt="Nederlands" title="Nederlands" /></a>
+			   			  			   				 <a href="#" title="Lithuanian" name="6" id="lang_select_6"><img src="http://metalvideo.com/lang/flags/lt.png" width="16" height="11" border="0" alt="Lithuanian" title="Lithuanian" /></a>
+			   			  			   				 <a href="#" title="Albanian" name="7" id="lang_select_7"><img src="http://metalvideo.com/lang/flags/al.png" width="16" height="11" border="0" alt="Albanian" title="Albanian" /></a>
+			   			  			   				 <a href="#" title="Arabic" name="8" id="lang_select_8"><img src="http://metalvideo.com/lang/flags/sa.png" width="16" height="11" border="0" alt="Arabic" title="Arabic" /></a>
+			   			  			   				 <a href="#" title="Bulgarian" name="9" id="lang_select_9"><img src="http://metalvideo.com/lang/flags/bg.png" width="16" height="11" border="0" alt="Bulgarian" title="Bulgarian" /></a>
+			   			  			   				 <a href="#" title="Danish" name="10" id="lang_select_10"><img src="http://metalvideo.com/lang/flags/dk.png" width="16" height="11" border="0" alt="Danish" title="Danish" /></a>
+			   			  			   				 <a href="#" title="Italian" name="11" id="lang_select_11"><img src="http://metalvideo.com/lang/flags/it.png" width="16" height="11" border="0" alt="Italian" title="Italian" /></a>
+			   			  			   				 <a href="#" title="Portuguese" name="12" id="lang_select_12"><img src="http://metalvideo.com/lang/flags/pt.png" width="16" height="11" border="0" alt="Portuguese" title="Portuguese" /></a>
+			   			  			   				 <a href="#" title="Russian" name="13" id="lang_select_13"><img src="http://metalvideo.com/lang/flags/ru.png" width="16" height="11" border="0" alt="Russian" title="Russian" /></a>
+			   			  			   				 <a href="#" title="Serbian" name="14" id="lang_select_14"><img src="http://metalvideo.com/lang/flags/sr.png" width="16" height="11" border="0" alt="Serbian" title="Serbian" /></a>
+			   			  			   				 <a href="#" title="Swedish" name="15" id="lang_select_15"><img src="http://metalvideo.com/lang/flags/se.png" width="16" height="11" border="0" alt="Swedish" title="Swedish" /></a>
+			   			  			   				 <a href="#" title="Spanish" name="17" id="lang_select_17"><img src="http://metalvideo.com/lang/flags/es.png" width="16" height="11" border="0" alt="Spanish" title="Spanish" /></a>
+			   			  			   				 <a href="#" title="T&uuml;rk&ccedil;e" name="16" id="lang_select_16"><img src="http://metalvideo.com/lang/flags/tr.png" width="16" height="11" border="0" alt="T&uuml;rk&ccedil;e" title="T&uuml;rk&ccedil;e" /></a>
+			   			  			   				 <a href="#" title="Georgian" name="18" id="lang_select_18"><img src="http://metalvideo.com/lang/flags/ge.png" width="16" height="11" border="0" alt="Georgian" title="Georgian" /></a>
+			   			  			   				 <a href="#" title="Croatian" name="19" id="lang_select_19"><img src="http://metalvideo.com/lang/flags/hr.png" width="16" height="11" border="0" alt="Croatian" title="Croatian" /></a>
+			   			  			   				 <a href="#" title="Brazilian" name="20" id="lang_select_20"><img src="http://metalvideo.com/lang/flags/pt-br.png" width="16" height="11" border="0" alt="Brazilian" title="Brazilian" /></a>
+			   			  			   				 <a href="#" title="Slovak" name="21" id="lang_select_21"><img src="http://metalvideo.com/lang/flags/sk.png" width="16" height="11" border="0" alt="Slovak" title="Slovak" /></a>
+			   			  			   				 <a href="#" title="Polish" name="22" id="lang_select_22"><img src="http://metalvideo.com/lang/flags/pl.png" width="16" height="11" border="0" alt="Polish" title="Polish" /></a>
+			   			  			  </div>
+			  </li>
+			 </ul>
+					</div>
+
+					<div align="center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Top Ad Unit -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-6339100196819244"
+     data-ad-slot="4942731354"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		 
+<br />
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="2" align="left" valign="top">
+
+	</td>
+  </tr>
+  <tr>
+    <td align="left" valign="top">
+	<div id="detail_page">
+		<table width="100%" border="0" cellspacing="2" cellpadding="2">
+		  <tr>
+			<td valign="top">
+				<h2 class="h2_song">Let It Burn</h2>
+				<h2 class="h2_artist">Avatar</h2>
+			</td>
+			<td width="100px" valign="top">
+
+			</td>
+		  </tr>
+		</table>
+				<div align="center">
+		  
+			<div id="Playerholder">
+			<noscript>
+			You need to have the <a href="http://www.macromedia.com/go/getflashplayer">Flash Player</a> installed and
+			a browser with JavaScript support.
+			</noscript>
+			<object width="566" height="456">   <param name="movie" value="http://www.youtube.com/v/6djKy7CEKYg&hl=en&fs=1&hd=1&rel=0&autoplay=0&color2=0x253133&showsearch=0&showinfo=0&iv_load_policy=3"></param>   <param name="allowFullScreen" value="true"></param>   <param name="allowscriptaccess" value="always"></param>   <param name="wmode" value="window"></param>   <embed src="http://www.youtube.com/v/6djKy7CEKYg&hl=en&fs=1&hd=1&rel=0&autoplay=0&color2=0x253133&showsearch=0&showinfo=0&iv_load_policy=3" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="window" width="566" height="456"></embed>  </object>
+		</div>
+         
+
+
+
+		</div>
+				
+		<div id="controlers">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+		  <tr>
+		    <td align="left">
+			<div id="lightsoff"><a href="#" ><img src="http://metalvideo.com/templates/B52/images/s_ico_lights.gif" align="absmiddle" height="31" width="109" alt="Lights off" border="0" /></a></div>
+			<a href="javascript:reportPopup('1', 'fa8b661ef')"><img src="http://metalvideo.com/templates/B52/images/s_ico_report.gif" align="absmiddle" height="31" width="118" alt="" border="0" style="float: left;" /></a>
+			<a href="javascript:sharePopup('fa8b661ef')"><img src="http://metalvideo.com/templates/B52/images/s_ico_email.gif" align="absmiddle" height="31" width="109" alt="" border="0" style="float: left;" /></a>		
+						</td>
+		</tr>
+		</table>
+		</div>
+		<table width="100%" border="0" cellspacing="0" cellpadding="3">
+				<tr>
+			<td colspan="2">
+				<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fmetalvideo.com%2Favatar%2Flet-it-burn-video_fa8b661ef.html&amp;layout=standard&amp;show_faces=false&amp;width=400&amp;action=like&amp;colorscheme=dark&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:400px; height:35px;" allowTransparency="true"></iframe>
+			</td>
+		</tr>
+								<tr>
+		    <td colspan="2" align="left">
+			<h3>Description</h3>
+			Avatar - Let It Burn			</td>
+		</tr>
+						<tr>
+		    <td colspan="2" align="left">
+			<h3>Tags</h3>
+			<div id="tags">
+			<a href="http://metalvideo.com/tags/avatar/">Avatar</a>, <a href="http://metalvideo.com/tags/hard-rock/">Hard Rock</a>	</div>			</td>
+		</tr>
+				
+		</table>
+	</div>	
+	<br />
+		<div align="center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Under Player Ad Space -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-6339100196819244"
+     data-ad-slot="9950163715"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+	<br />
+		<a name="comments" id="comments"></a>
+		<div id="detail_page_comments">
+					<h3>Post your comment</h3>
+			<span class="mycommentspan" name="mycommentspan" id="mycommentspan"></span>
+			<form action="" name="myform" method="post" id="myform">
+			 Your name:<br />
+			<input type="text" id="c_username" name="username" value="" class="inputtext" /><br /><br />
+			Your comment:<br />
+			<textarea id="c_comment_txt" name="comment_txt" style="width:470px" rows="5" onkeyup="textLimit(this, 400);"></textarea><br /><br />
+			Confirm:<br />
+			<img src="http://metalvideo.com/include/securimage_show.php?sid=b7a00cfbe195add61f58196da762b1f8" id="image" align="absmiddle" />
+			<a href="#" onclick="document.getElementById('image').src = 'http://metalvideo.com/include/securimage_show.php?sid=' + Math.random(); return false"><img src="http://metalvideo.com/templates/B52/images/reload.gif" border="0" align="absmiddle" /></a>
+			<br />
+     		<input class="inputtext" name="captcha" type="text" id="captcha" size="15" maxlength="15" />
+
+			<input type="hidden" id="c_vid" name="vid" value="fa8b661ef" />
+			<input type="hidden" id="c_user_id" name="user_id" value="0" />
+			<br />
+			<input type="submit" id="c_submit" name="Submit" value="Submit comment" class="inputbutton" />
+			<br /><span class="small-warning">* Please keep your comments clean. Max 400 chars.</span>
+			</form>
+				<br />
+		<h3>Comments</h3>
+		<br />
+			<div class="comment_box">
+							<ol>
+				<li id="preview_comment">
+				</li>
+				</ol>
+				Be the first to comment
+									</div>
+		</div>
+	</td>
+    <td width="305" valign="top">
+	<div id="h3"><span><b>Video Details</b></span></div>
+	<div id="detail_page_vid_info">
+		<strong>Artist</strong>: <a href="#" id="href_artist_name">Avatar</a><br />
+		<strong>Video title</strong>: Let It Burn<br />
+		<strong>Category</strong>: <a href="http://metalvideo.com/browse-hard_rock-videos-1-date.html">Hard Rock</a> <br />
+		<strong>Views</strong>: 6,145<br />
+		<strong>Submitted by</strong>: <a href="http://metalvideo.com/profile.html?u=metalvideo">metalvideo</a><br />
+	</div>
+	<br />
+	<div id="h3"><span><b>Rating</b></span></div>
+	<div id="detail_page_vid_info">
+					<div id="unit_longfa8b661ef">
+				<ul class="unit-rating">
+				<li class='current-rating' style="width:94.6px;">
+				Currently 4.73/5				</li>
+											<li><a href="#" title="" class="r1-unit" onclick="javascript:sndReq('1','fa8b661ef','66.85.205.199', 'http://metalvideo.com')">1</a></li>
+										<li><a href="#" title="" class="r2-unit" onclick="javascript:sndReq('2','fa8b661ef','66.85.205.199', 'http://metalvideo.com')">2</a></li>
+										<li><a href="#" title="" class="r3-unit" onclick="javascript:sndReq('3','fa8b661ef','66.85.205.199', 'http://metalvideo.com')">3</a></li>
+										<li><a href="#" title="" class="r4-unit" onclick="javascript:sndReq('4','fa8b661ef','66.85.205.199', 'http://metalvideo.com')">4</a></li>
+										<li><a href="#" title="" class="r5-unit" onclick="javascript:sndReq('5','fa8b661ef','66.85.205.199', 'http://metalvideo.com')">5</a></li>
+								</ul>
+	<span style="font-size: 9px;">
+	Rating: <strong>4.7</strong> out of 11 votes	</span> 
+				</div>
+	</div>
+	<br />
+		<ul id="show_related" class="shadetabs">
+			<li class="selected" id="tabs_select_related"><a href="#" class="fa8b661ef">Related</a></li>
+			<li id="tabs_select_sameartist"><a href="#" class="fa8b661ef">Same Artist</a></li>
+			<li id="tabs_select_other"><a href="#" class="fa8b661ef">Best in category</a></li>
+		</ul>
+		<div id="detail_show_more">
+			<div id="ajaxcontentarea" class="contentstyle">
+				
+				<div id="tabs_related" class="tabcontent">
+				
+			<div class="item">
+			<a href="http://metalvideo.com/kamikaze-kings/boys-n-men-video_9f98f0a1e.html"><img src="http://i.ytimg.com/vi/nFYhCTZrGME/0.jpg" alt="Boys 'n' Men" class="imag" width="116" height="87" /></a>
+			<span class="artist_name">Kamikaze Kings</span>
+			<a href="http://metalvideo.com/kamikaze-kings/boys-n-men-video_9f98f0a1e.html" class="song_name">Boys 'n' Men</a>
+			</div>
+			<div class="item">
+			<a href="http://metalvideo.com/jarcrew/paris-the-new-math-video_1b8725288.html"><img src="http://www.metalvideo.com/uploads/thumbs/jarcrew_paris_new_math_thumb.jpg" alt="Paris & The New Math" class="imag" width="116" height="87" /></a>
+			<span class="artist_name">Jarcrew</span>
+			<a href="http://metalvideo.com/jarcrew/paris-the-new-math-video_1b8725288.html" class="song_name">Paris & The New Math</a>
+			</div>
+			<div class="item">
+			<a href="http://metalvideo.com/vega/white-knuckle-ride-video_60888c385.html"><img src="http://i1.ytimg.com/vi/hpsqVzqEH58/0.jpg" alt="White Knuckle Ride" class="imag" width="116" height="87" /></a>
+			<span class="artist_name">Vega</span>
+			<a href="http://metalvideo.com/vega/white-knuckle-ride-video_60888c385.html" class="song_name">White Knuckle Ride</a>
+			</div>
+			<div class="item">
+			<a href="http://metalvideo.com/gold/one-of-us-video_57e396b44.html"><img src="http://i.ytimg.com/vi/F0DaujVi1Dw/0.jpg" alt="One Of Us" class="imag" width="116" height="87" /></a>
+			<span class="artist_name">Gold</span>
+			<a href="http://metalvideo.com/gold/one-of-us-video_57e396b44.html" class="song_name">One Of Us</a>
+			</div>
+			<div class="item">
+			<a href="http://metalvideo.com/neverstar/lose-control-video_ca56bfcb6.html"><img src="http://i.ytimg.com/vi/T2cXyJeimQg/0.jpg" alt="Lose Control" class="imag" width="116" height="87" /></a>
+			<span class="artist_name">Neverstar</span>
+			<a href="http://metalvideo.com/neverstar/lose-control-video_ca56bfcb6.html" class="song_name">Lose Control</a>
+			</div>
+			<div class="item">
+			<a href="http://metalvideo.com/guns-n-roses/november-rain-video_66f2ce0d6.html"><img src="http://www.metalvideo.com/uploads/thumbs/gnr_november_rain_thumb.jpg" alt="November Rain" class="imag" width="116" height="87" /></a>
+			<span class="artist_name">Guns N Roses</span>
+			<a href="http://metalvideo.com/guns-n-roses/november-rain-video_66f2ce0d6.html" class="song_name">November Rain</a>
+			</div>
+			<div class="item">
+			<a href="http://metalvideo.com/van-halen/shes-the-woman-video_413b2bfbf.html"><img src="http://i.ytimg.com/vi/Tj3ul98CnRg/0.jpg" alt="She's The Woman" class="imag" width="116" height="87" /></a>
+			<span class="artist_name">Van Halen</span>
+			<a href="http://metalvideo.com/van-halen/shes-the-woman-video_413b2bfbf.html" class="song_name">She's The Woman</a>
+			</div>
+			<div class="item">
+			<a href="http://metalvideo.com/one-way-mirror/warnings-video_41d02a82f.html"><img src="http://i.ytimg.com/vi/EcydiAkPWDE/mqdefault.jpg" alt="Warnings" class="imag" width="116" height="87" /></a>
+			<span class="artist_name">One-Way Mirror</span>
+			<a href="http://metalvideo.com/one-way-mirror/warnings-video_41d02a82f.html" class="song_name">Warnings</a>
+			</div>
+			<div class="item">
+			<a href="http://metalvideo.com/monster-magnet/mindless-ones-video_d00fecfaa.html"><img src="http://i1.ytimg.com/vi/YkVOko8xVb8/0.jpg" alt="Mindless Ones" class="imag" width="116" height="87" /></a>
+			<span class="artist_name">Monster Magnet</span>
+			<a href="http://metalvideo.com/monster-magnet/mindless-ones-video_d00fecfaa.html" class="song_name">Mindless Ones</a>
+			</div>
+			<div class="item">
+			<a href="http://metalvideo.com/seasons-after/lights-out-video_8ff90011f.html"><img src="http://i.ytimg.com/vi/4d0nXReTd9M/mqdefault.jpg" alt="Lights Out" class="imag" width="116" height="87" /></a>
+			<span class="artist_name">Seasons After</span>
+			<a href="http://metalvideo.com/seasons-after/lights-out-video_8ff90011f.html" class="song_name">Lights Out</a>
+			</div>
+				</div>
+				
+				<div id="tabs_sameartist" class="tabcontent">
+				
+				</div>
+				
+				<div id="tabs_other" class="tabcontent">
+				
+				</div>
+				
+			</div>
+		</div>
+	<br />
+	<div id="h3"><span><b>Share</b></span></div>
+	<div id="detail_page_video_links">
+	<span class="small_title">URL <input name="video_link" id="video_link" type="text" class="inputtextsmall" value="http://metalvideo.com/avatar/let-it-burn-video_fa8b661ef.html" size="50" onClick="SelectAll('video_link');" /> <a href="javascript:addmyspacePopup('fa8b661ef')">[Embed]</a></span>
+	</div>	
+	<br />
+	<div id="h3"><span><b>Bookmark</b></span></div>
+	<div id="detail_page_share_link">
+BOOKMARK VIDEO:
+<ul>
+<li class="twitter"><a href="http://twitter.com/home/?status=Let+It+Burn+Video+by+Avatar+http%3A%2F%2Fmetalvideo.com%2Favatar%2Flet-it-burn-video_fa8b661ef.html" title="Tweet this" target="_blank">&nbsp;</a></li>
+<li class="digg"><a href="http://digg.com/submit?phase=2&url=http://metalvideo.com/avatar/let-it-burn-video_fa8b661ef.html&title=Let It Burn - Avatar" target="_blank">&nbsp;</a></li>
+<li class="reddit"><a href="http://en.reddit.com/submit?url=http://metalvideo.com/avatar/let-it-burn-video_fa8b661ef.html&title=Let It Burn - Avatar" target="_blank">&nbsp;</a></li>
+<li class="furl"><a href="http://furl.net/storeIt.jsp?u=http://metalvideo.com/avatar/let-it-burn-video_fa8b661ef.html&t=Let It Burn - Avatar" target="_blank">&nbsp;</a></li>
+<li class="google"><a href="http://www.google.com/bookmarks/mark?op=edit&bkmk=http://metalvideo.com/avatar/let-it-burn-video_fa8b661ef.html&title=Let It Burn - Avatar" target="_blank">&nbsp;</a></li>
+<li class="technorati"><a href="http://www.technorati.com/faves?add=http://metalvideo.com/avatar/let-it-burn-video_fa8b661ef.html" target="_blank">&nbsp;</a></li>
+<li class="live"><a href="https://favorites.live.com/quickadd.aspx?marklet=1&mkt=en-us&url=http://metalvideo.com/avatar/let-it-burn-video_fa8b661ef.html&title=Let It Burn - Avatar&top=1" target="_blank">&nbsp;</a></li>
+<li class="yahoo"><a href="http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http://metalvideo.com/avatar/let-it-burn-video_fa8b661ef.html&t=Let It Burn - Avatar" target="_blank">&nbsp;</a></li>
+<li class="stumbleupon"><a href="http://www.stumbleupon.com/submit?url=http://metalvideo.com/avatar/let-it-burn-video_fa8b661ef.html&title=Let It Burn - Avatar" target="_blank">&nbsp;</a></li>
+<li class="delicious"><a href="http://del.icio.us/post?url=http://metalvideo.com/avatar/let-it-burn-video_fa8b661ef.html&title=Let It Burn - Avatar" target="_blank">&nbsp;</a></li>
+<li class="facebook"><a href="http://www.facebook.com/share.php?u=http://metalvideo.com/avatar/let-it-burn-video_fa8b661ef.html&title=Let It Burn - Avatar" target="_blank">&nbsp;</a></li>
+</ul>
+</div>	</td>
+  </tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+
+	<div id="footer">
+	<div align="center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Bottom of page -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-6339100196819244"
+     data-ad-slot="7021566956"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+    <!--
+	Removing the PHPSugar.com copyright link is against our terms of agreement.
+	Removing the link without our permission affects your license and as a result you won't 
+	benefit from the free support and the upgrades we provide.
+
+	To ask for permission, please visit the following URL where you can contact the PHPSugar Team.
+
+	http://www.phpsugar.com/customer_care.html
+
+	* Please include your URL when making the request.
+//-->
+
+	
+<div align="center">	
+<a href="http://metalvideo.com/index.html">Homepage</a> | <a href="http://metalvideo.com/contact_us.html">Contact us</a> | <a href="http://metalvideo.com/register.html">Register</a> |   <a href="#top">Go Up</a><br />
+	&copy; 2017 Metal Video. All rights reserved
+</div>
+	
+	</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1055870-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>

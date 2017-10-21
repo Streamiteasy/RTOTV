@@ -1,0 +1,1 @@
+["Weather", ["weather", "weather channel", "weather song", "weather live", "weatherman", "weather report", "weather forecast", "weather machine", "weather control", "weather girl"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

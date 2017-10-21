@@ -1,0 +1,1 @@
+["Premiu", ["premium", "premium rush", "premiumbeat", "premium collection", "premium gas", "premium prices", "premium rush trailer", "premium pete", "premium account of vidiq", "premium ale"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

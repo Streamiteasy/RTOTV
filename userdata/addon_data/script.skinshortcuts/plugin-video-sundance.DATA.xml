@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Movies</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cJamisons-PC%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.crackler%5cicon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.crackler/?mode=movies_folder&amp;foldername=Movies",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR blue]All movies[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cJamisons-PC%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.popcornflix%5cicon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.popcornflix/?mode=GM&amp;url=%2Fall-movies",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.classiccinema</defaultID>
+		<label>Classic Cinema</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cJamisons-PC%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.classiccinema%5cicon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.classiccinema",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.trailer.addict</defaultID>
+		<label>Trailer Addict</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cJamisons-PC%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.trailer.addict%5cicon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.trailer.addict",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.hdtrailers_net</defaultID>
+		<label>HD-Trailers.net</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cJamisons-PC%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.hdtrailers_net%5cicon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.hdtrailers_net",return)</action>
+	</shortcut>
+</shortcuts>

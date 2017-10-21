@@ -1,0 +1,30 @@
+<settings>
+    <setting id="Subends" value="" />
+    <setting id="accountstatus" value="not registered" />
+    <setting id="activationsleft" value="" />
+    <setting id="autoupdate" value="true" />
+    <setting id="backupdest" value="C:\Users\Jamisons-PC\Desktop\" />
+    <setting id="backupfile" value="" />
+    <setting id="buildcanupdate" value="" />
+    <setting id="buildinstalledversion" value="" />
+    <setting id="buildlatestversion" value="" />
+    <setting id="buildname" value="" />
+    <setting id="buildupdatefreq" value="1" />
+    <setting id="checkbuildupdate" value="true" />
+    <setting id="customfolder" value="special://home" />
+    <setting id="deviceid" value="" />
+    <setting id="firstrun" value="true" />
+    <setting id="forceoffline" value="false" />
+    <setting id="keepfavourites" value="false" />
+    <setting id="keepsources" value="false" />
+    <setting id="lastbuildcheck" value="" />
+    <setting id="lastclearedcache" value="Never" />
+    <setting id="lastclearedpackages" value="Never" />
+    <setting id="lastclearedthumbnails" value="Never" />
+    <setting id="runonce" value="1" />
+    <setting id="showadult" value="false" />
+    <setting id="totalspacegained" value="0" />
+    <setting id="totaltempfiles" value="0" />
+    <setting id="username" value="" />
+    <setting id="versionoverride" value="" />
+</settings>

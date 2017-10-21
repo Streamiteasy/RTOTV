@@ -1,0 +1,1 @@
+["jamisons", ["jamison's family", "jamison's ale house"], [], {"google:suggesttype": ["QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["HDHomeRu", ["hdhomerun", "hdhomerun plex", "hdhomerun prime plex", "hdhomerun roku", "hdhomerun connect setup", "hdhomerun dvr", "hdhomerun review", "hdhomerun app", "hdhomerun connect plex", "hdhomerun prime cablecard setup"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

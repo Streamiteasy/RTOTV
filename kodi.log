@@ -1,0 +1,297 @@
+﻿19:05:10.767 T:5660  NOTICE: special://profile/ is mapped to: special://masterprofile/
+19:05:10.768 T:5660  NOTICE: -----------------------------------------------------------------------
+19:05:10.768 T:5660  NOTICE: Starting Kodi (17.4 Git:20170822-7fc6da0). Platform: Windows NT x86 32-bit
+19:05:10.768 T:5660  NOTICE: Using Release Kodi x32 build
+19:05:10.768 T:5660  NOTICE: Kodi compiled Aug 22 2017 by MSVC 190024215 for Windows NT x86 32-bit version 10.0 (0x0A000000)
+19:05:10.768 T:5660  NOTICE: Running on Hewlett-Packard HP Pavilion dv7 Notebook PC with Windows 7 SP1, kernel: Windows NT x86 64-bit version 6.1
+19:05:10.830 T:5660  NOTICE: FFmpeg version/source: ffmpeg-3.1-kodi
+19:05:10.830 T:5660  NOTICE: Host CPU: Unknown, 4 cores available
+19:05:10.830 T:5660  NOTICE: Desktop Resolution: 1600x900 32Bit at 60Hz
+19:05:10.830 T:5660  NOTICE: Running with restricted rights
+19:05:10.830 T:5660  NOTICE: Aero is enabled
+19:05:10.830 T:5660  NOTICE: special://xbmc/ is mapped to: C:\Program Files (x86)\Kodi
+19:05:10.830 T:5660  NOTICE: special://xbmcbin/ is mapped to: C:\Program Files (x86)\Kodi
+19:05:10.830 T:5660  NOTICE: special://xbmcbinaddons/ is mapped to: C:\Program Files (x86)\Kodi/addons
+19:05:10.830 T:5660  NOTICE: special://masterprofile/ is mapped to: C:\Users\Jamisons-PC\AppData\Roaming\Kodi\userdata
+19:05:10.830 T:5660  NOTICE: special://home/ is mapped to: C:\Users\Jamisons-PC\AppData\Roaming\Kodi\
+19:05:10.830 T:5660  NOTICE: special://temp/ is mapped to: C:\Users\Jamisons-PC\AppData\Roaming\Kodi\cache
+19:05:10.830 T:5660  NOTICE: special://logpath/ is mapped to: C:\Users\Jamisons-PC\AppData\Roaming\Kodi\
+19:05:10.830 T:5660  NOTICE: The executable running is: C:\Program Files (x86)\Kodi\kodi.exe
+19:05:10.841 T:5660  NOTICE: Local hostname: Jamisons-PC-PC
+19:05:10.841 T:5660  NOTICE: Log File is located: C:\Users\Jamisons-PC\AppData\Roaming\Kodi\/kodi.log
+19:05:10.842 T:5660  NOTICE: -----------------------------------------------------------------------
+19:05:11.449 T:5660  NOTICE: load settings...
+19:05:11.487 T:5660 WARNING: CSettingString: unknown options filler "timezonecountries" of "locale.timezonecountry"
+19:05:11.487 T:5660 WARNING: CSettingString: unknown options filler "timezones" of "locale.timezone"
+19:05:11.520 T:5660  NOTICE: No settings file to load (special://xbmc/system/advancedsettings.xml)
+19:05:11.520 T:5660  NOTICE: No settings file to load (special://masterprofile/advancedsettings.xml)
+19:05:11.520 T:5660  NOTICE: Default Video Player: VideoPlayer
+19:05:11.520 T:5660  NOTICE: Default Audio Player: paplayer
+19:05:11.520 T:5660  NOTICE: Disabled debug logging due to GUI setting. Level 0.
+19:05:11.521 T:5660  NOTICE: Log level changed to "LOG_LEVEL_NORMAL"
+19:05:11.522 T:5660  NOTICE: CMediaSourceSettings: loading media sources from special://masterprofile/sources.xml
+19:05:11.528 T:5660  NOTICE: Loading player core factory settings from special://xbmc/system/playercorefactory.xml.
+19:05:11.537 T:5660  NOTICE: Loaded playercorefactory configuration
+19:05:11.537 T:5660  NOTICE: Loading player core factory settings from special://masterprofile/playercorefactory.xml.
+19:05:11.538 T:5660  NOTICE: special://masterprofile/playercorefactory.xml does not exist. Skipping.
+19:05:11.643 T:5660  NOTICE: Running database version Addons27
+19:05:14.083 T:5660  NOTICE: ADDONS: Using repository repository.xbmc.org
+19:05:14.083 T:5660  NOTICE: ADDONS: Using repository repository.aresproject
+19:05:14.265 T:4340  NOTICE: Found 2 Lists of Devices
+19:05:14.265 T:4340  NOTICE: Enumerated DIRECTSOUND devices:
+19:05:14.265 T:4340  NOTICE:     Device 1
+19:05:14.265 T:4340  NOTICE:         m_deviceName      : {C5F69B8E-7FAF-4DB8-A952-17AB64CD66AE}
+19:05:14.265 T:4340  NOTICE:         m_displayName     : Speakers - Speakers and Headphones (IDT High Definition Audio CODEC)
+19:05:14.265 T:4340  NOTICE:         m_displayNameExtra: DIRECTSOUND: Speakers and Headphones (IDT High Definition Audio CODEC)
+19:05:14.265 T:4340  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+19:05:14.266 T:4340  NOTICE:         m_channels        : FL,FR
+19:05:14.266 T:4340  NOTICE:         m_sampleRates     : 48000
+19:05:14.266 T:4340  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
+19:05:14.266 T:4340  NOTICE:         m_streamTypes     : No passthrough capabilities
+19:05:14.266 T:4340  NOTICE:     Device 2
+19:05:14.266 T:4340  NOTICE:         m_deviceName      : default
+19:05:14.266 T:4340  NOTICE:         m_displayName     : default
+19:05:14.266 T:4340  NOTICE:         m_displayNameExtra:
+19:05:14.266 T:4340  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+19:05:14.266 T:4340  NOTICE:         m_channels        : FL,FR
+19:05:14.266 T:4340  NOTICE:         m_sampleRates     : 48000
+19:05:14.266 T:4340  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
+19:05:14.266 T:4340  NOTICE:         m_streamTypes     : No passthrough capabilities
+19:05:14.266 T:4340  NOTICE:     Device 3
+19:05:14.266 T:4340  NOTICE:         m_deviceName      : {C88FE34E-5455-4B5B-AE56-06148D187972}
+19:05:14.266 T:4340  NOTICE:         m_displayName     : Headphones - Communications Headphones (IDT High Definition Audio CODEC)
+19:05:14.266 T:4340  NOTICE:         m_displayNameExtra: DIRECTSOUND: Communications Headphones (IDT High Definition Audio CODEC)
+19:05:14.266 T:4340  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+19:05:14.266 T:4340  NOTICE:         m_channels        : FL,FR
+19:05:14.266 T:4340  NOTICE:         m_sampleRates     : 48000
+19:05:14.266 T:4340  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
+19:05:14.266 T:4340  NOTICE:         m_streamTypes     : No passthrough capabilities
+19:05:14.266 T:4340  NOTICE: Enumerated WASAPI devices:
+19:05:14.266 T:4340  NOTICE:     Device 1
+19:05:14.266 T:4340  NOTICE:         m_deviceName      : {C5F69B8E-7FAF-4DB8-A952-17AB64CD66AE}
+19:05:14.266 T:4340  NOTICE:         m_displayName     : Speakers - Speakers and Headphones (IDT High Definition Audio CODEC)
+19:05:14.266 T:4340  NOTICE:         m_displayNameExtra: WASAPI: Speakers and Headphones (IDT High Definition Audio CODEC)
+19:05:14.267 T:4340  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+19:05:14.267 T:4340  NOTICE:         m_channels        : FL,FR
+19:05:14.267 T:4340  NOTICE:         m_sampleRates     : 192000,96000,88200,48000,44100
+19:05:14.267 T:4340  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE
+19:05:14.267 T:4340  NOTICE:         m_streamTypes     : No passthrough capabilities
+19:05:14.267 T:4340  NOTICE:     Device 2
+19:05:14.267 T:4340  NOTICE:         m_deviceName      : default
+19:05:14.267 T:4340  NOTICE:         m_displayName     : default
+19:05:14.267 T:4340  NOTICE:         m_displayNameExtra:
+19:05:14.267 T:4340  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+19:05:14.267 T:4340  NOTICE:         m_channels        : FL,FR
+19:05:14.267 T:4340  NOTICE:         m_sampleRates     : 192000,96000,88200,48000,44100
+19:05:14.267 T:4340  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE
+19:05:14.267 T:4340  NOTICE:         m_streamTypes     : No passthrough capabilities
+19:05:14.267 T:4340  NOTICE:     Device 3
+19:05:14.267 T:4340  NOTICE:         m_deviceName      : {C88FE34E-5455-4B5B-AE56-06148D187972}
+19:05:14.267 T:4340  NOTICE:         m_displayName     : Headphones - Communications Headphones (IDT High Definition Audio CODEC)
+19:05:14.267 T:4340  NOTICE:         m_displayNameExtra: WASAPI: Communications Headphones (IDT High Definition Audio CODEC)
+19:05:14.267 T:4340  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+19:05:14.267 T:4340  NOTICE:         m_channels        : FL,FR
+19:05:14.267 T:4340  NOTICE:         m_sampleRates     : 192000,96000,88200,48000,44100
+19:05:14.267 T:4340  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE
+19:05:14.267 T:4340  NOTICE:         m_streamTypes     : No passthrough capabilities
+19:05:14.539 T:5660  NOTICE: Found screen: Generic PnP Monitor on Intel(R) HD Graphics Family, adapter 0.
+19:05:14.540 T:5660  NOTICE: Primary mode: 1600x900@ 60.00 - Full Screen
+19:05:14.543 T:5660  NOTICE: Additional mode: 320x200@ 60.00 - Full Screen
+19:05:14.546 T:5660  NOTICE: Previous line repeats 2 times.
+19:05:14.546 T:5660  NOTICE: Additional mode: 512x384@ 60.00 - Full Screen
+19:05:14.549 T:5660  NOTICE: Previous line repeats 2 times.
+19:05:14.549 T:5660  NOTICE: Additional mode: 640x400@ 60.00 - Full Screen
+19:05:14.551 T:5660  NOTICE: Previous line repeats 2 times.
+19:05:14.551 T:5660  NOTICE: Additional mode: 640x480@ 60.00 - Full Screen
+19:05:14.554 T:5660  NOTICE: Previous line repeats 2 times.
+19:05:14.554 T:5660  NOTICE: Additional mode: 800x600@ 60.00 - Full Screen
+19:05:14.556 T:5660  NOTICE: Previous line repeats 2 times.
+19:05:14.556 T:5660  NOTICE: Additional mode: 1024x768@ 60.00 - Full Screen
+19:05:14.559 T:5660  NOTICE: Previous line repeats 2 times.
+19:05:14.559 T:5660  NOTICE: Additional mode: 1152x864@ 60.00 - Full Screen
+19:05:14.561 T:5660  NOTICE: Previous line repeats 2 times.
+19:05:14.561 T:5660  NOTICE: Additional mode: 1360x768@ 60.00 - Full Screen
+19:05:14.564 T:5660  NOTICE: Previous line repeats 2 times.
+19:05:14.564 T:5660  NOTICE: Additional mode: 1366x768@ 60.00 - Full Screen
+19:05:14.565 T:5660  NOTICE: Previous line repeats 2 times.
+19:05:14.565 T:5660  NOTICE: Additional mode: 1600x900@ 60.00 - Full Screen
+19:05:14.565 T:5660  NOTICE: Checking resolution 15
+19:05:20.581 T:5660   ERROR: C:\Users\Jamisons-PC\AppData\Roaming\Kodi\addons\plugin.video.wsj\resources\language\English\strings.xml Doesn't contain <strings>
+19:05:21.111 T:5660   ERROR: AddOnLog: Joystick Support: Failed to load XInput DLL
+19:05:21.111 T:5660   ERROR: AddOnLog: Joystick Support: Failed to initialize interface xinput
+19:05:21.369 T:1612  NOTICE: Running database version Addons27
+19:05:21.375 T:1612  NOTICE: Running database version ViewModes6
+19:05:21.380 T:1612  NOTICE: Running database version Textures13
+19:05:21.385 T:1612  NOTICE: Running database version MyMusic60
+19:05:21.394 T:1612  NOTICE: Running database version MyVideos107
+19:05:21.411 T:1612  NOTICE: Running database version TV29
+19:05:21.415 T:1612  NOTICE: Running database version Epg11
+19:05:22.748 T:5660   ERROR: Window Translator: Can't find window infodialog
+19:05:22.842 T:5660 WARNING: JSONRPC: Could not parse type "Setting.Details.SettingList"
+19:05:22.961 T:5660 WARNING: CApplication::Initialize - startup.xml taints init process
+19:05:23.070 T:5660  NOTICE: initialize done
+19:05:23.070 T:5660  NOTICE: Running the application...
+19:05:23.126 T:5660  NOTICE: starting upnp client
+19:05:23.192 T:1612  NOTICE: AddOnLog: PVR HDHomeRun Client: ADDON_Create - Creating the PVR HDHomeRun add-on
+19:05:23.207 T:4024  NOTICE: ES: Starting UDP Event server on port 9777
+19:05:23.207 T:4024  NOTICE: UDP: Listening on port 9777 (ipv6 : false)
+19:05:29.710 T:2172  NOTICE: Skin Helper Backgrounds --> BackgroundsUpdater - started
+19:05:29.824 T:1588  NOTICE: EPG::CEpgContainer::Start - EPG thread started
+19:05:30.850 T:5468  NOTICE: script.tv.show.next.aired: ### TV Show - Next Aired starting background proc (6.0.15)
+19:05:31.274 T:5468  NOTICE: script.tv.show.next.aired: ### no prior data found
+19:05:32.419 T:3488  NOTICE: [plugin.video.youtube] Startup: detected Krypton (Kodi-17.4), setting DASH_SUPPORT_BUILTIN = False, DASH_SUPPORT_ADDON = True
+19:05:32.628 T:5684  NOTICE: Skin Helper Widgets --> Backgroundservice started
+19:05:32.802 T:1344  NOTICE: Skin Helper Service --> WebService - start helper webservice on port 52307
+19:05:32.803 T:5356  NOTICE: Skin Helper Service --> Skin Helper Service version 1.1.3 started
+19:05:33.275 T:5468  NOTICE: script.tv.show.next.aired: ### starting data update
+19:05:33.275 T:5468  NOTICE: script.tv.show.next.aired: ### grabbing a new country mapping list
+19:05:44.527 T:1500 WARNING: Attempt to use invalid handle -1
+19:05:44.528 T:1500 WARNING: Previous line repeats 2 times.
+19:05:44.528 T:1500  NOTICE: Ares Wizard: ---- A R E S  W I Z A R D  L A U N C H ---
+19:05:44.528 T:1500  NOTICE: Ares Wizard:
+19:05:44.528 T:1500  NOTICE: Ares Wizard: @ares: wizard version = 0.0.66
+19:05:44.528 T:1500  NOTICE: Ares Wizard:
+19:05:44.529 T:1500  NOTICE: Ares Wizard: Locating Database...
+19:05:44.591 T:1500  NOTICE: Ares Wizard: Matches...
+19:05:44.591 T:1500  NOTICE: Ares Wizard: ['C:\\Users\\Jamisons-PC\\AppData\\Roaming\\Kodi\\userdata\\Database\\Addons27.db']
+19:05:44.632 T:1500  NOTICE: Ares Wizard: Checking Addons27.db...
+19:05:44.634 T:1500  NOTICE: Ares Wizard: found Addons27.db...
+19:05:44.681 T:1500 WARNING: Attempt to use invalid handle -1
+19:05:44.784 T:1500 WARNING: Previous line repeats 2 times.
+19:05:44.784 T:1500  NOTICE: Ares Wizard: 'checkbuild'
+19:05:44.804 T:1500  NOTICE: Ares Wizard: Check Build: failed to get build name
+19:05:46.597 T:5848    NONE: [plugin.video.toonjet] ?action=Featured&url=featured.php%3Fsortby%3Drated%26order%3DDESC%26count%3D64&reload=
+19:05:47.763 T:3636    NONE: [plugin.video.toonjet] ?action=Cartoons&url=cartoons%2FLooneyTunes%2F&reload=
+19:05:47.786 T:5884  NOTICE: [plugin.video.vimeo] Running: Vimeo (4.1.4) on Isengard (17.4) with Python 2.7.13
+19:05:48.040 T:5848  NOTICE: [plugin.video.toonjet] http://www.toonjet.com/featured.php?sortby=rated&order=DESC&count=64
+19:05:48.040 T:5848    NONE: [plugin.video.toonjet] UrlHash = ad8bb2f8d6765661032bd19a0d8a3006
+19:05:48.054 T:3636  NOTICE: [plugin.video.toonjet] http://www.toonjet.com/cartoons/LooneyTunes/
+19:05:48.054 T:3636    NONE: [plugin.video.toonjet] UrlHash = bb58a3428da0a57c383c2182e111d518
+19:05:48.056 T:5848  NOTICE: [plugin.video.toonjet] Cache Not Valid
+19:05:49.333 T:5848  NOTICE: Previous line repeats 1 times.
+19:05:49.333 T:5848    NONE: [plugin.video.toonjet] 200 - OK
+19:05:49.369 T:5848    NONE: [plugin.video.toonjet] Character encoding: UTF-8
+19:05:49.452 T:3636    NONE: [plugin.video.toonjet] 200 - OK
+19:05:49.491 T:3636    NONE: [plugin.video.toonjet] Character encoding: UTF-8
+19:05:51.239 T:5460  NOTICE: [xbmcswift2] Request for "/genres/http%3A%2F%2Fwww.classiccinemaonline.com%2Fmovie-billboards%2Fanimated" matches rule for function "show_films"
+19:05:51.239 T:5460  NOTICE: [plugin.video.classiccinema] http://www.classiccinemaonline.com/movie-billboards/animated
+19:05:51.442 T:3636    NONE: [plugin.video.toonjet] [10]
+19:05:51.902 T:5848    NONE: [plugin.video.toonjet] (40,)
+19:05:53.197 T:1612 WARNING: XFILE::CFileFactory::CreateLoader - unsupported protocol(plugin) in plugin://plugin.video.classiccinema/play/http%3A%2F%2Fwww.classiccinemaonline.tbn
+19:05:53.782 T:3592 WARNING: Previous line repeats 2 times.
+19:05:53.782 T:3592  NOTICE: [ADDON] Initialized TED Talks v4.2.12 using Python: 2.7.13 (default, Jul 13 2017, 20:56:54) [MSC v.1900 32 bit (Intel)]'
+19:05:57.474 T:5188  NOTICE: [xbmcswift2] Request for "/channels/" matches rule for function "show_channels"
+19:06:08.380 T:812  NOTICE: [plugin.video.youtube] Running: YouTube (5.4.14Bump) on Krypton (Kodi-17.4) with Python 2.7.13
+19:06:08.423 T:2528  NOTICE: [plugin.video.break_com] Running: Break Videos (4.0.3) on J..... (17.4) with Python (2.7.13)
+19:06:10.691 T:1104  NOTICE: [plugin.video.vimeo] Running: Vimeo (4.1.4) on Isengard (17.4) with Python 2.7.13
+19:06:18.110 T:5852   ERROR: CCurlFile::Stat - Failed: HTTP response code said error(22) for https://s3.amazonaws.com/rtv3.image.cdn.roosterteeth.com/store/eeb9497f-a71f-4c53-ba37-262674e642cd.jpg/sm/RWBY Rewind_Square3.jpg
+19:10:31.831 T:5468  NOTICE: script.tv.show.next.aired: ### no prior data found
+19:10:33.831 T:5468  NOTICE: script.tv.show.next.aired: ### starting data update
+19:13:12.507 T:5704   ERROR: CCurlFile::Stat - Failed: HTTP response code said error(22) for https://image.zype.com/53c0457a69702d4d66040000/545a64a369702d6453000000/custom_thumbnail/480.?1507567939
+19:13:12.532 T:5932   ERROR: CCurlFile::Stat - Failed: HTTP response code said error(22) for https://image.zype.com/53c0457a69702d4d66040000/5632419c69702d071b603c00/custom_thumbnail/480.?1507621366
+19:13:12.684 T:3448   ERROR: CCurlFile::Stat - Failed: HTTP response code said error(22) for https://image.zype.com/53c0457a69702d4d66040000/56aa783d69702d1cb7d23b00/custom_thumbnail/480.?1507636790
+19:13:12.849 T:4056   ERROR: CCurlFile::Stat - Failed: HTTP response code said error(22) for https://image.zype.com/53c0457a69702d4d66040000/58d9bc4e4752841464005431/custom_thumbnail/480.?1507573358
+19:13:13.185 T:5704   ERROR: CCurlFile::Stat - Failed: HTTP response code said error(22) for https://image.zype.com/53c0457a69702d4d66040000/53cd482269702d27d3192f00/custom_thumbnail/480.?1507609914
+19:13:13.300 T:5932   ERROR: CCurlFile::Stat - Failed: HTTP response code said error(22) for https://image.zype.com/53c0457a69702d4d66040000/53cd481f69702d27d35f2a00/custom_thumbnail/480.?1507646379
+19:13:13.479 T:3448   ERROR: CCurlFile::Stat - Failed: HTTP response code said error(22) for https://image.zype.com/53c0457a69702d4d66040000/56aa746169702d4cf7bb3800/custom_thumbnail/480.?1507575161
+19:20:31.902 T:5468  NOTICE: script.tv.show.next.aired: ### no prior data found
+19:20:33.903 T:5468  NOTICE: script.tv.show.next.aired: ### starting data update
+19:28:06.874 T:2960 WARNING: CSkinInfo: failed to load skin settings
+19:35:32.599 T:5468  NOTICE: script.tv.show.next.aired: ### no prior data found
+19:35:34.599 T:5468  NOTICE: script.tv.show.next.aired: ### starting data update
+19:52:10.884 T:5660 WARNING: Trying to add unsupported control type 1
+19:52:11.077 T:3892 WARNING: Previous line repeats 2 times.
+19:52:11.077 T:3892   ERROR: CCurlFile::Stat - Failed: HTTP response code said error(22) for https://image.zype.com/53c0457a69702d4d66040000/5459164d69702d6a4c2b0000/custom_thumbnail/480.?1507613326
+19:52:11.158 T:5660 WARNING: Trying to add unsupported control type 1
+19:52:11.286 T:360 WARNING: Previous line repeats 1 times.
+19:52:11.286 T:360   ERROR: CCurlFile::Stat - Failed: HTTP response code said error(22) for https://image.zype.com/53c0457a69702d4d66040000/5459161969702d2f061a0000/custom_thumbnail/480.?1507578376
+19:52:11.311 T:5660 WARNING: Trying to add unsupported control type 1
+19:52:11.345 T:6040 WARNING: Previous line repeats 3 times.
+19:52:11.345 T:6040   ERROR: CCurlFile::Stat - Failed: HTTP response code said error(22) for https://image.zype.com/53c0457a69702d4d66040000/5459161b69702d6a491b0000/custom_thumbnail/480.?1507644921
+19:52:11.352 T:5660 WARNING: Trying to add unsupported control type 1
+19:52:11.681 T:5260 WARNING: Previous line repeats 15 times.
+19:52:11.681 T:5260   ERROR: CCurlFile::Stat - Failed: HTTP response code said error(22) for https://image.zype.com/53c0457a69702d4d66040000/5459160469702d2f06180000/custom_thumbnail/480.?1507632305
+19:52:11.718 T:5660 WARNING: Trying to add unsupported control type 1
+19:52:13.009 T:5260 WARNING: Previous line repeats 11 times.
+19:52:13.009 T:5260   ERROR: CCurlFile::Stat - Failed: HTTP response code said error(22) for https://image.zype.com/53c0457a69702d4d66040000/5459168f69702d6a52310000/custom_thumbnail/480.?1507616456
+19:52:14.033 T:360   ERROR: CCurlFile::Stat - Failed: HTTP response code said error(22) for https://image.zype.com/53c0457a69702d4d66040000/5459163c69702d2f061c0000/custom_thumbnail/480.?1507569154
+19:52:14.133 T:3892   ERROR: CCurlFile::Stat - Failed: HTTP response code said error(22) for https://image.zype.com/53c0457a69702d4d66040000/5459166d69702d6a4c2d0000/custom_thumbnail/480.?1507577160
+19:52:14.627 T:6040   ERROR: CCurlFile::Stat - Failed: HTTP response code said error(22) for https://image.zype.com/53c0457a69702d4d66040000/5459164569702d2ef6220000/custom_thumbnail/480.?1507568961
+19:52:19.858 T:5660 WARNING: Trying to add unsupported control type 1
+19:52:23.453 T:5156 WARNING: Previous line repeats 36 times.
+19:52:23.453 T:5156  NOTICE: Ares Wizard: ---- A R E S  W I Z A R D  L A U N C H ---
+19:52:23.453 T:5156  NOTICE: Ares Wizard:
+19:52:23.454 T:5156  NOTICE: Ares Wizard: @ares: wizard version = 0.0.66
+19:52:23.454 T:5156  NOTICE: Ares Wizard:
+19:52:23.454 T:5156  NOTICE: Ares Wizard: Locating Database...
+19:52:23.455 T:5156  NOTICE: Ares Wizard: Matches...
+19:52:23.455 T:5156  NOTICE: Ares Wizard: ['C:\\Users\\Jamisons-PC\\AppData\\Roaming\\Kodi\\userdata\\Database\\Addons27.db']
+19:52:23.455 T:5156  NOTICE: Ares Wizard: Checking Addons27.db...
+19:52:23.456 T:5156  NOTICE: Ares Wizard: found Addons27.db...
+19:52:32.003 T:5156 WARNING: CSkinInfo: failed to load skin settings
+19:55:32.952 T:5468 WARNING: Previous line repeats 2 times.
+19:55:32.952 T:5468  NOTICE: script.tv.show.next.aired: ### no prior data found
+19:55:34.952 T:5468  NOTICE: script.tv.show.next.aired: ### starting data update
+20:12:02.387 T:5660  NOTICE: CPowerManager::OnSleep: Running sleep jobs
+20:12:02.387 T:5660  NOTICE: CPowerManager::OnSleep: Stopping lirc
+20:54:18.744 T:5660  NOTICE: CPowerManager::OnWake: Running resume jobs
+20:54:18.744 T:5660  NOTICE: CPowerManager::OnWake: Restarting lirc
+20:54:20.266 T:4340  NOTICE: Found 2 Lists of Devices
+20:54:20.266 T:4340  NOTICE: Enumerated DIRECTSOUND devices:
+20:54:20.266 T:4340  NOTICE:     Device 1
+20:54:20.266 T:4340  NOTICE:         m_deviceName      : {C5F69B8E-7FAF-4DB8-A952-17AB64CD66AE}
+20:54:20.266 T:4340  NOTICE:         m_displayName     : Speakers - Speakers and Headphones (IDT High Definition Audio CODEC)
+20:54:20.266 T:4340  NOTICE:         m_displayNameExtra: DIRECTSOUND: Speakers and Headphones (IDT High Definition Audio CODEC)
+20:54:20.266 T:4340  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+20:54:20.266 T:4340  NOTICE:         m_channels        : FL,FR
+20:54:20.266 T:4340  NOTICE:         m_sampleRates     : 48000
+20:54:20.266 T:4340  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
+20:54:20.266 T:4340  NOTICE:         m_streamTypes     : No passthrough capabilities
+20:54:20.266 T:4340  NOTICE:     Device 2
+20:54:20.266 T:4340  NOTICE:         m_deviceName      : default
+20:54:20.266 T:4340  NOTICE:         m_displayName     : default
+20:54:20.266 T:4340  NOTICE:         m_displayNameExtra:
+20:54:20.266 T:4340  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+20:54:20.266 T:4340  NOTICE:         m_channels        : FL,FR
+20:54:20.266 T:4340  NOTICE:         m_sampleRates     : 48000
+20:54:20.266 T:4340  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
+20:54:20.266 T:4340  NOTICE:         m_streamTypes     : No passthrough capabilities
+20:54:20.266 T:4340  NOTICE:     Device 3
+20:54:20.266 T:4340  NOTICE:         m_deviceName      : {C88FE34E-5455-4B5B-AE56-06148D187972}
+20:54:20.266 T:4340  NOTICE:         m_displayName     : Headphones - Communications Headphones (IDT High Definition Audio CODEC)
+20:54:20.266 T:4340  NOTICE:         m_displayNameExtra: DIRECTSOUND: Communications Headphones (IDT High Definition Audio CODEC)
+20:54:20.266 T:4340  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+20:54:20.266 T:4340  NOTICE:         m_channels        : FL,FR
+20:54:20.266 T:4340  NOTICE:         m_sampleRates     : 48000
+20:54:20.266 T:4340  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
+20:54:20.266 T:4340  NOTICE:         m_streamTypes     : No passthrough capabilities
+20:54:20.266 T:4340  NOTICE: Enumerated WASAPI devices:
+20:54:20.266 T:4340  NOTICE:     Device 1
+20:54:20.266 T:4340  NOTICE:         m_deviceName      : {C5F69B8E-7FAF-4DB8-A952-17AB64CD66AE}
+20:54:20.266 T:4340  NOTICE:         m_displayName     : Speakers - Speakers and Headphones (IDT High Definition Audio CODEC)
+20:54:20.266 T:4340  NOTICE:         m_displayNameExtra: WASAPI: Speakers and Headphones (IDT High Definition Audio CODEC)
+20:54:20.266 T:4340  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+20:54:20.266 T:4340  NOTICE:         m_channels        : FL,FR
+20:54:20.266 T:4340  NOTICE:         m_sampleRates     : 192000,96000,88200,48000,44100
+20:54:20.266 T:4340  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE
+20:54:20.266 T:4340  NOTICE:         m_streamTypes     : No passthrough capabilities
+20:54:20.266 T:4340  NOTICE:     Device 2
+20:54:20.266 T:4340  NOTICE:         m_deviceName      : default
+20:54:20.266 T:4340  NOTICE:         m_displayName     : default
+20:54:20.266 T:4340  NOTICE:         m_displayNameExtra:
+20:54:20.266 T:4340  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+20:54:20.266 T:4340  NOTICE:         m_channels        : FL,FR
+20:54:20.266 T:4340  NOTICE:         m_sampleRates     : 192000,96000,88200,48000,44100
+20:54:20.266 T:4340  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE
+20:54:20.266 T:4340  NOTICE:         m_streamTypes     : No passthrough capabilities
+20:54:20.266 T:4340  NOTICE:     Device 3
+20:54:20.266 T:4340  NOTICE:         m_deviceName      : {C88FE34E-5455-4B5B-AE56-06148D187972}
+20:54:20.266 T:4340  NOTICE:         m_displayName     : Headphones - Communications Headphones (IDT High Definition Audio CODEC)
+20:54:20.266 T:4340  NOTICE:         m_displayNameExtra: WASAPI: Communications Headphones (IDT High Definition Audio CODEC)
+20:54:20.266 T:4340  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+20:54:20.266 T:4340  NOTICE:         m_channels        : FL,FR
+20:54:20.266 T:4340  NOTICE:         m_sampleRates     : 192000,96000,88200,48000,44100
+20:54:20.266 T:4340  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE
+20:54:20.266 T:4340  NOTICE:         m_streamTypes     : No passthrough capabilities
+20:55:15.634 T:5468  NOTICE: script.tv.show.next.aired: ### no prior data found
+20:55:17.634 T:5468  NOTICE: script.tv.show.next.aired: ### starting data update

@@ -1,0 +1,288 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Metal Video - Search Results</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link rel="shortcut icon" href="http://metalvideo.com/uploads/favicon.ico">
+<link href="http://metalvideo.com/templates/B52/style.css" rel="stylesheet" type="text/css" />
+<link type="application/atom+xml" rel="alternate" title="Metal Video - Search Results" href="http://metalvideo.com/rss.php" />
+<script type="text/javascript">
+ var MELODYURL = "http://metalvideo.com";
+ var MELODYURL2 = "http://metalvideo.com";
+ var TemplateP = "http://metalvideo.com/templates/B52";
+</script>
+ <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+ <script type="text/javascript" src="http://metalvideo.com/js/general.js"></script>
+ <script type="text/javascript" src="http://metalvideo.com/js/langselector.js"></script>
+ <script type="text/javascript" src="http://metalvideo.com/js/jquery.hover.js"></script>
+ <script type="text/javascript" src="http://metalvideo.com/jwplayer.js"></script>
+  
+ 
+ <script type="text/javascript">
+ jQuery(document).ready( 
+  function() {
+	catlist(); 
+  });
+
+  $(document).ready(function() {
+	  $("#pm_sources").change(function () {
+		  var str = $("select option:selected").attr('value');
+		  $("#pm_sources_ex").text(str);
+	  })
+	  .change();
+  });
+ </script>
+ 
+
+
+</head>
+<body>
+		<div id="logo_search">
+		<div id="logo">
+
+		</div>
+		  			<div id="search_form">
+				<form action="http://metalvideo.com/search.php" method="get" id="search" name="search" onsubmit="return validateSearch('true');">
+				<input name="keywords" type="text" value="" class="search_keywords" id="inputString" onkeyup="lookup(this.value);" onblur="fill();" autocomplete="off"  />  
+				<input name="btn" value="Search" type="submit" class="search_bttn" />
+				<div class="suggestionsBox" id="suggestions" style="display: none;">
+					<div class="suggestionList" id="autoSuggestionsList">
+					</div>
+				</div>
+				</form>	
+			</div>
+		  		</div>
+
+<a name="top" id="top"></a>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+	<div id="wrapper">
+		<div id="menu">
+			<div id="menu_links">
+			<ul>
+				<li><a href="http://metalvideo.com/index.html">Homepage</a></li>
+								<li><a href="http://metalvideo.com/topvideos.html">Top Videos</a></li>
+				<li><a href="http://metalvideo.com/newvideos.html">New Videos</a></li>
+				<li><a href="http://metalvideo.com/randomizer.php" rel="nofollow">Random video</a></li>
+								<li><a href="http://metalvideo.com/contact_us.html">Contact us</a></li>
+								<li><a href="http://metalvideo.com/register.html">Register</a></li>
+											</ul>
+			</div>
+						 <ul id="lang_selector">
+			   <li class="lang_selected">
+				<span>
+				 <img src="http://metalvideo.com/lang/flags/us.png" width="16" height="11" border="0" alt="English" title="English" align="absmiddle" /> 
+				 <img src="http://metalvideo.com/templates/B52/images/lang_arrow.gif" name="arrow_profile" width="9" height="7" align="absmiddle" class="arrow">
+				 </span>
+			   </li>
+			  <li>
+			  <div class="lang_submenu">
+			  			   			  			   				 <a href="#" title="Deutsch" name="2" id="lang_select_2"><img src="http://metalvideo.com/lang/flags/de.png" width="16" height="11" border="0" alt="Deutsch" title="Deutsch" /></a>
+			   			  			   				 <a href="#" title="Rom&#226;n&#259;" name="3" id="lang_select_3"><img src="http://metalvideo.com/lang/flags/ro.png" width="16" height="11" border="0" alt="Rom&#226;n&#259;" title="Rom&#226;n&#259;" /></a>
+			   			  			   				 <a href="#" title="Fran&#231;ais" name="4" id="lang_select_4"><img src="http://metalvideo.com/lang/flags/fr.png" width="16" height="11" border="0" alt="Fran&#231;ais" title="Fran&#231;ais" /></a>
+			   			  			   				 <a href="#" title="Nederlands" name="5" id="lang_select_5"><img src="http://metalvideo.com/lang/flags/nl.png" width="16" height="11" border="0" alt="Nederlands" title="Nederlands" /></a>
+			   			  			   				 <a href="#" title="Lithuanian" name="6" id="lang_select_6"><img src="http://metalvideo.com/lang/flags/lt.png" width="16" height="11" border="0" alt="Lithuanian" title="Lithuanian" /></a>
+			   			  			   				 <a href="#" title="Albanian" name="7" id="lang_select_7"><img src="http://metalvideo.com/lang/flags/al.png" width="16" height="11" border="0" alt="Albanian" title="Albanian" /></a>
+			   			  			   				 <a href="#" title="Arabic" name="8" id="lang_select_8"><img src="http://metalvideo.com/lang/flags/sa.png" width="16" height="11" border="0" alt="Arabic" title="Arabic" /></a>
+			   			  			   				 <a href="#" title="Bulgarian" name="9" id="lang_select_9"><img src="http://metalvideo.com/lang/flags/bg.png" width="16" height="11" border="0" alt="Bulgarian" title="Bulgarian" /></a>
+			   			  			   				 <a href="#" title="Danish" name="10" id="lang_select_10"><img src="http://metalvideo.com/lang/flags/dk.png" width="16" height="11" border="0" alt="Danish" title="Danish" /></a>
+			   			  			   				 <a href="#" title="Italian" name="11" id="lang_select_11"><img src="http://metalvideo.com/lang/flags/it.png" width="16" height="11" border="0" alt="Italian" title="Italian" /></a>
+			   			  			   				 <a href="#" title="Portuguese" name="12" id="lang_select_12"><img src="http://metalvideo.com/lang/flags/pt.png" width="16" height="11" border="0" alt="Portuguese" title="Portuguese" /></a>
+			   			  			   				 <a href="#" title="Russian" name="13" id="lang_select_13"><img src="http://metalvideo.com/lang/flags/ru.png" width="16" height="11" border="0" alt="Russian" title="Russian" /></a>
+			   			  			   				 <a href="#" title="Serbian" name="14" id="lang_select_14"><img src="http://metalvideo.com/lang/flags/sr.png" width="16" height="11" border="0" alt="Serbian" title="Serbian" /></a>
+			   			  			   				 <a href="#" title="Swedish" name="15" id="lang_select_15"><img src="http://metalvideo.com/lang/flags/se.png" width="16" height="11" border="0" alt="Swedish" title="Swedish" /></a>
+			   			  			   				 <a href="#" title="Spanish" name="17" id="lang_select_17"><img src="http://metalvideo.com/lang/flags/es.png" width="16" height="11" border="0" alt="Spanish" title="Spanish" /></a>
+			   			  			   				 <a href="#" title="T&uuml;rk&ccedil;e" name="16" id="lang_select_16"><img src="http://metalvideo.com/lang/flags/tr.png" width="16" height="11" border="0" alt="T&uuml;rk&ccedil;e" title="T&uuml;rk&ccedil;e" /></a>
+			   			  			   				 <a href="#" title="Georgian" name="18" id="lang_select_18"><img src="http://metalvideo.com/lang/flags/ge.png" width="16" height="11" border="0" alt="Georgian" title="Georgian" /></a>
+			   			  			   				 <a href="#" title="Croatian" name="19" id="lang_select_19"><img src="http://metalvideo.com/lang/flags/hr.png" width="16" height="11" border="0" alt="Croatian" title="Croatian" /></a>
+			   			  			   				 <a href="#" title="Brazilian" name="20" id="lang_select_20"><img src="http://metalvideo.com/lang/flags/pt-br.png" width="16" height="11" border="0" alt="Brazilian" title="Brazilian" /></a>
+			   			  			   				 <a href="#" title="Slovak" name="21" id="lang_select_21"><img src="http://metalvideo.com/lang/flags/sk.png" width="16" height="11" border="0" alt="Slovak" title="Slovak" /></a>
+			   			  			   				 <a href="#" title="Polish" name="22" id="lang_select_22"><img src="http://metalvideo.com/lang/flags/pl.png" width="16" height="11" border="0" alt="Polish" title="Polish" /></a>
+			   			  			  </div>
+			  </li>
+			 </ul>
+					</div>
+
+					<div align="center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Top Ad Unit -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-6339100196819244"
+     data-ad-slot="4942731354"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		 
+
+<br />
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="150" valign="top">
+	<div id="reg_box">
+	<h3>Category</h3>
+		<div id="list_cats">
+		<ul id='ul_categories'>
+<li class=""><a href="http://metalvideo.com/browse-alternative-videos-1-date.html">Alternative</a></li>
+<li class=""><a href="http://metalvideo.com/browse-black_metal-videos-1-date.html">Black Metal</a></li>
+<li class=""><a href="http://metalvideo.com/browse-classic_metal-videos-1-date.html">Classic Metal</a></li>
+<li class=""><a href="http://metalvideo.com/browse-concerts-videos-1-date.html">Concerts</a></li>
+<li class=""><a href="http://metalvideo.com/browse-death_metal-videos-1-date.html">Death Metal</a></li>
+<li class=""><a href="http://metalvideo.com/browse-featured-videos-1-date.html">Featured</a></li>
+<li class=""><a href="http://metalvideo.com/browse-folk_metal-videos-1-date.html">Folk Metal</a></li>
+<li class=""><a href="http://metalvideo.com/browse-gothic_metal-videos-1-date.html">Gothic Metal</a></li>
+<li class=""><a href="http://metalvideo.com/browse-grindcore-videos-1-date.html">Grindcore</a></li>
+<li class=""><a href="http://metalvideo.com/browse-grunge-videos-1-date.html">Grunge</a></li>
+<li class=""><a href="http://metalvideo.com/browse-hair_metal-videos-1-date.html">Hair Metal</a></li>
+<li class=""><a href="http://metalvideo.com/browse-hard_rock-videos-1-date.html">Hard Rock</a></li>
+<li class=""><a href="http://metalvideo.com/browse-hardcore-videos-1-date.html">Hardcore</a></li>
+<li class=""><a href="http://metalvideo.com/browse-heavy_metal-videos-1-date.html">Heavy Metal</a></li>
+<li class=""><a href="http://metalvideo.com/browse-indie_metal-videos-1-date.html">Indie Metal</a></li>
+<li class=""><a href="http://metalvideo.com/browse-industrial-videos-1-date.html">Industrial</a></li>
+<li class=""><a href="http://metalvideo.com/browse-Interviews-videos-1-date.html">Interviews</a></li>
+<li class=""><a href="http://metalvideo.com/browse-lyric-videos-1-date.html">Lyric Videos</a></li>
+<li class=""><a href="http://metalvideo.com/browse-metalcore-videos-1-date.html">Metalcore</a></li>
+<li class=""><a href="http://metalvideo.com/browse-Nu_metal-videos-1-date.html">Nu metal</a></li>
+<li class=""><a href="http://metalvideo.com/browse-promo-videos-1-date.html">Promo Videos</a></li>
+<li class=""><a href="http://metalvideo.com/browse-punk-videos-1-date.html">Punk</a></li>
+<li class=""><a href="http://metalvideo.com/browse-stoner_rock-videos-1-date.html">Stoner Rock</a></li>
+<li class=""><a href="http://metalvideo.com/browse-thrash-videos-1-date.html">Thrash Metal</a></li>
+<li class=""><a href="http://metalvideo.com/browse-technical-videos-1-date.html">Technical</a></li>
+<li class=""><a href="http://metalvideo.com/browse-IronMike-videos-1-date.html">Iron Mikes Metal Video</a></li>
+<li class=""><a href="http://metalvideo.com/browse-Capital_Chaos-videos-1-date.html">Capital Chaos</a></li>
+
+</ul>		
+		</div>
+	</div>
+	<br />
+	<div id="reg_box">
+	<h3>Members</h3>
+		<form name="login_form" method="post" action="http://metalvideo.com/login.php">
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr>
+    <td class="reg_box_login">Username<br />
+    <input name="username" type="text" size="15" class="inputtext" /></td>
+  </tr>
+  <tr>
+    <td class="reg_box_login">Password<br />
+      <input name="pass" type="password" size="15" class="inputtext" />
+	</td>
+  </tr>
+  <tr>
+  <td class="reg_box_login">
+  <input name="remember" type="checkbox" value="1"  />
+      Remember Me
+  </td>
+  </tr>
+  
+  <tr>
+    <td><label>
+	<input type="hidden" name="ref" value="" />
+      <input type="submit" name="Login" value="Login" class="inputbutton" />
+    </label></td>
+  </tr>
+  <tr>
+    <td><span class="signup"><a href="http://metalvideo.com/login.html?do=forgot_pass">Forgot your password?</a></span></td>
+  </tr>
+</table>
+</form> 
+		</div>	
+	</td>
+    <td width="738" valign="top">
+	<div id="browse_main">
+		<h2 class="h2_search">Search Results</h2>
+		<h2 class="h2_searchstring">"avatar"</h2>
+		<div class="error_msg">
+		
+		</div>
+		<div id="browse_results">
+		<ul>
+		
+			<li class="video">
+			<div class="video_i">
+			<a href="http://metalvideo.com/avatar/let-it-burn-video_fa8b661ef.html">
+			<img src="http://i.ytimg.com/vi/6djKy7CEKYg/0.jpg"  alt="Let It Burn" class="imag" width="116" height="87" /><div class="tag"><span class="hot">hot</span></div>
+			</a>
+			<span class="artist_name">Avatar</span> <span class="song_name">Let It Burn</span>
+			</div>
+			</li>
+			<li class="video">
+			<div class="video_i">
+			<a href="http://metalvideo.com/avatar/for-the-swarm-video_f54bb8bf0.html">
+			<img src="http://i.ytimg.com/vi/qYzR1fMJHvk/mqdefault.jpg"  alt="For The Swarm" class="imag" width="116" height="87" /><div class="tag"><span class="hot">hot</span></div>
+			</a>
+			<span class="artist_name">Avatar</span> <span class="song_name">For The Swarm</span>
+			</div>
+			</li>
+			<li class="video">
+			<div class="video_i">
+			<a href="http://metalvideo.com/avatar/vultures-fly-video_da751f0ba.html">
+			<img src="http://i.ytimg.com/vi/QFqw2qEw7hw/mqdefault.jpg"  alt="Vultures Fly" class="imag" width="116" height="87" /><div class="tag"></div>
+			</a>
+			<span class="artist_name">Avatar</span> <span class="song_name">Vultures Fly</span>
+			</div>
+			</li>
+			<li class="video">
+			<div class="video_i">
+			<a href="http://metalvideo.com/avatar/bloody-angel-video_2553cd92d.html">
+			<img src="http://i.ytimg.com/vi/h71NBBbOjmw/mqdefault.jpg"  alt="Bloody Angel" class="imag" width="116" height="87" /><div class="tag"><span class="hot">hot</span></div>
+			</a>
+			<span class="artist_name">Avatar</span> <span class="song_name">Bloody Angel</span>
+			</div>
+			</li>
+		</ul>
+		</div>
+		<div align="center">
+		
+		</div>
+	</div>
+	</td>
+  </tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+
+	<div id="footer">
+	<div align="center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Bottom of page -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-6339100196819244"
+     data-ad-slot="7021566956"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+    <!--
+	Removing the PHPSugar.com copyright link is against our terms of agreement.
+	Removing the link without our permission affects your license and as a result you won't 
+	benefit from the free support and the upgrades we provide.
+
+	To ask for permission, please visit the following URL where you can contact the PHPSugar Team.
+
+	http://www.phpsugar.com/customer_care.html
+
+	* Please include your URL when making the request.
+//-->
+
+	
+<div align="center">	
+<a href="http://metalvideo.com/index.html">Homepage</a> | <a href="http://metalvideo.com/contact_us.html">Contact us</a> | <a href="http://metalvideo.com/register.html">Register</a> |   <a href="#top">Go Up</a><br />
+	&copy; 2017 Metal Video. All rights reserved
+</div>
+	
+	</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1055870-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html> 

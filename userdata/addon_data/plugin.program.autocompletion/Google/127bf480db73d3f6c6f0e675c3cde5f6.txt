@@ -1,0 +1,1 @@
+["TRO", ["trolls", "trouble", "troll song", "trolling", "troy ave", "trolls movie", "troydan", "trove", "troyboi", "trolls music"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

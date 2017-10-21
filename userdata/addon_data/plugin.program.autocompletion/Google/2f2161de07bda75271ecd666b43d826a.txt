@@ -1,0 +1,1 @@
+["100", ["100", "1000 years", "100 years", "100 shots", "100 kile", "1000", "100 tula para kay stella", "100k", "1000 times", "1000 reasons"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

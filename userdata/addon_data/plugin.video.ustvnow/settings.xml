@@ -1,0 +1,15 @@
+<settings>
+    <setting id="Enable_Debugging" value="false" />
+    <setting id="Last_DVRpoints" value="0" />
+    <setting id="URL_Quality" value="1" />
+    <setting id="URL_Type" value="0" />
+    <setting id="User_Activated" value="False" />
+    <setting id="User_DVRpoints" value="0" />
+    <setting id="User_Email" value="Jamisonsrental@gmail.com" />
+    <setting id="User_Expires" value="Never" />
+    <setting id="User_Paskey" value="JAMISONS698C677A7BE8DE719A54408959F19907DB8" />
+    <setting id="User_Password" value="151bsrd40065" />
+    <setting id="User_Plan" value="Free Plan" />
+    <setting id="User_Token" value="oxmlolswxyquvhhaayhgtqbjbnex" />
+    <setting id="User_isFree" value="True" />
+</settings>

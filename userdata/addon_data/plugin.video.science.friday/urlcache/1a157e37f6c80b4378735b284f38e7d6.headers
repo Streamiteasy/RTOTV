@@ -1,0 +1,25 @@
+Server: nginx
+X-Varnish: 585485953
+Vary: Accept-Encoding, Cookie
+Cache-Control: no-cache, must-revalidate, max-age=0
+X-Pantheon-Site: e72f0d7c-eeb4-4b32-b10a-bd9114cc95da
+Content-Type: text/html; charset=UTF-8
+Surrogate-Key-Raw: 
+X-Pantheon-Environment: live
+X-Pantheon-Styx-Hostname: styx480365c9
+Date: Mon, 09 Oct 2017 22:57:24 GMT
+Surrogate-Key: HYnaH2NeDgolVzH5JZJW StZc7xKPFIB8v/clf19I
+X-Pantheon-Phpreq: yes
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+X-Styx-Req-Id: styx-9377ff46fe2e8308d8491206f8b6c45e
+Transfer-Encoding: chunked
+Accept-Ranges: bytes
+X-Content-Type-Options: nosniff
+Via: 1.1 varnish-v4
+Connection: close
+X-Robots-Tag: noindex
+X-Frame-Options: SAMEORIGIN
+Age: 0
+xkey: HYnaH2NeDgolVzH5JZJW StZc7xKPFIB8v/clf19I
+X-Local-Cache: HIT
+X-Location: https://www.sciencefriday.com/wp-admin/admin-ajax.php?action=get_results&paged=1&sfid=1183&post_types=video&_sft_topic=health

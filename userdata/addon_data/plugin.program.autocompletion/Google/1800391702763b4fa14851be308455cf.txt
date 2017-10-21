@@ -1,0 +1,1 @@
+["Tra", ["travis scott", "transformers", "trap nation", "trailer", "trap music", "trap", "train", "trap queen", "trap city", "transportin"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

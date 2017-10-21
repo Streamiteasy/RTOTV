@@ -1,0 +1,1 @@
+["Fox News - Latest News", ["fox news latest news", "fox news latest election news", "us election latest news fox news", "fox news trump latest news"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY"]}]

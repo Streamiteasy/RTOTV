@@ -1,0 +1,6 @@
+<settings>
+    <setting id="custom_window" value="false" />
+    <setting id="error_popup" value="false" />
+    <setting id="invert" value="false" />
+    <setting id="lines" value="0" />
+</settings>

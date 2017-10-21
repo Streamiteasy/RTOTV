@@ -1,0 +1,1 @@
+["Prem", ["premiere", "premiere pro", "prem ratan dhan payo", "prem", "premium", "prem tumi", "premiere pro cc", "premi o premi", "premier", "premam"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

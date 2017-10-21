@@ -1,0 +1,1 @@
+["100f", ["100 fps", "100ft wave", "100 ft", "100 fam", "100 ft drop", "100 f", "100ft robot golf mini ladd", "100ft yacht", "100ft snake", "100ft robot golf gameplay"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["Sport", ["sports", "sport vines", "sports news", "sports fails", "sports car", "sports illustrated", "sports bloopers", "sport science", "sports fights", "sports live"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["1", ["1 800 logic", "17", "1800", "1", "10", "112", "1738", "100", "1080p", "1320"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

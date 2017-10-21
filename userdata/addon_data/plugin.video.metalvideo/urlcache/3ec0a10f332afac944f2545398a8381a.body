@@ -1,0 +1,479 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Turn The Page Video by Metallica</title>
+<meta name="keywords" content="Metallica, Heavy Metal" />
+<meta name="description" content="Metallica - Turn The Page Album: Garage Inc. Director: Jonas Akerlund ..." />
+<link rel="shortcut icon" href="http://metalvideo.com/uploads/favicon.ico">
+<link href="http://metalvideo.com/templates/B52/style.css" rel="stylesheet" type="text/css" />
+<link type="application/atom+xml" rel="alternate" title="Turn The Page Video by Metallica" href="http://metalvideo.com/rss.php" />
+<script type="text/javascript">
+ var MELODYURL = "http://metalvideo.com";
+ var MELODYURL2 = "http://metalvideo.com";
+ var TemplateP = "http://metalvideo.com/templates/B52";
+</script>
+ <script type="text/javascript" src="http://metalvideo.com/js/swfobject.js"></script>
+ <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+ <script type="text/javascript" src="http://metalvideo.com/js/general.js"></script>
+ <script type="text/javascript" src="http://metalvideo.com/js/langselector.js"></script>
+ <script type="text/javascript" src="http://metalvideo.com/js/jquery.hover.js"></script>
+ <script type="text/javascript" src="http://metalvideo.com/jwplayer.js"></script>
+  
+ 
+ <script type="text/javascript">
+ jQuery(document).ready( 
+  function() {
+	catlist(); 
+  });
+
+  $(document).ready(function() {
+	  $("#pm_sources").change(function () {
+		  var str = $("select option:selected").attr('value');
+		  $("#pm_sources_ex").text(str);
+	  })
+	  .change();
+  });
+ </script>
+ 
+
+
+ <script type="text/javascript" src="http://metalvideo.com/rating.js"></script> 
+ <script type="text/javascript" src="http://metalvideo.com/js/popup.js"></script>
+ <script type="text/javascript" src="http://metalvideo.com/js/favorites.js"></script>
+ <script type="text/javascript" src="http://metalvideo.com/js/comment.js"></script>
+ <script type="text/javascript" src="http://metalvideo.com/js/ajaxtabs/ajaxtabs.js"></script>
+ <script type="text/javascript" src="http://metalvideo.com/js/lightsoff.js"></script>
+ 
+ <script type="text/javascript">
+ jQuery(document).ready(function() {
+   lightsoff();
+ });
+ </script>
+ 
+ <link rel="image_src" href="http://i.ytimg.com/vi/qPOTEs_yTJo/hqdefault.jpg" />
+</head>
+<body>
+		<div id="logo_search">
+		<div id="logo">
+
+		</div>
+		  			<div id="search_form">
+				<form action="http://metalvideo.com/search.php" method="get" id="search" name="search" onsubmit="return validateSearch('true');">
+				<input name="keywords" type="text" value="" class="search_keywords" id="inputString" onkeyup="lookup(this.value);" onblur="fill();" autocomplete="off"  />  
+				<input name="btn" value="Search" type="submit" class="search_bttn" />
+				<div class="suggestionsBox" id="suggestions" style="display: none;">
+					<div class="suggestionList" id="autoSuggestionsList">
+					</div>
+				</div>
+				</form>	
+			</div>
+		  		</div>
+
+<a name="top" id="top"></a>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+	<div id="wrapper">
+		<div id="menu">
+			<div id="menu_links">
+			<ul>
+				<li><a href="http://metalvideo.com/index.html">Homepage</a></li>
+								<li><a href="http://metalvideo.com/topvideos.html">Top Videos</a></li>
+				<li><a href="http://metalvideo.com/newvideos.html">New Videos</a></li>
+				<li><a href="http://metalvideo.com/randomizer.php" rel="nofollow">Random video</a></li>
+								<li><a href="http://metalvideo.com/contact_us.html">Contact us</a></li>
+								<li><a href="http://metalvideo.com/register.html">Register</a></li>
+											</ul>
+			</div>
+						 <ul id="lang_selector">
+			   <li class="lang_selected">
+				<span>
+				 <img src="http://metalvideo.com/lang/flags/us.png" width="16" height="11" border="0" alt="English" title="English" align="absmiddle" /> 
+				 <img src="http://metalvideo.com/templates/B52/images/lang_arrow.gif" name="arrow_profile" width="9" height="7" align="absmiddle" class="arrow">
+				 </span>
+			   </li>
+			  <li>
+			  <div class="lang_submenu">
+			  			   			  			   				 <a href="#" title="Deutsch" name="2" id="lang_select_2"><img src="http://metalvideo.com/lang/flags/de.png" width="16" height="11" border="0" alt="Deutsch" title="Deutsch" /></a>
+			   			  			   				 <a href="#" title="Rom&#226;n&#259;" name="3" id="lang_select_3"><img src="http://metalvideo.com/lang/flags/ro.png" width="16" height="11" border="0" alt="Rom&#226;n&#259;" title="Rom&#226;n&#259;" /></a>
+			   			  			   				 <a href="#" title="Fran&#231;ais" name="4" id="lang_select_4"><img src="http://metalvideo.com/lang/flags/fr.png" width="16" height="11" border="0" alt="Fran&#231;ais" title="Fran&#231;ais" /></a>
+			   			  			   				 <a href="#" title="Nederlands" name="5" id="lang_select_5"><img src="http://metalvideo.com/lang/flags/nl.png" width="16" height="11" border="0" alt="Nederlands" title="Nederlands" /></a>
+			   			  			   				 <a href="#" title="Lithuanian" name="6" id="lang_select_6"><img src="http://metalvideo.com/lang/flags/lt.png" width="16" height="11" border="0" alt="Lithuanian" title="Lithuanian" /></a>
+			   			  			   				 <a href="#" title="Albanian" name="7" id="lang_select_7"><img src="http://metalvideo.com/lang/flags/al.png" width="16" height="11" border="0" alt="Albanian" title="Albanian" /></a>
+			   			  			   				 <a href="#" title="Arabic" name="8" id="lang_select_8"><img src="http://metalvideo.com/lang/flags/sa.png" width="16" height="11" border="0" alt="Arabic" title="Arabic" /></a>
+			   			  			   				 <a href="#" title="Bulgarian" name="9" id="lang_select_9"><img src="http://metalvideo.com/lang/flags/bg.png" width="16" height="11" border="0" alt="Bulgarian" title="Bulgarian" /></a>
+			   			  			   				 <a href="#" title="Danish" name="10" id="lang_select_10"><img src="http://metalvideo.com/lang/flags/dk.png" width="16" height="11" border="0" alt="Danish" title="Danish" /></a>
+			   			  			   				 <a href="#" title="Italian" name="11" id="lang_select_11"><img src="http://metalvideo.com/lang/flags/it.png" width="16" height="11" border="0" alt="Italian" title="Italian" /></a>
+			   			  			   				 <a href="#" title="Portuguese" name="12" id="lang_select_12"><img src="http://metalvideo.com/lang/flags/pt.png" width="16" height="11" border="0" alt="Portuguese" title="Portuguese" /></a>
+			   			  			   				 <a href="#" title="Russian" name="13" id="lang_select_13"><img src="http://metalvideo.com/lang/flags/ru.png" width="16" height="11" border="0" alt="Russian" title="Russian" /></a>
+			   			  			   				 <a href="#" title="Serbian" name="14" id="lang_select_14"><img src="http://metalvideo.com/lang/flags/sr.png" width="16" height="11" border="0" alt="Serbian" title="Serbian" /></a>
+			   			  			   				 <a href="#" title="Swedish" name="15" id="lang_select_15"><img src="http://metalvideo.com/lang/flags/se.png" width="16" height="11" border="0" alt="Swedish" title="Swedish" /></a>
+			   			  			   				 <a href="#" title="Spanish" name="17" id="lang_select_17"><img src="http://metalvideo.com/lang/flags/es.png" width="16" height="11" border="0" alt="Spanish" title="Spanish" /></a>
+			   			  			   				 <a href="#" title="T&uuml;rk&ccedil;e" name="16" id="lang_select_16"><img src="http://metalvideo.com/lang/flags/tr.png" width="16" height="11" border="0" alt="T&uuml;rk&ccedil;e" title="T&uuml;rk&ccedil;e" /></a>
+			   			  			   				 <a href="#" title="Georgian" name="18" id="lang_select_18"><img src="http://metalvideo.com/lang/flags/ge.png" width="16" height="11" border="0" alt="Georgian" title="Georgian" /></a>
+			   			  			   				 <a href="#" title="Croatian" name="19" id="lang_select_19"><img src="http://metalvideo.com/lang/flags/hr.png" width="16" height="11" border="0" alt="Croatian" title="Croatian" /></a>
+			   			  			   				 <a href="#" title="Brazilian" name="20" id="lang_select_20"><img src="http://metalvideo.com/lang/flags/pt-br.png" width="16" height="11" border="0" alt="Brazilian" title="Brazilian" /></a>
+			   			  			   				 <a href="#" title="Slovak" name="21" id="lang_select_21"><img src="http://metalvideo.com/lang/flags/sk.png" width="16" height="11" border="0" alt="Slovak" title="Slovak" /></a>
+			   			  			   				 <a href="#" title="Polish" name="22" id="lang_select_22"><img src="http://metalvideo.com/lang/flags/pl.png" width="16" height="11" border="0" alt="Polish" title="Polish" /></a>
+			   			  			  </div>
+			  </li>
+			 </ul>
+					</div>
+
+					<div align="center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Top Ad Unit -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-6339100196819244"
+     data-ad-slot="4942731354"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		 
+<br />
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="2" align="left" valign="top">
+
+	</td>
+  </tr>
+  <tr>
+    <td align="left" valign="top">
+	<div id="detail_page">
+		<table width="100%" border="0" cellspacing="2" cellpadding="2">
+		  <tr>
+			<td valign="top">
+				<h2 class="h2_song">Turn The Page</h2>
+				<h2 class="h2_artist">Metallica</h2>
+			</td>
+			<td width="100px" valign="top">
+
+			</td>
+		  </tr>
+		</table>
+				<div align="center">
+		  	
+	<div id="Playerholder">
+		You need to have the <a href="http://www.macromedia.com/go/getflashplayer">Flash Player</a> installed and
+		a browser with JavaScript support.
+	</div>
+	<script type="text/javascript">
+
+	var clips = "[ { name: 'ClickToPlay', overlayId: 'play' },";
+		
+	 	
+	
+	clips = clips + " { name: '57989e7f6', url: 'http://metalvideo.com/videos.php?vid=57989e7f6' } ]";
+	
+	var flashvars = {
+		config: "{ playList: " + clips + ", useSmoothing: true, baseURL: '', autoPlay: false, autoBuffering: true, startingBufferLength: 2, bufferLength: 5, loop: false,hideControls: false,initialScale: 'fit', showPlayListButtons: false, useNativeFullScreen: true,controlBarGloss: 'high', controlsOverVideo: 'locked', watermarkUrl: '', showWatermark: 'fullscreen', watermarkLinkUrl: 'http://metalvideo.com/', controlBarBackgroundColor: '0x253133', progressBarColor1: '0xFFFFFF', progressBarColor2: '0x000000', timeDisplayFontColor: '0xFFCC00', noVideoClip: { url: 'http://metalvideo.com/uploads/notfound.jpg' }, menuItems: [ false, false, true, true, true, false, false ], showStopButton: true, useHwScaling: false, showOnLoadBegin: true }"
+	};
+	
+	var params = {
+		allowfullscreen: "true",
+		allowScriptAccess: "always",
+		wmode: "window"
+	};
+	var attributes = {};
+	swfobject.embedSWF("http://metalvideo.com/player.swf", "Playerholder", "566", "456", "9.0.115", false, flashvars, params, attributes);
+	</script>
+	
+	
+    
+
+
+
+		</div>
+				
+		<div id="controlers">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+		  <tr>
+		    <td align="left">
+			<div id="lightsoff"><a href="#" ><img src="http://metalvideo.com/templates/B52/images/s_ico_lights.gif" align="absmiddle" height="31" width="109" alt="Lights off" border="0" /></a></div>
+			<a href="javascript:reportPopup('1', '57989e7f6')"><img src="http://metalvideo.com/templates/B52/images/s_ico_report.gif" align="absmiddle" height="31" width="118" alt="" border="0" style="float: left;" /></a>
+			<a href="javascript:sharePopup('57989e7f6')"><img src="http://metalvideo.com/templates/B52/images/s_ico_email.gif" align="absmiddle" height="31" width="109" alt="" border="0" style="float: left;" /></a>		
+						</td>
+		</tr>
+		</table>
+		</div>
+		<table width="100%" border="0" cellspacing="0" cellpadding="3">
+				<tr>
+			<td colspan="2">
+				<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fmetalvideo.com%2Fmetallica%2Fturn-the-page-video_57989e7f6.html&amp;layout=standard&amp;show_faces=false&amp;width=400&amp;action=like&amp;colorscheme=dark&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:400px; height:35px;" allowTransparency="true"></iframe>
+			</td>
+		</tr>
+								<tr>
+		    <td colspan="2" align="left">
+			<h3>Description</h3>
+			<p>Metallica - Turn The Page </p><p>Album: Garage Inc. </p><p>Director: Jonas Akerlund <br>Filmed in October 1998 in Los Angeles, CA <br>Video Premiere Date: October 28, 1998 </p>			</td>
+		</tr>
+						<tr>
+		    <td colspan="2" align="left">
+			<h3>Tags</h3>
+			<div id="tags">
+			<a href="http://metalvideo.com/tags/metallica/">Metallica</a>, <a href="http://metalvideo.com/tags/heavy-metal/">Heavy Metal</a>	</div>			</td>
+		</tr>
+				
+		</table>
+	</div>	
+	<br />
+		<div align="center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Under Player Ad Space -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-6339100196819244"
+     data-ad-slot="9950163715"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+	<br />
+		<a name="comments" id="comments"></a>
+		<div id="detail_page_comments">
+					<h3>Post your comment</h3>
+			<span class="mycommentspan" name="mycommentspan" id="mycommentspan"></span>
+			<form action="" name="myform" method="post" id="myform">
+			 Your name:<br />
+			<input type="text" id="c_username" name="username" value="" class="inputtext" /><br /><br />
+			Your comment:<br />
+			<textarea id="c_comment_txt" name="comment_txt" style="width:470px" rows="5" onkeyup="textLimit(this, 400);"></textarea><br /><br />
+			Confirm:<br />
+			<img src="http://metalvideo.com/include/securimage_show.php?sid=1d87988e59746ea80ff13e506846282d" id="image" align="absmiddle" />
+			<a href="#" onclick="document.getElementById('image').src = 'http://metalvideo.com/include/securimage_show.php?sid=' + Math.random(); return false"><img src="http://metalvideo.com/templates/B52/images/reload.gif" border="0" align="absmiddle" /></a>
+			<br />
+     		<input class="inputtext" name="captcha" type="text" id="captcha" size="15" maxlength="15" />
+
+			<input type="hidden" id="c_vid" name="vid" value="57989e7f6" />
+			<input type="hidden" id="c_user_id" name="user_id" value="0" />
+			<br />
+			<input type="submit" id="c_submit" name="Submit" value="Submit comment" class="inputbutton" />
+			<br /><span class="small-warning">* Please keep your comments clean. Max 400 chars.</span>
+			</form>
+				<br />
+		<h3>Comments</h3>
+		<br />
+			<div class="comment_box">
+							<ol>
+				<li id="preview_comment"></li>
+				</ol>
+				<ol id="comments_ol">
+				<li id="comment-1">
+<div class="comment-head"><img src="http://metalvideo.com/uploads/avatars/male.gif" alt="MagicMan1089" border="0" width="48" height="48" class="avatar_img" />
+<div class="comment-author"><a href="http://metalvideo.com/profile.html?u=MagicMan1089"rel="nofollow">MagicMan1089</a></div><div class="comment-date">5 years, 1 month ago</div></div><br />
+Great song I love Metallica but Hey! come on now no uncensored version of the video I know for a fact Metallica has an Uncensored version of this video you really need to add the Uncensored version of this video to this website
+</li>
+<li id="comment-2">
+<div class="comment-head"><img src="http://metalvideo.com/uploads/avatars/no_avatar.gif" alt="Ryan" border="0" width="48" height="48" class="avatar_img" />
+<div class="comment-author">Ryan</div><div class="comment-date">6 years, 2 months ago</div></div><br />
+STFU AND ENJOY THIS SHIZZ BECOZ METALLICA PWN !!!!!
+</li>
+<li id="comment-3">
+<div class="comment-head"><img src="http://metalvideo.com/uploads/avatars/no_avatar.gif" alt="mike" border="0" width="48" height="48" class="avatar_img" />
+<div class="comment-author">mike</div><div class="comment-date">6 years, 6 months ago</div></div><br />
+whoever sean is he's a tool Metallica will always be awesome. your probably just mad cuz kirk didnt let u suck him off.
+</li>
+<li id="comment-4">
+<div class="comment-head"><img src="http://metalvideo.com/uploads/avatars/no_avatar.gif" alt="Kevin" border="0" width="48" height="48" class="avatar_img" />
+<div class="comment-author">Kevin</div><div class="comment-date">6 years, 10 months ago</div></div><br />
+Metallica is great ! When they play Thrash they re great, when the play heavy they re great and when they play smooth cover like that they re great !!!!!!
+</li>
+<li id="comment-5">
+<div class="comment-head"><img src="http://metalvideo.com/uploads/avatars/no_avatar.gif" alt="Sean" border="0" width="48" height="48" class="avatar_img" />
+<div class="comment-author">Sean</div><div class="comment-date">7 years, 6 months ago</div></div><br />
+Metallica You are saleouts Larrs you need you ass kicked, I stopped listening to Metallica when Larrs went to court over Napster.  Trashed all my Tapes and CDs.
+</li>
+<li id="comment-6">
+<div class="comment-head"><img src="http://metalvideo.com/uploads/avatars/male.gif" alt="shadowdeffender" border="0" width="48" height="48" class="avatar_img" />
+<div class="comment-author"><a href="http://metalvideo.com/profile.html?u=shadowdeffender"rel="nofollow">shadowdeffender</a></div><div class="comment-date">7 years, 7 months ago</div></div><br />
+Metallica is awesome!<br />
+^_^
+</li>
+<li id="comment-7">
+<div class="comment-head"><img src="http://metalvideo.com/uploads/avatars/no_avatar.gif" alt="ghg" border="0" width="48" height="48" class="avatar_img" />
+<div class="comment-author">ghg</div><div class="comment-date">7 years, 8 months ago</div></div><br />
+one of Metallica's greatest covers!
+</li>
+<li id="comment-8">
+<div class="comment-head"><img src="http://metalvideo.com/uploads/avatars/avatar975-1343.jpg" alt="SeattleMinusLayne" border="0" width="48" height="48" class="avatar_img" />
+<div class="comment-author"><a href="http://metalvideo.com/profile.html?u=SeattleMinusLayne"rel="nofollow">SeattleMinusLayne</a></div><div class="comment-date">7 years, 9 months ago</div></div><br />
+my fave :D
+</li>
+<li id="comment-9">
+<div class="comment-head"><img src="http://metalvideo.com/uploads/avatars/no_avatar.gif" alt="TheHonesyGuy" border="0" width="48" height="48" class="avatar_img" />
+<div class="comment-author">TheHonesyGuy</div><div class="comment-date">7 years, 11 months ago</div></div><br />
+A harsh song and video. And the last sentence I hope was a lie!!
+</li>
+
+				</ol>
+									</div>
+		</div>
+	</td>
+    <td width="305" valign="top">
+	<div id="h3"><span><b>Video Details</b></span></div>
+	<div id="detail_page_vid_info">
+		<strong>Artist</strong>: <a href="#" id="href_artist_name">Metallica</a><br />
+		<strong>Video title</strong>: Turn The Page<br />
+		<strong>Category</strong>: <a href="http://metalvideo.com/browse-heavy_metal-videos-1-date.html">Heavy Metal</a> <br />
+		<strong>Views</strong>: 56,086<br />
+		<strong>Submitted by</strong>: <a href="http://metalvideo.com/profile.html?u=metalvideo">metalvideo</a><br />
+	</div>
+	<br />
+	<div id="h3"><span><b>Rating</b></span></div>
+	<div id="detail_page_vid_info">
+					<div id="unit_long57989e7f6">
+				<ul class="unit-rating">
+				<li class='current-rating' style="width:96px;">
+				Currently 4.80/5				</li>
+											<li><a href="#" title="" class="r1-unit" onclick="javascript:sndReq('1','57989e7f6','66.85.205.199', 'http://metalvideo.com')">1</a></li>
+										<li><a href="#" title="" class="r2-unit" onclick="javascript:sndReq('2','57989e7f6','66.85.205.199', 'http://metalvideo.com')">2</a></li>
+										<li><a href="#" title="" class="r3-unit" onclick="javascript:sndReq('3','57989e7f6','66.85.205.199', 'http://metalvideo.com')">3</a></li>
+										<li><a href="#" title="" class="r4-unit" onclick="javascript:sndReq('4','57989e7f6','66.85.205.199', 'http://metalvideo.com')">4</a></li>
+										<li><a href="#" title="" class="r5-unit" onclick="javascript:sndReq('5','57989e7f6','66.85.205.199', 'http://metalvideo.com')">5</a></li>
+								</ul>
+	<span style="font-size: 9px;">
+	Rating: <strong>4.8</strong> out of 50 votes	</span> 
+				</div>
+	</div>
+	<br />
+		<ul id="show_related" class="shadetabs">
+			<li class="selected" id="tabs_select_related"><a href="#" class="57989e7f6">Related</a></li>
+			<li id="tabs_select_sameartist"><a href="#" class="57989e7f6">Same Artist</a></li>
+			<li id="tabs_select_other"><a href="#" class="57989e7f6">Best in category</a></li>
+		</ul>
+		<div id="detail_show_more">
+			<div id="ajaxcontentarea" class="contentstyle">
+				
+				<div id="tabs_related" class="tabcontent">
+				
+			<div class="item">
+			<a href="http://metalvideo.com/in-flames/deliver-us-video_788a6ddbb.html"><img src="http://i.ytimg.com/vi/KTiQ75HY0DA/0.jpg" alt="Deliver Us" class="imag" width="116" height="87" /></a>
+			<span class="artist_name">In Flames</span>
+			<a href="http://metalvideo.com/in-flames/deliver-us-video_788a6ddbb.html" class="song_name">Deliver Us</a>
+			</div>
+			<div class="item">
+			<a href="http://metalvideo.com/saint-diablo/watch-me-kill-video_5ff3e2089.html"><img src="http://i.ytimg.com/vi/uPemVHNtSdc/0.jpg" alt="Watch Me Kill" class="imag" width="116" height="87" /></a>
+			<span class="artist_name">Saint Diablo</span>
+			<a href="http://metalvideo.com/saint-diablo/watch-me-kill-video_5ff3e2089.html" class="song_name">Watch Me Kill</a>
+			</div>
+			<div class="item">
+			<a href="http://metalvideo.com/helloween/mrs-god-video_adef9595e.html"><img src="http://i.ytimg.com/vi/PQzkwwjbbeA/2.jpg" alt="Mrs. God" class="imag" width="116" height="87" /></a>
+			<span class="artist_name">Helloween</span>
+			<a href="http://metalvideo.com/helloween/mrs-god-video_adef9595e.html" class="song_name">Mrs. God</a>
+			</div>
+			<div class="item">
+			<a href="http://metalvideo.com/baroness/chlorine-wine-video_e38ef254f.html"><img src="http://i.ytimg.com/vi/DnYO7iQfQDQ/mqdefault.jpg" alt="Chlorine & Wine" class="imag" width="116" height="87" /></a>
+			<span class="artist_name">Baroness</span>
+			<a href="http://metalvideo.com/baroness/chlorine-wine-video_e38ef254f.html" class="song_name">Chlorine & Wine</a>
+			</div>
+			<div class="item">
+			<a href="http://metalvideo.com/hollow/landscape-video_3c85acfff.html"><img src="http://i1.ytimg.com/vi/-s7DCmwXkI8/0.jpg" alt="Landscape" class="imag" width="116" height="87" /></a>
+			<span class="artist_name">Hollow</span>
+			<a href="http://metalvideo.com/hollow/landscape-video_3c85acfff.html" class="song_name">Landscape</a>
+			</div>
+			<div class="item">
+			<a href="http://metalvideo.com/red/darkest-part-video_22c766d86.html"><img src="http://i.ytimg.com/vi/Wfo4Jbn1fiY/0.jpg" alt="Darkest Part" class="imag" width="116" height="87" /></a>
+			<span class="artist_name">RED</span>
+			<a href="http://metalvideo.com/red/darkest-part-video_22c766d86.html" class="song_name">Darkest Part</a>
+			</div>
+			<div class="item">
+			<a href="http://metalvideo.com/kittie/funeral-for-yesterday-studio-version-video_f14648577.html"><img src="http://www.metalvideo.com/uploads/thumbs/kittie_funeral_for_yesterday_thumb.jpg" alt="Funeral for Yesterday (Studio Version)" class="imag" width="116" height="87" /></a>
+			<span class="artist_name">Kittie</span>
+			<a href="http://metalvideo.com/kittie/funeral-for-yesterday-studio-version-video_f14648577.html" class="song_name">Funeral for Yesterday (Studio Version)</a>
+			</div>
+			<div class="item">
+			<a href="http://metalvideo.com/iron-man/hail-to-the-haze-video_ce40ec1a4.html"><img src="http://i.ytimg.com/vi/ZKVFrHS4qRM/mqdefault.jpg" alt="Hail to the Haze" class="imag" width="116" height="87" /></a>
+			<span class="artist_name">Iron Man</span>
+			<a href="http://metalvideo.com/iron-man/hail-to-the-haze-video_ce40ec1a4.html" class="song_name">Hail to the Haze</a>
+			</div>
+			<div class="item">
+			<a href="http://metalvideo.com/dreamshade/photographs-video_9b1e84bb2.html"><img src="http://i1.ytimg.com/vi/UQfNZ-lLsbw/0.jpg" alt="Photographs" class="imag" width="116" height="87" /></a>
+			<span class="artist_name">Dreamshade</span>
+			<a href="http://metalvideo.com/dreamshade/photographs-video_9b1e84bb2.html" class="song_name">Photographs</a>
+			</div>
+			<div class="item">
+			<a href="http://metalvideo.com/amon-amarth/first-kill-video_28dde66f1.html"><img src="http://i.ytimg.com/vi/qw5G6fF-wqQ/mqdefault.jpg" alt="First Kill" class="imag" width="116" height="87" /></a>
+			<span class="artist_name">Amon Amarth</span>
+			<a href="http://metalvideo.com/amon-amarth/first-kill-video_28dde66f1.html" class="song_name">First Kill</a>
+			</div>
+				</div>
+				
+				<div id="tabs_sameartist" class="tabcontent">
+				
+				</div>
+				
+				<div id="tabs_other" class="tabcontent">
+				
+				</div>
+				
+			</div>
+		</div>
+	<br />
+	<div id="h3"><span><b>Share</b></span></div>
+	<div id="detail_page_video_links">
+	<span class="small_title">URL <input name="video_link" id="video_link" type="text" class="inputtextsmall" value="http://metalvideo.com/metallica/turn-the-page-video_57989e7f6.html" size="50" onClick="SelectAll('video_link');" /> <a href="javascript:addmyspacePopup('57989e7f6')">[Embed]</a></span>
+	</div>	
+	<br />
+	<div id="h3"><span><b>Bookmark</b></span></div>
+	<div id="detail_page_share_link">
+BOOKMARK VIDEO:
+<ul>
+<li class="twitter"><a href="http://twitter.com/home/?status=Turn+The+Page+Video+by+Metallica+http%3A%2F%2Fmetalvideo.com%2Fmetallica%2Fturn-the-page-video_57989e7f6.html" title="Tweet this" target="_blank">&nbsp;</a></li>
+<li class="digg"><a href="http://digg.com/submit?phase=2&url=http://metalvideo.com/metallica/turn-the-page-video_57989e7f6.html&title=Turn The Page - Metallica" target="_blank">&nbsp;</a></li>
+<li class="reddit"><a href="http://en.reddit.com/submit?url=http://metalvideo.com/metallica/turn-the-page-video_57989e7f6.html&title=Turn The Page - Metallica" target="_blank">&nbsp;</a></li>
+<li class="furl"><a href="http://furl.net/storeIt.jsp?u=http://metalvideo.com/metallica/turn-the-page-video_57989e7f6.html&t=Turn The Page - Metallica" target="_blank">&nbsp;</a></li>
+<li class="google"><a href="http://www.google.com/bookmarks/mark?op=edit&bkmk=http://metalvideo.com/metallica/turn-the-page-video_57989e7f6.html&title=Turn The Page - Metallica" target="_blank">&nbsp;</a></li>
+<li class="technorati"><a href="http://www.technorati.com/faves?add=http://metalvideo.com/metallica/turn-the-page-video_57989e7f6.html" target="_blank">&nbsp;</a></li>
+<li class="live"><a href="https://favorites.live.com/quickadd.aspx?marklet=1&mkt=en-us&url=http://metalvideo.com/metallica/turn-the-page-video_57989e7f6.html&title=Turn The Page - Metallica&top=1" target="_blank">&nbsp;</a></li>
+<li class="yahoo"><a href="http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http://metalvideo.com/metallica/turn-the-page-video_57989e7f6.html&t=Turn The Page - Metallica" target="_blank">&nbsp;</a></li>
+<li class="stumbleupon"><a href="http://www.stumbleupon.com/submit?url=http://metalvideo.com/metallica/turn-the-page-video_57989e7f6.html&title=Turn The Page - Metallica" target="_blank">&nbsp;</a></li>
+<li class="delicious"><a href="http://del.icio.us/post?url=http://metalvideo.com/metallica/turn-the-page-video_57989e7f6.html&title=Turn The Page - Metallica" target="_blank">&nbsp;</a></li>
+<li class="facebook"><a href="http://www.facebook.com/share.php?u=http://metalvideo.com/metallica/turn-the-page-video_57989e7f6.html&title=Turn The Page - Metallica" target="_blank">&nbsp;</a></li>
+</ul>
+</div>	</td>
+  </tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+
+	<div id="footer">
+	<div align="center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Bottom of page -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-6339100196819244"
+     data-ad-slot="7021566956"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+    <!--
+	Removing the PHPSugar.com copyright link is against our terms of agreement.
+	Removing the link without our permission affects your license and as a result you won't 
+	benefit from the free support and the upgrades we provide.
+
+	To ask for permission, please visit the following URL where you can contact the PHPSugar Team.
+
+	http://www.phpsugar.com/customer_care.html
+
+	* Please include your URL when making the request.
+//-->
+
+	
+<div align="center">	
+<a href="http://metalvideo.com/index.html">Homepage</a> | <a href="http://metalvideo.com/contact_us.html">Contact us</a> | <a href="http://metalvideo.com/register.html">Register</a> |   <a href="#top">Go Up</a><br />
+	&copy; 2017 Metal Video. All rights reserved
+</div>
+	
+	</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1055870-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>

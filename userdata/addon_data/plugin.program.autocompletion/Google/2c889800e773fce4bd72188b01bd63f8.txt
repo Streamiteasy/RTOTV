@@ -1,0 +1,1 @@
+["http://srp.nu", ["http://srp.nu", "http //srp.nu not working", "srp.nu", "srp.nu kodi", "http //srp.nu kodi", "srp.nu kodi 2017", "srp.nu repo", "http //srp.nu exodus", "http //srp.nu/ (from superrepo)", "srp.nu addon"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

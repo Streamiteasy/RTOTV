@@ -1,0 +1,1 @@
+["TIME.com", ["time.com", "time.com eclipse", "time.com solar eclipse", "time.com/eclipse", "time.com/starwars40", "time.com/emmetttill", "time.com fireworks drone", "time.com total solar eclipse", "time.com/100photos", "time.com 100 photos"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

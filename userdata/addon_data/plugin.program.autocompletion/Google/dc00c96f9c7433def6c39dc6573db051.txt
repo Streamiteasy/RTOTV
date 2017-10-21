@@ -1,0 +1,1 @@
+["T", ["tay k", "tupac", "taylor swift", "trolls", "the weekend", "travis scott", "try not to laugh", "t", "thunder", "trump"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

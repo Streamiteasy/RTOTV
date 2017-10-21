@@ -1,0 +1,34 @@
+<settings>
+    <setting id="backend_bookmarks" value="true" />
+    <setting id="block_shutdown" value="true" />
+    <setting id="channel_icons" value="true" />
+    <setting id="enable_edl" value="0" />
+    <setting id="extradebug" value="false" />
+    <setting id="group_recordings" value="0" />
+    <setting id="host" value="127.0.0.1" />
+    <setting id="host_ether" value="" />
+    <setting id="inactive_upcomings" value="true" />
+    <setting id="limit_tune_attempts" value="true" />
+    <setting id="livetv" value="true" />
+    <setting id="livetv_conflict_strategy" value="0" />
+    <setting id="livetv_priority" value="true" />
+    <setting id="livetv_recordings" value="true" />
+    <setting id="port" value="6543" />
+    <setting id="prompt_delete" value="false" />
+    <setting id="rec_autocommflag" value="true" />
+    <setting id="rec_autoexpire" value="true" />
+    <setting id="rec_autometadata" value="true" />
+    <setting id="rec_autorunjob1" value="false" />
+    <setting id="rec_autorunjob2" value="false" />
+    <setting id="rec_autorunjob3" value="false" />
+    <setting id="rec_autorunjob4" value="false" />
+    <setting id="rec_autotranscode" value="false" />
+    <setting id="rec_separator1" value="" />
+    <setting id="rec_template_provider" value="1" />
+    <setting id="rec_transcoder" value="0" />
+    <setting id="recording_icons" value="true" />
+    <setting id="tunedelay" value="0" />
+    <setting id="use_airdate" value="false" />
+    <setting id="wsport" value="6544" />
+    <setting id="wssecuritypin" value="0000" />
+</settings>

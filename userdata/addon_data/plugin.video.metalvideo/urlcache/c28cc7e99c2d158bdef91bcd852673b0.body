@@ -1,0 +1,554 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Hardcore Music Videos</title>
+<meta name="keywords" content="" />
+<meta name="description" content="Hardcore Music Videos - Metal Video - Page 1 of  2" />
+<link rel="shortcut icon" href="http://metalvideo.com/uploads/favicon.ico">
+<link href="http://metalvideo.com/templates/B52/style.css" rel="stylesheet" type="text/css" />
+<link type="application/atom+xml" rel="alternate" title="Hardcore Music Videos" href="http://metalvideo.com/rss.php" />
+<script type="text/javascript">
+ var MELODYURL = "http://metalvideo.com";
+ var MELODYURL2 = "http://metalvideo.com";
+ var TemplateP = "http://metalvideo.com/templates/B52";
+</script>
+ <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+ <script type="text/javascript" src="http://metalvideo.com/js/general.js"></script>
+ <script type="text/javascript" src="http://metalvideo.com/js/langselector.js"></script>
+ <script type="text/javascript" src="http://metalvideo.com/js/jquery.hover.js"></script>
+ <script type="text/javascript" src="http://metalvideo.com/jwplayer.js"></script>
+  
+ 
+ <script type="text/javascript">
+ jQuery(document).ready( 
+  function() {
+	catlist(); 
+  });
+
+  $(document).ready(function() {
+	  $("#pm_sources").change(function () {
+		  var str = $("select option:selected").attr('value');
+		  $("#pm_sources_ex").text(str);
+	  })
+	  .change();
+  });
+ </script>
+ 
+
+
+</head>
+<body>
+		<div id="logo_search">
+		<div id="logo">
+
+		</div>
+		  			<div id="search_form">
+				<form action="http://metalvideo.com/search.php" method="get" id="search" name="search" onsubmit="return validateSearch('true');">
+				<input name="keywords" type="text" value="" class="search_keywords" id="inputString" onkeyup="lookup(this.value);" onblur="fill();" autocomplete="off"  />  
+				<input name="btn" value="Search" type="submit" class="search_bttn" />
+				<div class="suggestionsBox" id="suggestions" style="display: none;">
+					<div class="suggestionList" id="autoSuggestionsList">
+					</div>
+				</div>
+				</form>	
+			</div>
+		  		</div>
+
+<a name="top" id="top"></a>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+	<div id="wrapper">
+		<div id="menu">
+			<div id="menu_links">
+			<ul>
+				<li><a href="http://metalvideo.com/index.html">Homepage</a></li>
+								<li><a href="http://metalvideo.com/topvideos.html">Top Videos</a></li>
+				<li><a href="http://metalvideo.com/newvideos.html">New Videos</a></li>
+				<li><a href="http://metalvideo.com/randomizer.php" rel="nofollow">Random video</a></li>
+								<li><a href="http://metalvideo.com/contact_us.html">Contact us</a></li>
+								<li><a href="http://metalvideo.com/register.html">Register</a></li>
+											</ul>
+			</div>
+						 <ul id="lang_selector">
+			   <li class="lang_selected">
+				<span>
+				 <img src="http://metalvideo.com/lang/flags/us.png" width="16" height="11" border="0" alt="English" title="English" align="absmiddle" /> 
+				 <img src="http://metalvideo.com/templates/B52/images/lang_arrow.gif" name="arrow_profile" width="9" height="7" align="absmiddle" class="arrow">
+				 </span>
+			   </li>
+			  <li>
+			  <div class="lang_submenu">
+			  			   			  			   				 <a href="#" title="Deutsch" name="2" id="lang_select_2"><img src="http://metalvideo.com/lang/flags/de.png" width="16" height="11" border="0" alt="Deutsch" title="Deutsch" /></a>
+			   			  			   				 <a href="#" title="Rom&#226;n&#259;" name="3" id="lang_select_3"><img src="http://metalvideo.com/lang/flags/ro.png" width="16" height="11" border="0" alt="Rom&#226;n&#259;" title="Rom&#226;n&#259;" /></a>
+			   			  			   				 <a href="#" title="Fran&#231;ais" name="4" id="lang_select_4"><img src="http://metalvideo.com/lang/flags/fr.png" width="16" height="11" border="0" alt="Fran&#231;ais" title="Fran&#231;ais" /></a>
+			   			  			   				 <a href="#" title="Nederlands" name="5" id="lang_select_5"><img src="http://metalvideo.com/lang/flags/nl.png" width="16" height="11" border="0" alt="Nederlands" title="Nederlands" /></a>
+			   			  			   				 <a href="#" title="Lithuanian" name="6" id="lang_select_6"><img src="http://metalvideo.com/lang/flags/lt.png" width="16" height="11" border="0" alt="Lithuanian" title="Lithuanian" /></a>
+			   			  			   				 <a href="#" title="Albanian" name="7" id="lang_select_7"><img src="http://metalvideo.com/lang/flags/al.png" width="16" height="11" border="0" alt="Albanian" title="Albanian" /></a>
+			   			  			   				 <a href="#" title="Arabic" name="8" id="lang_select_8"><img src="http://metalvideo.com/lang/flags/sa.png" width="16" height="11" border="0" alt="Arabic" title="Arabic" /></a>
+			   			  			   				 <a href="#" title="Bulgarian" name="9" id="lang_select_9"><img src="http://metalvideo.com/lang/flags/bg.png" width="16" height="11" border="0" alt="Bulgarian" title="Bulgarian" /></a>
+			   			  			   				 <a href="#" title="Danish" name="10" id="lang_select_10"><img src="http://metalvideo.com/lang/flags/dk.png" width="16" height="11" border="0" alt="Danish" title="Danish" /></a>
+			   			  			   				 <a href="#" title="Italian" name="11" id="lang_select_11"><img src="http://metalvideo.com/lang/flags/it.png" width="16" height="11" border="0" alt="Italian" title="Italian" /></a>
+			   			  			   				 <a href="#" title="Portuguese" name="12" id="lang_select_12"><img src="http://metalvideo.com/lang/flags/pt.png" width="16" height="11" border="0" alt="Portuguese" title="Portuguese" /></a>
+			   			  			   				 <a href="#" title="Russian" name="13" id="lang_select_13"><img src="http://metalvideo.com/lang/flags/ru.png" width="16" height="11" border="0" alt="Russian" title="Russian" /></a>
+			   			  			   				 <a href="#" title="Serbian" name="14" id="lang_select_14"><img src="http://metalvideo.com/lang/flags/sr.png" width="16" height="11" border="0" alt="Serbian" title="Serbian" /></a>
+			   			  			   				 <a href="#" title="Swedish" name="15" id="lang_select_15"><img src="http://metalvideo.com/lang/flags/se.png" width="16" height="11" border="0" alt="Swedish" title="Swedish" /></a>
+			   			  			   				 <a href="#" title="Spanish" name="17" id="lang_select_17"><img src="http://metalvideo.com/lang/flags/es.png" width="16" height="11" border="0" alt="Spanish" title="Spanish" /></a>
+			   			  			   				 <a href="#" title="T&uuml;rk&ccedil;e" name="16" id="lang_select_16"><img src="http://metalvideo.com/lang/flags/tr.png" width="16" height="11" border="0" alt="T&uuml;rk&ccedil;e" title="T&uuml;rk&ccedil;e" /></a>
+			   			  			   				 <a href="#" title="Georgian" name="18" id="lang_select_18"><img src="http://metalvideo.com/lang/flags/ge.png" width="16" height="11" border="0" alt="Georgian" title="Georgian" /></a>
+			   			  			   				 <a href="#" title="Croatian" name="19" id="lang_select_19"><img src="http://metalvideo.com/lang/flags/hr.png" width="16" height="11" border="0" alt="Croatian" title="Croatian" /></a>
+			   			  			   				 <a href="#" title="Brazilian" name="20" id="lang_select_20"><img src="http://metalvideo.com/lang/flags/pt-br.png" width="16" height="11" border="0" alt="Brazilian" title="Brazilian" /></a>
+			   			  			   				 <a href="#" title="Slovak" name="21" id="lang_select_21"><img src="http://metalvideo.com/lang/flags/sk.png" width="16" height="11" border="0" alt="Slovak" title="Slovak" /></a>
+			   			  			   				 <a href="#" title="Polish" name="22" id="lang_select_22"><img src="http://metalvideo.com/lang/flags/pl.png" width="16" height="11" border="0" alt="Polish" title="Polish" /></a>
+			   			  			  </div>
+			  </li>
+			 </ul>
+					</div>
+
+					<div align="center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Top Ad Unit -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-6339100196819244"
+     data-ad-slot="4942731354"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		 
+
+<br />
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="150" valign="top">
+	<div id="reg_box">
+	<h3>Category</h3>
+		<div id="list_cats">
+		<ul>
+		<ul id='ul_categories'>
+<li class=""><a href="http://metalvideo.com/browse-alternative-videos-1-date.html">Alternative</a></li>
+<li class=""><a href="http://metalvideo.com/browse-black_metal-videos-1-date.html">Black Metal</a></li>
+<li class=""><a href="http://metalvideo.com/browse-classic_metal-videos-1-date.html">Classic Metal</a></li>
+<li class=""><a href="http://metalvideo.com/browse-concerts-videos-1-date.html">Concerts</a></li>
+<li class=""><a href="http://metalvideo.com/browse-death_metal-videos-1-date.html">Death Metal</a></li>
+<li class=""><a href="http://metalvideo.com/browse-featured-videos-1-date.html">Featured</a></li>
+<li class=""><a href="http://metalvideo.com/browse-folk_metal-videos-1-date.html">Folk Metal</a></li>
+<li class=""><a href="http://metalvideo.com/browse-gothic_metal-videos-1-date.html">Gothic Metal</a></li>
+<li class=""><a href="http://metalvideo.com/browse-grindcore-videos-1-date.html">Grindcore</a></li>
+<li class=""><a href="http://metalvideo.com/browse-grunge-videos-1-date.html">Grunge</a></li>
+<li class=""><a href="http://metalvideo.com/browse-hair_metal-videos-1-date.html">Hair Metal</a></li>
+<li class=""><a href="http://metalvideo.com/browse-hard_rock-videos-1-date.html">Hard Rock</a></li>
+<li class="selectedcat"><a href="http://metalvideo.com/browse-hardcore-videos-1-date.html">Hardcore</a></li>
+<li class=""><a href="http://metalvideo.com/browse-heavy_metal-videos-1-date.html">Heavy Metal</a></li>
+<li class=""><a href="http://metalvideo.com/browse-indie_metal-videos-1-date.html">Indie Metal</a></li>
+<li class=""><a href="http://metalvideo.com/browse-industrial-videos-1-date.html">Industrial</a></li>
+<li class=""><a href="http://metalvideo.com/browse-Interviews-videos-1-date.html">Interviews</a></li>
+<li class=""><a href="http://metalvideo.com/browse-lyric-videos-1-date.html">Lyric Videos</a></li>
+<li class=""><a href="http://metalvideo.com/browse-metalcore-videos-1-date.html">Metalcore</a></li>
+<li class=""><a href="http://metalvideo.com/browse-Nu_metal-videos-1-date.html">Nu metal</a></li>
+<li class=""><a href="http://metalvideo.com/browse-promo-videos-1-date.html">Promo Videos</a></li>
+<li class=""><a href="http://metalvideo.com/browse-punk-videos-1-date.html">Punk</a></li>
+<li class=""><a href="http://metalvideo.com/browse-stoner_rock-videos-1-date.html">Stoner Rock</a></li>
+<li class=""><a href="http://metalvideo.com/browse-thrash-videos-1-date.html">Thrash Metal</a></li>
+<li class=""><a href="http://metalvideo.com/browse-technical-videos-1-date.html">Technical</a></li>
+<li class=""><a href="http://metalvideo.com/browse-IronMike-videos-1-date.html">Iron Mikes Metal Video</a></li>
+<li class=""><a href="http://metalvideo.com/browse-Capital_Chaos-videos-1-date.html">Capital Chaos</a></li>
+
+</ul>		
+		</ul>
+		</div>
+	</div>	
+	<br />
+	<div id="reg_box">
+	<h3>Members</h3>
+		<form name="login_form" method="post" action="http://metalvideo.com/login.php">
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr>
+    <td class="reg_box_login">Username<br />
+    <input name="username" type="text" size="15" class="inputtext" /></td>
+  </tr>
+  <tr>
+    <td class="reg_box_login">Password<br />
+      <input name="pass" type="password" size="15" class="inputtext" />
+	</td>
+  </tr>
+  <tr>
+  <td class="reg_box_login">
+  <input name="remember" type="checkbox" value="1"  />
+      Remember Me
+  </td>
+  </tr>
+  
+  <tr>
+    <td><label>
+	<input type="hidden" name="ref" value="" />
+      <input type="submit" name="Login" value="Login" class="inputbutton" />
+    </label></td>
+  </tr>
+  <tr>
+    <td><span class="signup"><a href="http://metalvideo.com/login.html?do=forgot_pass">Forgot your password?</a></span></td>
+  </tr>
+</table>
+</form> 
+		</div>
+		<br />
+	<div id="reg_box">
+	<h3>Tags</h3>
+	<br />
+			<a href="http://metalvideo.com/tags/heavy-metal/" class="tag_cloud_link" style="font-size:20px;">Heavy Metal</a> 
+			<a href="http://metalvideo.com/tags/death-metal/" class="tag_cloud_link" style="font-size:14px;">Death Metal</a> 
+			<a href="http://metalvideo.com/tags/thrash-metal/" class="tag_cloud_link" style="font-size:14px;">Thrash Metal</a> 
+			<a href="http://metalvideo.com/tags/metalcore/" class="tag_cloud_link" style="font-size:13px;">Metalcore</a> 
+			<a href="http://metalvideo.com/tags/hard-rock/" class="tag_cloud_link" style="font-size:12px;">Hard Rock</a> 
+			<a href="http://metalvideo.com/tags/classic-metal/" class="tag_cloud_link" style="font-size:12px;">Classic Metal</a> 
+			<a href="http://metalvideo.com/tags/gothic-metal/" class="tag_cloud_link" style="font-size:12px;">Gothic Metal</a> 
+			<a href="http://metalvideo.com/tags/alternative/" class="tag_cloud_link" style="font-size:12px;">Alternative</a> 
+			<a href="http://metalvideo.com/tags/metal/" class="tag_cloud_link" style="font-size:12px;">Metal</a> 
+			<a href="http://metalvideo.com/tags/black-metal/" class="tag_cloud_link" style="font-size:12px;">Black Metal</a> 
+			<a href="http://metalvideo.com/tags/industrial/" class="tag_cloud_link" style="font-size:12px;">Industrial</a> 
+			<a href="http://metalvideo.com/tags/punk/" class="tag_cloud_link" style="font-size:11px;">Punk</a> 
+			<a href="http://metalvideo.com/tags/concerts/" class="tag_cloud_link" style="font-size:11px;">Concerts</a> 
+			<a href="http://metalvideo.com/tags/metal-blade-records/" class="tag_cloud_link" style="font-size:11px;">Metal Blade Records</a> 
+			<a href="http://metalvideo.com/tags/punk-and-hardcore/" class="tag_cloud_link" style="font-size:11px;">Punk and Hardcore</a> 
+			<a href="http://metalvideo.com/tags/hair-metal/" class="tag_cloud_link" style="font-size:11px;">Hair Metal</a> 
+			<a href="http://metalvideo.com/tags/folk-metal/" class="tag_cloud_link" style="font-size:11px;">Folk Metal</a> 
+			<a href="http://metalvideo.com/tags/video/" class="tag_cloud_link" style="font-size:11px;">video</a> 
+			<a href="http://metalvideo.com/tags/relapse-records/" class="tag_cloud_link" style="font-size:11px;">Relapse Records</a> 
+			<a href="http://metalvideo.com/tags/nuclear-blast-records/" class="tag_cloud_link" style="font-size:11px;">Nuclear Blast Records</a> 
+			<a href="http://metalvideo.com/tags/grunge/" class="tag_cloud_link" style="font-size:11px;">Grunge</a> 
+			<a href="http://metalvideo.com/tags/metallica/" class="tag_cloud_link" style="font-size:11px;">Metallica</a> 
+			<a href="http://metalvideo.com/tags/hardcore/" class="tag_cloud_link" style="font-size:11px;">Hardcore</a> 
+			<a href="http://metalvideo.com/tags/thrash/" class="tag_cloud_link" style="font-size:11px;">Thrash</a> 
+			<a href="http://metalvideo.com/tags/rock/" class="tag_cloud_link" style="font-size:11px;">Rock</a> 
+			<a href="http://metalvideo.com/tags/iron-maiden/" class="tag_cloud_link" style="font-size:11px;">iron maiden</a> 
+			<a href="http://metalvideo.com/tags/nu-metal/" class="tag_cloud_link" style="font-size:11px;">Nu Metal</a> 
+			<a href="http://metalvideo.com/tags/swedish-punk/" class="tag_cloud_link" style="font-size:11px;">swedish punk</a> 
+			<a href="http://metalvideo.com/tags/stoner-rock/" class="tag_cloud_link" style="font-size:11px;">Stoner Rock</a> 
+			<a href="http://metalvideo.com/tags/nine-inch-nails/" class="tag_cloud_link" style="font-size:11px;">Nine Inch Nails</a> 
+		</div>
+		</td>
+    <td width="738" valign="top">
+	<div id="browse_main">
+	<table width="100%" border="0" cellspacing="3" cellpadding="3">
+      <tr>
+        <td width="50%" valign="top"><h2>Hardcore Videos</h2></td>
+        <td width="50%" valign="top">
+		<div id="sorting">
+		Sorting: 
+		<ul>				<li><a href="http://metalvideo.com/browse-hardcore-videos-1-date.html" rel="nofollow" class="selectedli">Date</a></li>
+		<li><a href="http://metalvideo.com/browse-hardcore-videos-1-views.html" rel="nofollow" class="">Views</a></li>
+		<li><a href="http://metalvideo.com/browse-hardcore-videos-1-rating.html" rel="nofollow" class="">Rating</a></li>
+		<li><a href="http://metalvideo.com/browse-hardcore-videos-1-artist.html" rel="nofollow" class="">Artist</a></li>
+				</ul>
+		</div>
+		</td>
+		</tr>
+		<tr>
+	        <td colspan="2" valign="top">
+				</td>
+        </tr>
+    </table>
+		<div id="browse_results">
+		
+		<ul>
+		
+			<li class="video">
+			<div class="video_i">
+			<a href="http://metalvideo.com/we-ride/what-you-are-feat-jj-peters-of-deez-nuts-video_590d0fd8f.html">
+			<img src="http://i.ytimg.com/vi/-YJGTaKbd8k/mqdefault.jpg"  alt="What You Are (feat. JJ Peters of Deez Nuts)" class="imag" width="116" height="87" /><div class="tag"></div>
+			</a>
+			<a href="http://metalvideo.com/we-ride/what-you-are-feat-jj-peters-of-deez-nuts-video_590d0fd8f.html">
+			<span class="artist_name">We Ride</span> <span class="song_name">What You Are (feat. ...</span>
+			</a>
+			</div>
+			</li>
+			<li class="video">
+			<div class="video_i">
+			<a href="http://metalvideo.com/conveyer/no-future-video_3ab380a31.html">
+			<img src="http://i.ytimg.com/vi/m5htkJo8Bhs/mqdefault.jpg"  alt="No Future" class="imag" width="116" height="87" /><div class="tag"><span class="hot">hot</span></div>
+			</a>
+			<a href="http://metalvideo.com/conveyer/no-future-video_3ab380a31.html">
+			<span class="artist_name">Conveyer</span> <span class="song_name">No Future</span>
+			</a>
+			</div>
+			</li>
+			<li class="video">
+			<div class="video_i">
+			<a href="http://metalvideo.com/agnostic-front/dead-to-me-live-video_f5787707d.html">
+			<img src="http://i.ytimg.com/vi/1egeFKmSuI0/mqdefault.jpg"  alt="Dead To Me (Live)" class="imag" width="116" height="87" /><div class="tag"><span class="hot">hot</span></div>
+			</a>
+			<a href="http://metalvideo.com/agnostic-front/dead-to-me-live-video_f5787707d.html">
+			<span class="artist_name">Agnostic Front</span> <span class="song_name">Dead To Me (Live)</span>
+			</a>
+			</div>
+			</li>
+			<li class="video">
+			<div class="video_i">
+			<a href="http://metalvideo.com/agnostic-front/so-pure-to-me-video_c68e93731.html">
+			<img src="http://i.ytimg.com/vi/QOh51unRkUE/mqdefault.jpg"  alt="So Pure To Me" class="imag" width="116" height="87" /><div class="tag"></div>
+			</a>
+			<a href="http://metalvideo.com/agnostic-front/so-pure-to-me-video_c68e93731.html">
+			<span class="artist_name">Agnostic Front</span> <span class="song_name">So Pure To Me</span>
+			</a>
+			</div>
+			</li>
+			<li class="video">
+			<div class="video_i">
+			<a href="http://metalvideo.com/agnostic-front/a-wise-man-video_102df1610.html">
+			<img src="http://i.ytimg.com/vi/nqUjA7BemeY/mqdefault.jpg"  alt="A Wise Man" class="imag" width="116" height="87" /><div class="tag"></div>
+			</a>
+			<a href="http://metalvideo.com/agnostic-front/a-wise-man-video_102df1610.html">
+			<span class="artist_name">Agnostic Front</span> <span class="song_name">A Wise Man</span>
+			</a>
+			</div>
+			</li>
+			<li class="video">
+			<div class="video_i">
+			<a href="http://metalvideo.com/agnostic-front/the-american-dream-died-video_d872d1478.html">
+			<img src="http://i.ytimg.com/vi/UFO7xbu0DEM/mqdefault.jpg"  alt="The American Dream Died" class="imag" width="116" height="87" /><div class="tag"></div>
+			</a>
+			<a href="http://metalvideo.com/agnostic-front/the-american-dream-died-video_d872d1478.html">
+			<span class="artist_name">Agnostic Front</span> <span class="song_name">The American Dream Died</span>
+			</a>
+			</div>
+			</li>
+			<li class="video">
+			<div class="video_i">
+			<a href="http://metalvideo.com/agnostic-front/police-violence-video_c13ab68ba.html">
+			<img src="http://i.ytimg.com/vi/sE0u3SH0x0k/mqdefault.jpg"  alt="Police Violence" class="imag" width="116" height="87" /><div class="tag"></div>
+			</a>
+			<a href="http://metalvideo.com/agnostic-front/police-violence-video_c13ab68ba.html">
+			<span class="artist_name">Agnostic Front</span> <span class="song_name">Police Violence</span>
+			</a>
+			</div>
+			</li>
+			<li class="video">
+			<div class="video_i">
+			<a href="http://metalvideo.com/agnostic-front/us-against-the-world-video_2f0bab75e.html">
+			<img src="http://i.ytimg.com/vi/ZAcEBlQi840/mqdefault.jpg"  alt="Us Against The World" class="imag" width="116" height="87" /><div class="tag"></div>
+			</a>
+			<a href="http://metalvideo.com/agnostic-front/us-against-the-world-video_2f0bab75e.html">
+			<span class="artist_name">Agnostic Front</span> <span class="song_name">Us Against The World</span>
+			</a>
+			</div>
+			</li>
+			<li class="video">
+			<div class="video_i">
+			<a href="http://metalvideo.com/agnostic-front/anthem-live-in-87-video_683ab3cf6.html">
+			<img src="http://i.ytimg.com/vi/G6UZYAAq6V4/mqdefault.jpg"  alt="Anthem (Live in '87)" class="imag" width="116" height="87" /><div class="tag"></div>
+			</a>
+			<a href="http://metalvideo.com/agnostic-front/anthem-live-in-87-video_683ab3cf6.html">
+			<span class="artist_name">Agnostic Front</span> <span class="song_name">Anthem (Live in '87)</span>
+			</a>
+			</div>
+			</li>
+			<li class="video">
+			<div class="video_i">
+			<a href="http://metalvideo.com/agnostic-front/old-new-york-video_646fce7c5.html">
+			<img src="http://i.ytimg.com/vi/2A_XhKGFehg/mqdefault.jpg"  alt="Old New York" class="imag" width="116" height="87" /><div class="tag"></div>
+			</a>
+			<a href="http://metalvideo.com/agnostic-front/old-new-york-video_646fce7c5.html">
+			<span class="artist_name">Agnostic Front</span> <span class="song_name">Old New York</span>
+			</a>
+			</div>
+			</li>
+			<li class="video">
+			<div class="video_i">
+			<a href="http://metalvideo.com/agnostic-front/never-walk-alone-video_91344f151.html">
+			<img src="http://i.ytimg.com/vi/OV1W9vt6V10/mqdefault.jpg"  alt="Never Walk Alone" class="imag" width="116" height="87" /><div class="tag"></div>
+			</a>
+			<a href="http://metalvideo.com/agnostic-front/never-walk-alone-video_91344f151.html">
+			<span class="artist_name">Agnostic Front</span> <span class="song_name">Never Walk Alone</span>
+			</a>
+			</div>
+			</li>
+			<li class="video">
+			<div class="video_i">
+			<a href="http://metalvideo.com/wheres-my-bible/failure-video_7a5f3a307.html">
+			<img src="http://i.ytimg.com/vi/puWju4BH47U/mqdefault.jpg"  alt="Failure" class="imag" width="116" height="87" /><div class="tag"></div>
+			</a>
+			<a href="http://metalvideo.com/wheres-my-bible/failure-video_7a5f3a307.html">
+			<span class="artist_name">Where's My Bible</span> <span class="song_name">Failure</span>
+			</a>
+			</div>
+			</li>
+			<li class="video">
+			<div class="video_i">
+			<a href="http://metalvideo.com/solid/alone-video_faced0354.html">
+			<img src="http://i.ytimg.com/vi/_piQ7vhairg/mqdefault.jpg"  alt="Alone" class="imag" width="116" height="87" /><div class="tag"></div>
+			</a>
+			<a href="http://metalvideo.com/solid/alone-video_faced0354.html">
+			<span class="artist_name">Solid</span> <span class="song_name">Alone</span>
+			</a>
+			</div>
+			</li>
+			<li class="video">
+			<div class="video_i">
+			<a href="http://metalvideo.com/live-life/no-one-died-for-my-sins-video_73fec9bd4.html">
+			<img src="http://i.ytimg.com/vi/bOp-acqOpC0/mqdefault.jpg"  alt="No One Died For My Sins" class="imag" width="116" height="87" /><div class="tag"><span class="hot">hot</span></div>
+			</a>
+			<a href="http://metalvideo.com/live-life/no-one-died-for-my-sins-video_73fec9bd4.html">
+			<span class="artist_name">Live Life</span> <span class="song_name">No One Died For My Sins</span>
+			</a>
+			</div>
+			</li>
+			<li class="video">
+			<div class="video_i">
+			<a href="http://metalvideo.com/we-ride/self-made-video_2d1240c0d.html">
+			<img src="http://i.ytimg.com/vi/fBrNz1KMoaY/mqdefault.jpg"  alt="Self Made" class="imag" width="116" height="87" /><div class="tag"></div>
+			</a>
+			<a href="http://metalvideo.com/we-ride/self-made-video_2d1240c0d.html">
+			<span class="artist_name">We Ride</span> <span class="song_name">Self Made</span>
+			</a>
+			</div>
+			</li>
+			<li class="video">
+			<div class="video_i">
+			<a href="http://metalvideo.com/deez-nuts/binge-purgatory-video_1527bd4d0.html">
+			<img src="http://i.ytimg.com/vi/7JC2Z7upuGQ/mqdefault.jpg"  alt="Binge & Purgatory" class="imag" width="116" height="87" /><div class="tag"><span class="hot">hot</span></div>
+			</a>
+			<a href="http://metalvideo.com/deez-nuts/binge-purgatory-video_1527bd4d0.html">
+			<span class="artist_name">Deez Nuts</span> <span class="song_name">Binge & Purgatory</span>
+			</a>
+			</div>
+			</li>
+			<li class="video">
+			<div class="video_i">
+			<a href="http://metalvideo.com/high-hopes/vanguard-video_fc61d7ce6.html">
+			<img src="http://i.ytimg.com/vi/RNz7paRUaJk/mqdefault.jpg"  alt="Vanguard" class="imag" width="116" height="87" /><div class="tag"><span class="hot">hot</span></div>
+			</a>
+			<a href="http://metalvideo.com/high-hopes/vanguard-video_fc61d7ce6.html">
+			<span class="artist_name">High Hopes</span> <span class="song_name">Vanguard</span>
+			</a>
+			</div>
+			</li>
+			<li class="video">
+			<div class="video_i">
+			<a href="http://metalvideo.com/upon-a-burning-body/scars-video_8a3667ff3.html">
+			<img src="http://i.ytimg.com/vi/LVfL3FLgL10/mqdefault.jpg"  alt="Scars" class="imag" width="116" height="87" /><div class="tag"><span class="hot">hot</span></div>
+			</a>
+			<a href="http://metalvideo.com/upon-a-burning-body/scars-video_8a3667ff3.html">
+			<span class="artist_name">Upon A Burning Body</span> <span class="song_name">Scars</span>
+			</a>
+			</div>
+			</li>
+			<li class="video">
+			<div class="video_i">
+			<a href="http://metalvideo.com/polar/until-the-light-video_d7f424bf2.html">
+			<img src="http://i.ytimg.com/vi/8x_ogTB6LMM/mqdefault.jpg"  alt="Until The Light" class="imag" width="116" height="87" /><div class="tag"><span class="hot">hot</span></div>
+			</a>
+			<a href="http://metalvideo.com/polar/until-the-light-video_d7f424bf2.html">
+			<span class="artist_name">Polar</span> <span class="song_name">Until The Light</span>
+			</a>
+			</div>
+			</li>
+			<li class="video">
+			<div class="video_i">
+			<a href="http://metalvideo.com/the-arrs/hors-norme-video_cb33f9b81.html">
+			<img src="http://i.ytimg.com/vi/dgl3OvevRLg/mqdefault.jpg"  alt="Hors-Norme" class="imag" width="116" height="87" /><div class="tag"><span class="hot">hot</span></div>
+			</a>
+			<a href="http://metalvideo.com/the-arrs/hors-norme-video_cb33f9b81.html">
+			<span class="artist_name">The Arrs</span> <span class="song_name">Hors-Norme</span>
+			</a>
+			</div>
+			</li>
+			<li class="video">
+			<div class="video_i">
+			<a href="http://metalvideo.com/pro-pain/deathwish-video_e2aa93ea7.html">
+			<img src="http://i1.ytimg.com/vi/v2tEetO2eSU/0.jpg"  alt="Deathwish" class="imag" width="116" height="87" /><div class="tag"><span class="hot">hot</span></div>
+			</a>
+			<a href="http://metalvideo.com/pro-pain/deathwish-video_e2aa93ea7.html">
+			<span class="artist_name">Pro-Pain</span> <span class="song_name">Deathwish</span>
+			</a>
+			</div>
+			</li>
+			<li class="video">
+			<div class="video_i">
+			<a href="http://metalvideo.com/agnostic-front/thats-life-video_67ad84cab.html">
+			<img src="http://i.ytimg.com/vi/5R1ZM7_5ZDg/0.jpg"  alt="That's Life" class="imag" width="116" height="87" /><div class="tag"><span class="hot">hot</span></div>
+			</a>
+			<a href="http://metalvideo.com/agnostic-front/thats-life-video_67ad84cab.html">
+			<span class="artist_name">Agnostic Front</span> <span class="song_name">That's Life</span>
+			</a>
+			</div>
+			</li>
+			<li class="video">
+			<div class="video_i">
+			<a href="http://metalvideo.com/agnostic-front/a-mi-manera-video_0ebe0969d.html">
+			<img src="http://i.ytimg.com/vi/cyhxvQV4qHI/0.jpg"  alt="A Mi Manera" class="imag" width="116" height="87" /><div class="tag"><span class="hot">hot</span></div>
+			</a>
+			<a href="http://metalvideo.com/agnostic-front/a-mi-manera-video_0ebe0969d.html">
+			<span class="artist_name">Agnostic Front</span> <span class="song_name">A Mi Manera</span>
+			</a>
+			</div>
+			</li>
+			<li class="video">
+			<div class="video_i">
+			<a href="http://metalvideo.com/agnostic-front/my-life-my-way-video_7f077eda5.html">
+			<img src="http://i.ytimg.com/vi/EQoIPQ2oKDg/0.jpg"  alt="My Life My Way" class="imag" width="116" height="87" /><div class="tag"><span class="hot">hot</span></div>
+			</a>
+			<a href="http://metalvideo.com/agnostic-front/my-life-my-way-video_7f077eda5.html">
+			<span class="artist_name">Agnostic Front</span> <span class="song_name">My Life My Way</span>
+			</a>
+			</div>
+			</li>
+		</ul>
+		</div>
+		<table width="100%" border="0" cellspacing="2" cellpadding="2">
+		  <tr>
+			<td width="33%"><a href="http://metalvideo.com/rss.php?c=535"><img src="http://metalvideo.com/templates/B52/images/ico_rss_s.gif" alt="" border="0" width="16" height="16" align="absmiddle" /></a> <span class="pag">Page 1 of  2</span></td>
+			<td width="33%" align="right">
+				<div class="pagination"><span class="disabled">&laquo; prev</span><span class="current">1</span><a href="browse-hardcore-videos-2-date.html">2</a><a href="browse-hardcore-videos-2-date.html">next &raquo;</a></div>
+
+			</td>
+		  </tr>
+		</table>
+	</div>
+	</td>
+  </tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+
+	<div id="footer">
+	<div align="center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Bottom of page -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-6339100196819244"
+     data-ad-slot="7021566956"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+    <!--
+	Removing the PHPSugar.com copyright link is against our terms of agreement.
+	Removing the link without our permission affects your license and as a result you won't 
+	benefit from the free support and the upgrades we provide.
+
+	To ask for permission, please visit the following URL where you can contact the PHPSugar Team.
+
+	http://www.phpsugar.com/customer_care.html
+
+	* Please include your URL when making the request.
+//-->
+
+	
+<div align="center">	
+<a href="http://metalvideo.com/index.html">Homepage</a> | <a href="http://metalvideo.com/contact_us.html">Contact us</a> | <a href="http://metalvideo.com/register.html">Register</a> |   <a href="#top">Go Up</a><br />
+	&copy; 2017 Metal Video. All rights reserved
+</div>
+	
+	</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1055870-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html> 

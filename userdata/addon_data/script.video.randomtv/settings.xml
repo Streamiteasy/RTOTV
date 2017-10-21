@@ -1,0 +1,12 @@
+<settings>
+    <setting id="AutoStop" value="true" />
+    <setting id="AutoStopTimer" value="240" />
+    <setting id="AutoStopWait" value="5" />
+    <setting id="IncludeAll" value="true" />
+    <setting id="IncludeUnwatched" value="true" />
+    <setting id="RepeatPlaylist" value="true" />
+    <setting id="SelectShowsAction" value="" />
+    <setting id="ShowNotifications" value="true" />
+    <setting id="ShuffleOnRepeat" value="true" />
+    <setting id="UpdatePlayCount" value="true" />
+</settings>

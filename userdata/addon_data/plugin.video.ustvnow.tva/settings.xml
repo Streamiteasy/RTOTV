@@ -1,0 +1,29 @@
+<settings>
+    <setting id="account_name" value=" " />
+    <setting id="account_plan" value="" />
+    <setting id="account_status" value="" />
+    <setting id="activation" value="true" />
+    <setting id="addon_name" value="USTVnow Plus" />
+    <setting id="clear_token" value="false" />
+    <setting id="date_opened" value="" />
+    <setting id="dvr" value="false" />
+    <setting id="dvr_points" value="" />
+    <setting id="email" value="jamisonsrental@gmail.com" />
+    <setting id="free_package" value="true" />
+    <setting id="logo" value="1" />
+    <setting id="notify" value="2" />
+    <setting id="password" value="151bsrd40065" />
+    <setting id="quality" value="1" />
+    <setting id="rec_live" value="true" />
+    <setting id="rec_quality" value="1" />
+    <setting id="renew" value="true" />
+    <setting id="setup" value="true" />
+    <setting id="setup_new" value="true" />
+    <setting id="show_movies_section" value="true" />
+    <setting id="show_settings_option" value="true" />
+    <setting id="show_sports_section" value="false" />
+    <setting id="show_tv_guide_epg" value="true" />
+    <setting id="skin" value="0" />
+    <setting id="token" value="oxmlgo3jfafa1ul1c0lpkgg0dvls" />
+    <setting id="version" value="14.8.3" />
+</settings>

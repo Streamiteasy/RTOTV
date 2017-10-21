@@ -1,0 +1,1 @@
+["LOCAL T", ["local train", "local tv", "local trucking", "local time", "local trucking jobs", "local telugu movie", "local talent", "local trash can", "local taco", "local tv stations"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]
