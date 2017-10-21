@@ -1,0 +1,241 @@
+** 2017.1.2 **
+
+Fix channel icon scaling
+Fix fonts for Estuary
+
+** 2016.12.14 **
+
+Change rules URL to not use the test server
+
+** 2016.07.15 **
+
+Update for recordings API change
+Change column headings to 'MOVIE NAME' and 'EVENT NAME' when showing movies or sports respectively
+
+** 2016.05.09 **
+
+Added setting 'Load recording at startup if DVR is detected' (default=disabled)
+
+** 2016.04.30 **
+
+Refresh cached recordings after delete
+Fix for error causing failure when attempting to sort by program name/episode name
+Change column header to 'EPISODE NAME' when showing episodes for a single show to match the sort target
+
+** 2016.04.29 **
+
+Add single episode recording
+Add team recording
+Add recordings delete options
+Add ability to set a custom padding value
+Various interface fixes, tweaks and improvements
+
+
+** 2016.03.24 **
+
+Added 'None' to padding options (0 seconds)
+Fix 'Delete Task' button not showing properly when too many buttons were visible
+Channel slice now works for non DVR subscribers
+
+** 2016.03.18 **
+
+Add 'Channel Slice' to live TV
+
+** 2016.03.07 **
+
+Make guide 5 wide
+Movie category now shows poster thumbnails
+Change 'WATCH RECORDINGS' to 'RECORDED'
+Change 'GUIDE SEARCH' to 'DISCOVER'
+Change 'RECORDING RULES' to 'TASKS'
+Change 'DELETE' to 'DELETE TASK' on recording dialog
+Added start/end padding options to recording dialog
+DELETE TASK now closes record dialog when opened from TASKS
+
+** 2015.11.09 **
+
+Fix for errors caused by encoding issues
+
+** 2015.10.18 **
+
+Use new recording rules API
+Guide search is now 4 wide instead of 3
+
+** 2015.8.23 **
+
+Now showing now opens record dialog instead of live tv
+Clicking a recording rule now opens the record dialog
+Added 'WATCH' button to record dialog to switch to live tv when show is currently playing
+Added 'PRIORITY', 'ALWAYS/RECENT' and 'DELETE' buttons to record dialog when show has a recording rule
+
+** 2015.8.12 **
+
+Remove Isengard alpha workaround
+Select now pauses/unpauses recordings
+
+** 2015.8.11 **
+
+Add 'Now Showing' to 'Guide Search'
+Fix issue where clicking to bring up seek bar while watching recordings occasionally starts live TV
+Fix for busy spinner not displaying when UI has focus but video is playing
+Fix some focus issues with mouse and keyboard
+Fix inability to navigate to rules/watch via keyboard when they are empty
+Hide 'All Shows' on Watch Recordings when there are now shows
+Make series title wrap to 2 lines on Guide Search and remove duplicate sub-text
+
+** 2015.7.14 **
+
+Fix for DVR search failure when addon is left open for extended periods
+Remove un-implemented context menu delete on recordings window
+Refresh rules and improve search refresh when addon remains open
+Fix seek not stopping after key release
+Fix guide search update resetting focus to first item
+Fix for busy spinner appearing during video playback
+Fix for rule priority values being inverted
+
+** 2015.7.3 **
+
+Change name to HDHomeRun
+Add DVR (requires a running DVR server)
+Move slideout options to options screen
+ESC/Previous Menu/Back now cycles through DVR (if available) -> Options -> LiveTV/Playing Recording
+
+** 2015.6.18 **
+
+Fix a bug in Windows interface detection
+
+** 2015.6.4 **
+
+Fix for discovery failure due to broadcast error on any interface
+
+** 2015.5.22 **
+
+When playing a channel, guide now hides automatically
+Fix for guide not updating properly
+
+** 2015.5.9 **
+
+Fix for video not being visible when addon is running (Kodi 15 beta1)
+
+** 2015.4.8 **
+
+Fix error causing issues with multiple devices
+Log lineup JSON decoding errors without traceback
+
+2015.4.1a15
+
+Do subnet broadcast to individual interfaces - fixes issues for devices with multiple interfaces
+Improved logging
+
+** 2015.3.30 **
+
+Channel entry now accepts 'down' for '.' instead of 'select' and includes instructions to this effect
+Added setting 'Show full detail on all guide items'
+Fix for errors when no devices are found
+Add handling for empty lineup
+Improved icons on options dialog
+Options dialog now auto-hides
+After selecting a channel from a filtered list, focus is maintained on the channel when the list resets
+Added channel changing via channel up/down buttons on remote (may not work - needs testing)
+Organized first run control info by control type and removed some text
+
+2015.3.26a1
+
+Added options dialog with buttons for search, video settings, audio settings and volume control
+Options dialog opens on context menu button or mouse right click
+Options dialog also opens on move right or swipe left when the guide overlay is visible
+Guide overlay now also opens/closes on swipe left/right
+When 'Enable enhancements for touch devices' is enabled, all guide overlay items are now full detail even when not selected
+Added first run dialog with basic control description
+
+** 2015.3.25 **
+
+Use more stable guide update method
+Update guide every 55 to 65 minutes
+On guide update failure, wait 5 minutes and try again - then return to normal interval
+Fix for DeviceAuth being encoded with a trailing newline
+Now logs addon version on startup
+
+** 2015.3.20b1 **
+
+Fix for error causing the addon to fail on startup when there is no guide data
+
+***************
+** 2015.3.19 **
+***************
+Initial public release
+Retry fetching guide data if it fails on first attempt
+
+** 2015.3.19a1 **
+
+Fix for un-escaped URLs
+Change name to 'HDHomeRun Live TV'
+Get guide via https
+Slightly darken currently playing background
+
+** 2015.3.18 **
+
+Use public guide data URL and DeviceAuth
+Change 'Guide auto-hide delay seconds' default to 0
+Add font conversion for skins other than Confluence
+Added Gotham skin
+
+** 0.0.10b **
+
+Added setting 'Guide auto-hide delay seconds (0 = never hide)' default: 10
+Context button now displays search input, allowing the user to set a channel filter
+Some focus fixes
+
+** 0.0.9b **
+
+Added 'Enable enhancements for touch devices' to settings. Currently allows "flinging" the guide
+Now hides DRM channels by default - enable with setting 'Show DRM channels'
+Now detects whether lineup has any subchannels and simplifies channel entry (ie select always submits)
+Channel entry now "backspaces" on nav back
+Channel entry now limits to 4 digits before a '.'
+
+** 0.0.8b **
+
+Video now closes when the addon exits with a settings option to disable this behavior
+Now, when entering channel numbers, select now inserts a period with a second select sumbitting the entry
+Now when a channel is entered via channel entry, the guide jumps to that channel
+Improved control focus when using mouse and keyboard
+Transcoding profile setting now has [Default = use tuner profile] and [None = no transcoding]
+Now displays an error notification on failure to load a channel
+Add WIP search which returns matches for currently playing channels
+
+** 0.0.7b **
+
+Disable showing Kodi OSD on click
+Clicking on video with mouse now shows/hides channel guide
+Hitting select will now show the channel guide
+Now uses more mouse/touch friendly scrolling on channel guide
+Now fetches guide data for all devices
+Added channel entry via remote numbers or keyboard numpad
+Added the ability to select transcode profiles in settings
+Added stream metadata to the currently playing OSD
+
+** 0.0.6b **
+
+Fix for error when parsing empty lineups causing no channels to be added
+
+** 0.0.5b **
+
+Improved error handling for case where no channels are found
+
+** 0.0.4b **
+
+Fix for errors on channel numbers without sub channel
+
+** 0.0.3b **
+
+Fix for startup failure if any devices did not respond correctly
+Added error handling for no devices, no compatible devices and other errors
+
+** 0.0.2b **
+
+Internal release
+
+** 0.0.1b **
+
+Initial creation
