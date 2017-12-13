@@ -1,0 +1,7 @@
+<settings>
+    <setting id="ball" value="0" />
+    <setting id="ballspeedx" value="0.500000" />
+    <setting id="ballspeedy" value="0.500000" />
+    <setting id="paddle1" value="3" />
+    <setting id="paddle2" value="2" />
+</settings>

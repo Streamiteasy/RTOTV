@@ -1,0 +1,1 @@
+["M", ["music", "migos", "minecraft", "moana", "movies", "meek mill", "mickey mouse", "mask off", "maluma", "michael jackson"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

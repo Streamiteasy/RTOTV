@@ -1,0 +1,1 @@
+["Video ad", ["video advice", "video ads", "video advertising", "video addict", "video addons", "video addons for kodi 17.4", "video ads cheat sheet", "video add", "video adele", "video adapter"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

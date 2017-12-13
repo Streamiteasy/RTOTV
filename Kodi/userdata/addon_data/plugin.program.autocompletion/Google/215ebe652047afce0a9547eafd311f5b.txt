@@ -1,0 +1,1 @@
+["Premi", ["premiere", "premiere pro", "premium", "premiere pro cc", "premi o premi", "premier", "premiere pro 2017", "premios tu mundo", "premier league live", "premier league 2017"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

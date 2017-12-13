@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Kentucky</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cRTOpro%20Computer%201%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.newson%5cresources%5cimages%5cicon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.newson/?url=Kentucky&amp;mode=1&amp;name=Kentucky",return)</action>
+	</shortcut>
+</shortcuts>

@@ -1,0 +1,1 @@
+["ja", ["jay z", "jake", "jake paul songs", "jazz", "jackboy", "ja rule", "japanese", "james brown", "janet jackson", "jadakiss"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

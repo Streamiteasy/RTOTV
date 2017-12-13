@@ -1,0 +1,1 @@
+["NewsmaxTV", ["newsmax tv ted nugent", "newsmax tv", "newsmax tv live news stream", "newsmax tv live", "newsmax tv youtube", "newsmax tv donald trump", "newsmax tv bill o'reilly", "newsmax tv john bachman", "newsmax tv oreilly", "newsmax tv steve malzberg"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

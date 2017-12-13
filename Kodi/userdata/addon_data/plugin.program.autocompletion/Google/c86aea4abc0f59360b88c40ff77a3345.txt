@@ -1,0 +1,1 @@
+["Kentucky", ["kentucky", "kentucky fried chicken", "kentucky rain", "kentucky football", "kentucky justice", "kentucky kingdom", "kentucky vs florida", "kentucky derby", "kentucky accent", "kentucky wildcats"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

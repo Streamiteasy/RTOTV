@@ -1,0 +1,9 @@
+<settings>
+    <setting id="LockAction" value="false" />
+    <setting id="TraktDisable" value="true" />
+    <setting id="VideoFile" value="library://video/" />
+    <setting id="VideoFolder" value="library://video/" />
+    <setting id="VideoLimit" value="5" />
+    <setting id="VideoRandom" value="false" />
+    <setting id="VideoSource" value="0" />
+</settings>

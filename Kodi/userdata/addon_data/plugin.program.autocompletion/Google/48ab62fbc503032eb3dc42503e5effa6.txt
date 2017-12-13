@@ -1,0 +1,1 @@
+["L", ["logic", "lil pump", "lil wayne", "let it go", "linkin park", "live", "l", "lil durk", "location", "lady gaga"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

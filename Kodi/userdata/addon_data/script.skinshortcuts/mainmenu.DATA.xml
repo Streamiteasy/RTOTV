@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID>rtotv</defaultID>
+		<label>RTO TV</label>
+		<label2>Favourite</label2>
+		<icon>DefaultFolder.png</icon>
+		<thumb>special://skin/extras/icons/</thumb>
+		<action>StartAndroidActivity("com.notheme.android")</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>script.hdhomerun.view</defaultID>
+		<label>Local TV</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultAddon.png</icon>
+		<thumb>image://C%3a%5cUsers%5cJamisons-PC%5cAppData%5cRoaming%5cKodi%5caddons%5cscript.hdhomerun.view%5cicon.png/</thumb>
+		<action>RunAddOn(script.hdhomerun.view)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Kentucky News</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cJamisons-PC%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.newson%5cresources%5cimages%5cicon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.newson/?url=Kentucky&amp;mode=1&amp;name=Kentucky",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.wabc</defaultID>
+		<label>ABC</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cJamisons-PC%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.wabc%5cicon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.wabc",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.abcfamily</defaultID>
+		<label>ABC Family</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cJamisons-PC%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.abcfamily%5cicon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.abcfamily",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.hgtv</defaultID>
+		<label>HGTV</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cRTOpro%20Computer%201%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.hgtv%5cicon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.hgtv",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.pbskids</defaultID>
+		<label>PBS Kids</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cRTOpro%20Computer%201%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.pbskids%5cicon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.pbskids",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.thinktv</defaultID>
+		<label>PBS Think</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cJamisons-PC%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.thinktv%5cicon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.thinktv",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.popcornflix</defaultID>
+		<label>Popcornflix</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.video.popcornflix%2ficon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.popcornflix",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.wnbc</defaultID>
+		<label>NBC</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cJamisons-PC%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.wnbc%5cicon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.wnbc",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.snagfilms</defaultID>
+		<label>Snagfilms</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cRTOpro%20Computer%201%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.snagfilms%5cicon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.snagfilms",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.sundance</defaultID>
+		<label>Sundance </label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cJamisons-PC%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.sundance%5cicon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sundance",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.wsj</defaultID>
+		<label>The Wall Street Journal Live</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cRTOpro%20Computer%201%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.wsj%5cicon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.wsj",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.toonjet</defaultID>
+		<label>Toonjet</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cRTOpro%20Computer%201%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.toonjet%5cicon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.toonjet",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.audio.radio_de</defaultID>
+		<label>Radio</label>
+		<label2>Music Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cJamisons-PC%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.audio.radio_de%5cicon.png/</thumb>
+		<action>ActivateWindow(Music,"plugin://plugin.audio.radio_de",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>1037</defaultID>
+		<label>All Video Apps</label>
+		<label2>Videos</label2>
+		<icon>special://skin/extras/icons/video-addons.png</icon>
+		<thumb>special://skin/extras/icons/</thumb>
+		<action>ActivateWindow(Videos,Addons,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>settings</defaultID>
+		<label>Shutdown</label>
+		<label2>Custom item</label2>
+		<icon>special://skin/extras/icons/settings.png</icon>
+		<thumb>special://skin/extras/icons/power.png</thumb>
+		<action>ShutDown</action>
+	</shortcut>
+</shortcuts>

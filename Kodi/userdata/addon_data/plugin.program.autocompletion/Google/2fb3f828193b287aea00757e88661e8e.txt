@@ -1,0 +1,1 @@
+["Shutdown", ["shutdown", "shutdown corner", "shutdown live", "shutdown -i", "shutdown band", "shutdown falcons", "shutdown defense madden 18", "shutdown timer", "shut down beach boys", "shutdown nyhc"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["Shout Factory", ["shout factory", "shout factory tv", "shout factory kids", "shout factory logo", "shout factory digimon", "shout factory kids logo", "shout factory music", "shout factory trailer", "shout factory zyuranger", "shout factory danny phantom"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

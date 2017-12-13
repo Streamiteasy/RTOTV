@@ -1,0 +1,19 @@
+<settings>
+    <setting id="fav_team" value="None" />
+    <setting id="media_auth" value="" />
+    <setting id="old_password" value="" />
+    <setting id="old_username" value="" />
+    <setting id="password" value="" />
+    <setting id="proxy_port" value="" />
+    <setting id="proxy_pwd" value="" />
+    <setting id="proxy_server" value="" />
+    <setting id="proxy_user" value="" />
+    <setting id="quality" value="HD (5000 kbps)" />
+    <setting id="session_key" value="" />
+    <setting id="single_team" value="false" />
+    <setting id="stream_date" value="2017-10-08" />
+    <setting id="team_names" value="0" />
+    <setting id="time_format" value="0" />
+    <setting id="use_proxy" value="false" />
+    <setting id="username" value="" />
+</settings>

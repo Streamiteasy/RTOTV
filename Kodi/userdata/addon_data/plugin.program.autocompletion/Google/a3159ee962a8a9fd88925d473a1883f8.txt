@@ -1,0 +1,1 @@
+["RUSA", ["rusa", "rusalka", "rusame", "rusalochka", "rusa punta cana", "rusavuk", "rusakan", "rusame amv", "rusa muere", "rusa en mexico"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

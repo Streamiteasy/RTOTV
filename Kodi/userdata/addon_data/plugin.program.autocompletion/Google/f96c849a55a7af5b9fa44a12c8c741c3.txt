@@ -1,0 +1,1 @@
+["MUS", ["music", "musically", "music video", "muselk", "muse", "musica", "music music", "music for kids", "mustang", "musty"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

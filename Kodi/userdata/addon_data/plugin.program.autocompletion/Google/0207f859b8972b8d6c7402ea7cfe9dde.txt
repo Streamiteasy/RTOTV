@@ -1,0 +1,1 @@
+["Trac", ["track", "tractors", "tracer", "tracy morgan", "tractor pull", "tracking irma", "tracy", "tracking", "tracking hurricane irma", "trace adkins"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["Setting", ["settings", "setting fires", "setting spray", "setting goals", "setting up kodi", "setting powder", "setting up", "setting goals for kids", "setting up obs", "setting sun"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["Ca", ["cardi b", "cartoon", "cars", "caillou", "caroline", "call of duty", "cake", "camp camp", "cats", "caught"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

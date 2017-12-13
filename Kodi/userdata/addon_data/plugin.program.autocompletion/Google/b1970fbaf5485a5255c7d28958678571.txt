@@ -1,0 +1,1 @@
+["Latest US", ["latest us news", "latest us political news", "latest us songs", "latest us movies", "latest us military news", "latest us news live", "latest us military weapons", "latest usi tech presentation", "latest usher", "latest usa"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

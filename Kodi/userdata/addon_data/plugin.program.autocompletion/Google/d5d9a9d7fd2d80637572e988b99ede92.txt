@@ -1,0 +1,1 @@
+["WELCOME! N", ["welcome new york", "welcome new galaxy", "welcome nasheed", "welcome november", "welcome neighbor", "welcome new age", "welcome new york city", "welcome new baby", "welcome new york song", "welcome nhk"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

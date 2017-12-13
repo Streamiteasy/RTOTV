@@ -1,0 +1,1 @@
+["RTOT", ["rtot", "toto", "total", "total bellas", "total divas", "total war", "totally spies", "tottenham", "total praise", "totoro"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

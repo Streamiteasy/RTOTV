@@ -1,0 +1,1 @@
+["ABC", ["abc", "abcd", "abc songs", "abc news", "abcdefg", "abcya", "abc 123", "abc rap", "abcd song", "abc rock"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["are", ["area 51", "are", "are we there yet", "are you ready", "are you with me", "arena", "are you down", "area", "aretha franklin", "are you"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

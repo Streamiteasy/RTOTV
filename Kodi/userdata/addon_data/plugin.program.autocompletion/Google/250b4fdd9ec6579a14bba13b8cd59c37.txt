@@ -1,0 +1,1 @@
+["Trav", ["travis scott", "travel", "travis", "travis porter", "travis barker", "travis greene", "travis tritt", "travis scott live", "travel vlog", "traveling"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

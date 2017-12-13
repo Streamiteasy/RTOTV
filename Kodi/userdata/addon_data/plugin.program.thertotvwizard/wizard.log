@@ -1,0 +1,517 @@
+[2017-12-07 08:16:56] 2017-12-07 08:16:56.652000
+[2017-12-07 08:16:57] Killing Start Up Script
+[2017-12-07 08:16:57] Continuing Start Up Script
+[2017-12-07 08:16:57] [Path Check] Started
+[2017-12-07 08:16:57] [Path Check] Good!
+[2017-12-07 08:16:57] [Auto Install Repo] Started
+[2017-12-07 08:16:57] [Auto Install Repo] Not Enabled
+[2017-12-07 08:16:58] [Auto Update Wizard] Started
+[2017-12-07 08:16:58] [Auto Update Wizard] No New Version v1.0.2
+[2017-12-07 08:16:58] [Notifications] Started
+[2017-12-07 08:16:59] [Notifications] id: 1
+[2017-12-07 08:17:46] [Notification] NotifyID 1 Dismissed
+[2017-12-07 08:17:46] [Notifications] Complete
+[2017-12-07 08:17:46] [Installed Check] Started
+[2017-12-07 08:17:46] [Installed Check] Not Enabled
+[2017-12-07 08:17:46] [Build Check] Started
+[2017-12-07 08:17:46] [Build Check] First Run
+[2017-12-07 08:17:56] [Check Updates] [User Selected: Open Build Menu] [Next Check: 2017-12-07]
+[2017-12-07 08:17:57] [Trakt Data] Started
+[2017-12-07 08:17:57] [Trakt Data] Not Enabled
+[2017-12-07 08:17:57] [Real Debrid Data] Started
+[2017-12-07 08:17:57] [Real Debrid Data] Not Enabled
+[2017-12-07 08:17:57] [Login Data] Started
+[2017-12-07 08:17:57] [Login Data] Not Enabled
+[2017-12-07 08:17:57] [Auto Clean Up] Started
+[2017-12-07 08:17:57] [Auto Clean Up] Cache: On
+[2017-12-07 08:17:57] [Auto Clean Up] Old Thumbs: On
+[2017-12-07 08:17:57] 0 total thumbs cleaned up.
+[2017-12-07 08:17:58] [Auto Clean Up] Packages: On
+[2017-12-07 08:17:58] [ Version : '1.0.2' ] [ Mode : 'builds' ] [ Name : 'None' ] [ Url : 'None' ]
+[2017-12-07 08:18:07] [ Version : '1.0.2' ] [ Mode : 'install' ] [ Name : 'The RTO TV' ] [ Url : 'normal' ]
+[2017-12-07 08:21:55] Skipping: addons/plugin.program.thertotvwizard/
+[2017-12-07 08:21:55] Skipping: addons/plugin.program.thertotvwizard/addon.xml
+[2017-12-07 08:21:55] Skipping: addons/plugin.program.thertotvwizard/changelog.txt
+[2017-12-07 08:21:55] Skipping: addons/plugin.program.thertotvwizard/credits.txt
+[2017-12-07 08:21:55] Skipping: addons/plugin.program.thertotvwizard/default.py
+[2017-12-07 08:21:55] Skipping: addons/plugin.program.thertotvwizard/fanart.jpg
+[2017-12-07 08:21:55] Skipping: addons/plugin.program.thertotvwizard/icon.png
+[2017-12-07 08:21:55] Skipping: addons/plugin.program.thertotvwizard/LICENSE
+[2017-12-07 08:21:55] Skipping: addons/plugin.program.thertotvwizard/pyqrcode/
+[2017-12-07 08:21:55] Skipping: addons/plugin.program.thertotvwizard/pyqrcode/builder.py
+[2017-12-07 08:21:55] Skipping: addons/plugin.program.thertotvwizard/pyqrcode/builder.pyo
+[2017-12-07 08:21:55] Skipping: addons/plugin.program.thertotvwizard/pyqrcode/png.py
+[2017-12-07 08:21:55] Skipping: addons/plugin.program.thertotvwizard/pyqrcode/tables.py
+[2017-12-07 08:21:56] Skipping: addons/plugin.program.thertotvwizard/pyqrcode/tables.pyo
+[2017-12-07 08:21:56] Skipping: addons/plugin.program.thertotvwizard/pyqrcode/__init__.py
+[2017-12-07 08:21:56] Skipping: addons/plugin.program.thertotvwizard/pyqrcode/__init__.pyo
+[2017-12-07 08:21:56] Skipping: addons/plugin.program.thertotvwizard/resources/
+[2017-12-07 08:21:56] Skipping: addons/plugin.program.thertotvwizard/resources/art/
+[2017-12-07 08:21:56] Skipping: addons/plugin.program.thertotvwizard/resources/art/ContentPanel.png
+[2017-12-07 08:21:56] Skipping: addons/plugin.program.thertotvwizard/resources/art/fanart.jpg
+[2017-12-07 08:21:56] Skipping: addons/plugin.program.thertotvwizard/resources/libs/
+[2017-12-07 08:21:56] Skipping: addons/plugin.program.thertotvwizard/resources/libs/debridit.py
+[2017-12-07 08:21:56] Skipping: addons/plugin.program.thertotvwizard/resources/libs/debridit.pyo
+[2017-12-07 08:21:56] Skipping: addons/plugin.program.thertotvwizard/resources/libs/downloader.py
+[2017-12-07 08:21:56] Skipping: addons/plugin.program.thertotvwizard/resources/libs/downloader.pyo
+[2017-12-07 08:21:56] Skipping: addons/plugin.program.thertotvwizard/resources/libs/extract.py
+[2017-12-07 08:21:56] Skipping: addons/plugin.program.thertotvwizard/resources/libs/extract.pyo
+[2017-12-07 08:21:57] Skipping: addons/plugin.program.thertotvwizard/resources/libs/loginit.py
+[2017-12-07 08:21:57] Skipping: addons/plugin.program.thertotvwizard/resources/libs/loginit.pyo
+[2017-12-07 08:21:57] Skipping: addons/plugin.program.thertotvwizard/resources/libs/notify.py
+[2017-12-07 08:21:57] Skipping: addons/plugin.program.thertotvwizard/resources/libs/notify.pyo
+[2017-12-07 08:21:57] Skipping: addons/plugin.program.thertotvwizard/resources/libs/skinSwitch.py
+[2017-12-07 08:21:57] Skipping: addons/plugin.program.thertotvwizard/resources/libs/skinSwitch.pyo
+[2017-12-07 08:21:57] Skipping: addons/plugin.program.thertotvwizard/resources/libs/traktit.py
+[2017-12-07 08:21:57] Skipping: addons/plugin.program.thertotvwizard/resources/libs/traktit.pyo
+[2017-12-07 08:21:57] Skipping: addons/plugin.program.thertotvwizard/resources/libs/uploadLog.py
+[2017-12-07 08:21:57] Skipping: addons/plugin.program.thertotvwizard/resources/libs/uploadLog.pyo
+[2017-12-07 08:21:57] Skipping: addons/plugin.program.thertotvwizard/resources/libs/wizard.py
+[2017-12-07 08:21:57] Skipping: addons/plugin.program.thertotvwizard/resources/libs/wizard.pyo
+[2017-12-07 08:21:57] Skipping: addons/plugin.program.thertotvwizard/resources/libs/yt.py
+[2017-12-07 08:21:57] Skipping: addons/plugin.program.thertotvwizard/resources/libs/yt.pyo
+[2017-12-07 08:21:57] Skipping: addons/plugin.program.thertotvwizard/resources/libs/__init__.py
+[2017-12-07 08:21:57] Skipping: addons/plugin.program.thertotvwizard/resources/libs/__init__.pyo
+[2017-12-07 08:21:57] Skipping: addons/plugin.program.thertotvwizard/resources/settings.xml
+[2017-12-07 08:21:57] Skipping: addons/plugin.program.thertotvwizard/resources/skins/
+[2017-12-07 08:21:57] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/
+[2017-12-07 08:21:58] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/1080i/
+[2017-12-07 08:21:58] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/1080i/APK.xml
+[2017-12-07 08:21:58] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/1080i/BuildUpdate.xml
+[2017-12-07 08:21:58] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/1080i/Contact.xml
+[2017-12-07 08:21:58] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/1080i/FirstRunBuild.xml
+[2017-12-07 08:21:58] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/1080i/FirstRunSaveData.xml
+[2017-12-07 08:21:58] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/1080i/loguploader.xml
+[2017-12-07 08:21:58] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/1080i/LogViewer.xml
+[2017-12-07 08:21:58] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/1080i/Notifications.xml
+[2017-12-07 08:21:58] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/1080i/Textbox.xml
+[2017-12-07 08:21:58] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/media/
+[2017-12-07 08:21:58] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/media/Background/
+[2017-12-07 08:21:58] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/media/Background/bgg2.png
+[2017-12-07 08:21:58] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/media/Background/ContentPanel.png
+[2017-12-07 08:21:58] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/media/Background/dialogheader.png
+[2017-12-07 08:21:58] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/media/Background/loguploader-black.png
+[2017-12-07 08:21:58] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/media/Background/loguploader-dialog-bg.png
+[2017-12-07 08:21:58] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/media/Background/loguploader-white.png
+[2017-12-07 08:21:58] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/media/Background/spmc.png
+[2017-12-07 08:21:58] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/media/Button/
+[2017-12-07 08:21:58] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/media/Button/button-focus_grey.png
+[2017-12-07 08:21:58] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/media/Button/button-focus_lightblue.png
+[2017-12-07 08:21:59] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/media/Button/DialogCloseButton-focus.png
+[2017-12-07 08:21:59] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/media/Button/DialogCloseButton.png
+[2017-12-07 08:21:59] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/media/Button/KeyboardKey.png
+[2017-12-07 08:21:59] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/media/Button/KeyboardKeyNF.png
+[2017-12-07 08:21:59] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/media/Button/loguploader-dialogbutton-fo.png
+[2017-12-07 08:21:59] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/media/Button/loguploader-dialogbutton-nofo.png
+[2017-12-07 08:21:59] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/media/Button/scrollbar-V-background.png
+[2017-12-07 08:21:59] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/media/Button/scrollbar-V-focus.png
+[2017-12-07 08:21:59] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/media/Button/scrollbar-V.png
+[2017-12-07 08:21:59] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/media/Button/testbuttonfo.png
+[2017-12-07 08:21:59] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/media/Button/testbuttonnf.png
+[2017-12-07 08:21:59] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/media/RadioButton/
+[2017-12-07 08:21:59] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/media/RadioButton/MenuItemFO.png
+[2017-12-07 08:21:59] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/media/RadioButton/MenuItemNF.png
+[2017-12-07 08:21:59] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/media/RadioButton/radiobutton-focus.png
+[2017-12-07 08:21:59] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/media/RadioButton/radiobutton-nofocus.png
+[2017-12-07 08:22:00] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/media/Slider/
+[2017-12-07 08:22:00] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/media/Slider/osd_slider_nib.png
+[2017-12-07 08:22:00] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/media/Slider/osd_slider_nibNF.png
+[2017-12-07 08:22:00] Skipping: addons/plugin.program.thertotvwizard/resources/skins/DefaultSkin/media/Slider/slider1.png
+[2017-12-07 08:22:00] Skipping: addons/plugin.program.thertotvwizard/resources/tempaddon.xml
+[2017-12-07 08:22:00] Skipping: addons/plugin.program.thertotvwizard/resources/__init__.py
+[2017-12-07 08:22:00] Skipping: addons/plugin.program.thertotvwizard/resources/__init__.pyo
+[2017-12-07 08:22:00] Skipping: addons/plugin.program.thertotvwizard/startup.py
+[2017-12-07 08:22:00] Skipping: addons/plugin.program.thertotvwizard/uservar.py
+[2017-12-07 08:22:00] Skipping: addons/plugin.program.thertotvwizard/uservar.pyo
+[2017-12-07 08:25:15] Skipping: addons/script.areswizard/resources/skins/Default/media/Thumbs.db
+[2017-12-07 08:25:56] Skipping: addons/script.kodi-portal/resources/skins/Default/media/Thumbs.db
+[2017-12-07 08:25:59] Skipping: addons/script.module.certifi/.gitignore
+[2017-12-07 08:26:00] Skipping: addons/script.module.chardet/.gitignore
+[2017-12-07 08:26:02] Skipping: addons/script.module.idna/.gitignore
+[2017-12-07 08:26:32] Skipping: addons/script.module.requests/.gitignore
+[2017-12-07 08:26:36] Skipping: addons/script.module.urllib3/.gitignore
+[2017-12-07 08:27:33] Skipping: temp/kodi.log
+[2017-12-07 08:27:33] Skipping: temp/kodi.old.log
+[2017-12-07 08:27:40] Skipping: userdata/addon_data/plugin.program.thertotvwizard/
+[2017-12-07 08:27:40] Skipping: userdata/addon_data/plugin.program.thertotvwizard/settings.xml
+[2017-12-07 08:27:40] Skipping: userdata/addon_data/plugin.program.thertotvwizard/wizard.log
+[2017-12-07 08:27:44] Skipping: userdata/addon_data/script.module.metahandler/meta_cache/video_cache.db
+[2017-12-07 08:30:12] lookandfeel.enablerssfeeds saved to false
+[2017-12-07 08:30:13] lookandfeel.font saved to "Default"
+[2017-12-07 08:30:13] lookandfeel.rssedit saved to ""
+[2017-12-07 08:30:13] lookandfeel.skincolors saved to "SKINDEFAULT"
+[2017-12-07 08:30:13] lookandfeel.skintheme saved to "SKINDEFAULT"
+[2017-12-07 08:30:13] lookandfeel.skinzoom saved to 0
+[2017-12-07 08:30:13] lookandfeel.soundskin saved to "resource.uisounds.kodi"
+[2017-12-07 08:30:13] lookandfeel.startupwindow saved to 10000
+[2017-12-07 08:30:13] lookandfeel.stereostrength saved to 5
+[2017-12-07 08:30:13] [Default Skin Check]
+[2017-12-07 08:30:13] Reading gui file: C:\Users\RTOpro Computer 1\AppData\Roaming\Kodi\userdata\guisettings.xml
+[2017-12-07 08:30:13] Opening gui settings
+[2017-12-07 08:30:13] Matches: ['skin.phenomenal']
+[2017-12-07 08:30:13] [Default Skin Check] Skin name: Phenomenal
+[2017-12-07 08:30:13] [Default Skin Check] Skin id: skin.phenomenal
+[2017-12-07 08:30:13] [Default Skin Check] End
+[2017-12-07 08:30:15] INSTALLED 100: [ERRORS:0]
+[2017-12-07 08:30:15] Updated plugin.program.thertotvwizard in db
+[2017-12-07 08:32:47] Force Closing Kodi: Platform[windows]
+[2017-12-07 08:56:13] 2017-12-07 08:56:13.388000
+[2017-12-07 08:56:14] Continuing Start Up Script
+[2017-12-07 08:56:14] [Path Check] Started
+[2017-12-07 08:56:15] [Path Check] Good!
+[2017-12-07 08:56:16] [Auto Install Repo] Started
+[2017-12-07 08:56:16] [Auto Install Repo] Not Enabled
+[2017-12-07 08:56:16] [Auto Update Wizard] Started
+[2017-12-07 08:56:18] [Auto Update Wizard] No New Version v1.0.2
+[2017-12-07 08:56:18] [Notifications] Started
+[2017-12-07 08:56:20] [Notifications] id[1] Dismissed
+[2017-12-07 08:56:20] [Installed Check] Started
+[2017-12-07 08:57:05] [Trakt Data] Started
+[2017-12-07 08:57:06] [Trakt Data] Not Enabled
+[2017-12-07 08:57:06] [Real Debrid Data] Started
+[2017-12-07 08:57:06] [Real Debrid Data] Not Enabled
+[2017-12-07 08:57:07] [Login Data] Started
+[2017-12-07 08:57:07] [Login Data] Not Enabled
+[2017-12-07 08:57:07] [Auto Clean Up] Started
+[2017-12-07 08:57:08] [Auto Clean Up] Cache: On
+[2017-12-07 08:57:12] [Success] wiped C:\Users\RTOpro Computer 1\AppData\Roaming\Kodi\userdata\addon_data\script.module.simplecache 
+[2017-12-07 08:58:04] [Success] cleared 1 files from C:\Users\RTOpro Computer 1\AppData\Roaming\Kodi\cache\temp
+[2017-12-07 08:58:04] [Auto Clean Up] Old Thumbs: On
+[2017-12-07 08:58:10] 1434 total thumbs cleaned up.
+[2017-12-07 08:59:52] [Auto Clean Up] Packages: On
+[2017-12-07 10:39:07] 2017-12-07 10:39:07.030000
+[2017-12-07 10:39:08] Continuing Start Up Script
+[2017-12-07 10:39:08] [Path Check] Started
+[2017-12-07 10:39:08] [Path Check] Good!
+[2017-12-07 10:39:08] [Auto Install Repo] Started
+[2017-12-07 10:39:08] [Auto Install Repo] Not Enabled
+[2017-12-07 10:39:08] [Auto Update Wizard] Started
+[2017-12-07 10:39:09] [Auto Update Wizard] No New Version v1.0.2
+[2017-12-07 10:39:09] [Notifications] Started
+[2017-12-07 10:39:10] [Notifications] id[1] Dismissed
+[2017-12-07 10:39:10] [Installed Check] Started
+[2017-12-07 10:39:10] [Installed Check] Not Enabled
+[2017-12-07 10:39:10] [Build Check] Started
+[2017-12-07 10:39:10] [Build Check] Build Installed
+[2017-12-07 10:39:10] [Build Check] Build Installed: Checking Updates
+[2017-12-07 10:39:11] [Check Updates] [Installed Version: 1.0.1] [Current Version: 1.0.1]
+[2017-12-07 10:39:11] [Trakt Data] Started
+[2017-12-07 10:39:11] [Trakt Data] Not Enabled
+[2017-12-07 10:39:11] [Real Debrid Data] Started
+[2017-12-07 10:39:11] [Real Debrid Data] Not Enabled
+[2017-12-07 10:39:11] [Login Data] Started
+[2017-12-07 10:39:11] [Login Data] Not Enabled
+[2017-12-07 10:39:11] [Auto Clean Up] Started
+[2017-12-07 10:39:12] [Auto Clean Up] Cache: On
+[2017-12-07 10:39:12] [Success] wiped C:\Users\RTOpro Computer 1\AppData\Roaming\Kodi\userdata\addon_data\script.module.simplecache 
+[2017-12-07 10:39:14] [Success] cleared 1 files from C:\Users\RTOpro Computer 1\AppData\Roaming\Kodi\cache\temp
+[2017-12-07 10:39:14] [Auto Clean Up] Old Thumbs: On
+[2017-12-07 10:39:15] 0 total thumbs cleaned up.
+[2017-12-07 10:39:15] [Auto Clean Up] Packages: On
+[2017-12-07 11:15:01] 2017-12-07 11:15:01.146000
+[2017-12-07 11:15:02] Continuing Start Up Script
+[2017-12-07 11:15:02] [Path Check] Started
+[2017-12-07 11:15:02] [Path Check] Good!
+[2017-12-07 11:15:02] [Auto Install Repo] Started
+[2017-12-07 11:15:02] [Auto Install Repo] Not Enabled
+[2017-12-07 11:15:02] [Auto Update Wizard] Started
+[2017-12-07 11:15:03] [Auto Update Wizard] No New Version v1.0.2
+[2017-12-07 11:15:03] [Notifications] Started
+[2017-12-07 11:15:03] [Notifications] id[1] Dismissed
+[2017-12-07 11:15:03] [Installed Check] Started
+[2017-12-07 11:15:04] [Installed Check] Not Enabled
+[2017-12-07 11:15:04] [Build Check] Started
+[2017-12-07 11:15:04] [Build Check] Build Installed
+[2017-12-07 11:15:04] [Build Check] Build Installed: Checking Updates
+[2017-12-07 11:15:04] [Check Updates] [Installed Version: 1.0.1] [Current Version: 1.0.1]
+[2017-12-07 11:15:04] [Trakt Data] Started
+[2017-12-07 11:15:04] [Trakt Data] Not Enabled
+[2017-12-07 11:15:04] [Real Debrid Data] Started
+[2017-12-07 11:15:04] [Real Debrid Data] Not Enabled
+[2017-12-07 11:15:04] [Login Data] Started
+[2017-12-07 11:15:04] [Login Data] Not Enabled
+[2017-12-07 11:15:05] [Auto Clean Up] Started
+[2017-12-07 11:15:05] [Auto Clean Up] Cache: On
+[2017-12-07 11:15:05] [Success] wiped C:\Users\RTOpro Computer 1\AppData\Roaming\Kodi\userdata\addon_data\script.module.simplecache 
+[2017-12-07 11:15:07] [Success] cleared 1 files from C:\Users\RTOpro Computer 1\AppData\Roaming\Kodi\cache\temp
+[2017-12-07 11:15:07] [Auto Clean Up] Old Thumbs: On
+[2017-12-07 11:15:07] 0 total thumbs cleaned up.
+[2017-12-07 11:15:07] [Auto Clean Up] Packages: On
+[2017-12-07 12:17:11] 2017-12-07 12:17:11.255000
+[2017-12-07 12:17:12] Continuing Start Up Script
+[2017-12-07 12:17:12] [Path Check] Started
+[2017-12-07 12:17:12] [Path Check] Good!
+[2017-12-07 12:17:13] [Auto Install Repo] Started
+[2017-12-07 12:17:13] [Auto Install Repo] Not Enabled
+[2017-12-07 12:17:13] [Auto Update Wizard] Started
+[2017-12-07 12:17:14] [Auto Update Wizard] No New Version v1.0.2
+[2017-12-07 12:17:14] [Notifications] Started
+[2017-12-07 12:17:14] [Notifications] id[1] Dismissed
+[2017-12-07 12:17:14] [Installed Check] Started
+[2017-12-07 12:17:14] [Installed Check] Not Enabled
+[2017-12-07 12:17:14] [Build Check] Started
+[2017-12-07 12:17:14] [Build Check] Build Installed
+[2017-12-07 12:17:14] [Build Check] Build Installed: Checking Updates
+[2017-12-07 12:17:14] [Check Updates] [Installed Version: 1.0.1] [Current Version: 1.0.1]
+[2017-12-07 12:17:14] [Trakt Data] Started
+[2017-12-07 12:17:14] [Trakt Data] Not Enabled
+[2017-12-07 12:17:14] [Real Debrid Data] Started
+[2017-12-07 12:17:14] [Real Debrid Data] Not Enabled
+[2017-12-07 12:17:14] [Login Data] Started
+[2017-12-07 12:17:14] [Login Data] Not Enabled
+[2017-12-07 12:17:14] [Auto Clean Up] Started
+[2017-12-07 12:17:14] [Auto Clean Up] Cache: On
+[2017-12-07 12:17:14] [Success] wiped C:\Users\RTOpro Computer 1\AppData\Roaming\Kodi\userdata\addon_data\script.module.simplecache 
+[2017-12-07 12:17:15] [Success] cleared 1 files from C:\Users\RTOpro Computer 1\AppData\Roaming\Kodi\cache\temp
+[2017-12-07 12:17:15] [Auto Clean Up] Old Thumbs: On
+[2017-12-07 12:17:15] 0 total thumbs cleaned up.
+[2017-12-07 12:17:15] [Auto Clean Up] Packages: On
+[2017-12-08 12:11:40] 2017-12-08 12:11:39.672000
+[2017-12-08 12:11:41] Continuing Start Up Script
+[2017-12-08 12:11:41] [Path Check] Started
+[2017-12-08 12:11:42] [Path Check] Good!
+[2017-12-08 12:11:42] [Auto Install Repo] Started
+[2017-12-08 12:11:42] [Auto Install Repo] Not Enabled
+[2017-12-08 12:11:42] [Auto Update Wizard] Started
+[2017-12-08 12:11:43] [Auto Update Wizard] No New Version v1.0.2
+[2017-12-08 12:11:43] [Notifications] Started
+[2017-12-08 12:11:43] [Notifications] id[1] Dismissed
+[2017-12-08 12:11:43] [Installed Check] Started
+[2017-12-08 12:11:43] [Installed Check] Not Enabled
+[2017-12-08 12:11:43] [Build Check] Started
+[2017-12-08 12:11:43] [Build Check] Build Installed
+[2017-12-08 12:11:43] [Build Check] Build Installed: Checking Updates
+[2017-12-08 12:11:44] [Check Updates] [Installed Version: 1.0.1] [Current Version: 1.0.1]
+[2017-12-08 12:11:44] [Trakt Data] Started
+[2017-12-08 12:11:44] [Trakt Data] Not Enabled
+[2017-12-08 12:11:44] [Real Debrid Data] Started
+[2017-12-08 12:11:44] [Real Debrid Data] Not Enabled
+[2017-12-08 12:11:44] [Login Data] Started
+[2017-12-08 12:11:44] [Login Data] Not Enabled
+[2017-12-08 12:11:44] [Auto Clean Up] Started
+[2017-12-08 12:11:44] [Auto Clean Up] Cache: On
+[2017-12-08 12:11:44] [Success] wiped C:\Users\RTOpro Computer 1\AppData\Roaming\Kodi\userdata\addon_data\script.module.simplecache 
+[2017-12-08 12:11:45] [Success] cleared 1 files from C:\Users\RTOpro Computer 1\AppData\Roaming\Kodi\cache\temp
+[2017-12-08 12:11:45] [Auto Clean Up] Old Thumbs: On
+[2017-12-08 12:11:45] 0 total thumbs cleaned up.
+[2017-12-08 12:11:45] [Auto Clean Up] Packages: On
+[2017-12-08 12:42:32] 2017-12-08 12:42:32.736000
+[2017-12-08 12:42:33] Continuing Start Up Script
+[2017-12-08 12:42:33] [Path Check] Started
+[2017-12-08 12:42:33] [Path Check] Good!
+[2017-12-08 12:42:33] [Auto Install Repo] Started
+[2017-12-08 12:42:34] [Auto Install Repo] Not Enabled
+[2017-12-08 12:42:34] [Auto Update Wizard] Started
+[2017-12-08 12:42:35] [Auto Update Wizard] No New Version v1.0.2
+[2017-12-08 12:42:35] [Notifications] Started
+[2017-12-08 12:42:35] [Notifications] id[1] Dismissed
+[2017-12-08 12:42:36] [Installed Check] Started
+[2017-12-08 12:42:36] [Installed Check] Not Enabled
+[2017-12-08 12:42:36] [Build Check] Started
+[2017-12-08 12:42:36] [Build Check] Build Installed
+[2017-12-08 12:42:36] [Build Check] Build Installed: Checking Updates
+[2017-12-08 12:42:36] [Check Updates] [Installed Version: 1.0.1] [Current Version: 1.0.1]
+[2017-12-08 12:42:36] [Trakt Data] Started
+[2017-12-08 12:42:36] [Trakt Data] Not Enabled
+[2017-12-08 12:42:36] [Real Debrid Data] Started
+[2017-12-08 12:42:36] [Real Debrid Data] Not Enabled
+[2017-12-08 12:42:36] [Login Data] Started
+[2017-12-08 12:42:36] [Login Data] Not Enabled
+[2017-12-08 12:42:36] [Auto Clean Up] Started
+[2017-12-08 12:42:36] [Auto Clean Up] Cache: On
+[2017-12-08 12:42:36] [Success] wiped C:\Users\RTOpro Computer 1\AppData\Roaming\Kodi\userdata\addon_data\script.module.simplecache 
+[2017-12-08 12:42:36] [Success] cleared 1 files from C:\Users\RTOpro Computer 1\AppData\Roaming\Kodi\cache\temp
+[2017-12-08 12:42:36] [Auto Clean Up] Old Thumbs: On
+[2017-12-08 12:42:36] 0 total thumbs cleaned up.
+[2017-12-08 12:42:37] [Auto Clean Up] Packages: On
+[2017-12-08 13:42:03] 2017-12-08 13:42:03.689000
+[2017-12-08 13:42:05] Continuing Start Up Script
+[2017-12-08 13:42:05] [Path Check] Started
+[2017-12-08 13:42:05] [Path Check] Good!
+[2017-12-08 13:42:05] [Auto Install Repo] Started
+[2017-12-08 13:42:05] [Auto Install Repo] Not Enabled
+[2017-12-08 13:42:05] [Auto Update Wizard] Started
+[2017-12-08 13:42:08] [Auto Update Wizard] No New Version v1.0.2
+[2017-12-08 13:42:08] [Notifications] Started
+[2017-12-08 13:42:09] [Notifications] id[1] Dismissed
+[2017-12-08 13:42:09] [Installed Check] Started
+[2017-12-08 13:42:09] [Installed Check] Not Enabled
+[2017-12-08 13:42:09] [Build Check] Started
+[2017-12-08 13:42:09] [Build Check] Build Installed
+[2017-12-08 13:42:09] [Build Check] Build Installed: Checking Updates
+[2017-12-08 13:42:09] [Check Updates] [Installed Version: 1.0.1] [Current Version: 1.0.1]
+[2017-12-08 13:42:09] [Trakt Data] Started
+[2017-12-08 13:42:09] [Trakt Data] Not Enabled
+[2017-12-08 13:42:09] [Real Debrid Data] Started
+[2017-12-08 13:42:09] [Real Debrid Data] Not Enabled
+[2017-12-08 13:42:09] [Login Data] Started
+[2017-12-08 13:42:09] [Login Data] Not Enabled
+[2017-12-08 13:42:09] [Auto Clean Up] Started
+[2017-12-08 13:42:10] [Auto Clean Up] Cache: On
+[2017-12-08 13:42:10] [Success] wiped C:\Users\RTOpro Computer 1\AppData\Roaming\Kodi\userdata\addon_data\script.module.simplecache 
+[2017-12-08 13:42:10] [Success] cleared 1 files from C:\Users\RTOpro Computer 1\AppData\Roaming\Kodi\cache\temp
+[2017-12-08 13:42:11] [Auto Clean Up] Old Thumbs: On
+[2017-12-08 13:42:11] 0 total thumbs cleaned up.
+[2017-12-08 13:42:11] [Auto Clean Up] Packages: On
+[2017-12-08 16:44:26] 2017-12-08 16:44:26.555000
+[2017-12-08 16:44:27] Continuing Start Up Script
+[2017-12-08 16:44:27] [Path Check] Started
+[2017-12-08 16:44:28] [Path Check] Good!
+[2017-12-08 16:44:28] [Auto Install Repo] Started
+[2017-12-08 16:44:28] [Auto Install Repo] Not Enabled
+[2017-12-08 16:44:28] [Auto Update Wizard] Started
+[2017-12-08 16:44:29] [Auto Update Wizard] No New Version v1.0.2
+[2017-12-08 16:44:29] [Notifications] Started
+[2017-12-08 16:44:30] [Notifications] id[1] Dismissed
+[2017-12-08 16:44:30] [Installed Check] Started
+[2017-12-08 16:44:30] [Installed Check] Not Enabled
+[2017-12-08 16:44:30] [Build Check] Started
+[2017-12-08 16:44:30] [Build Check] Build Installed
+[2017-12-08 16:44:30] [Build Check] Build Installed: Checking Updates
+[2017-12-08 16:44:30] [Check Updates] [Installed Version: 1.0.1] [Current Version: 1.0.1]
+[2017-12-08 16:44:30] [Trakt Data] Started
+[2017-12-08 16:44:31] [Trakt Data] Not Enabled
+[2017-12-08 16:44:31] [Real Debrid Data] Started
+[2017-12-08 16:44:31] [Real Debrid Data] Not Enabled
+[2017-12-08 16:44:31] [Login Data] Started
+[2017-12-08 16:44:31] [Login Data] Not Enabled
+[2017-12-08 16:44:31] [Auto Clean Up] Started
+[2017-12-08 16:44:31] [Auto Clean Up] Cache: On
+[2017-12-08 16:44:31] [Success] wiped C:\Users\RTOpro Computer 1\AppData\Roaming\Kodi\userdata\addon_data\script.module.simplecache 
+[2017-12-08 16:44:34] [Success] cleared 1 files from C:\Users\RTOpro Computer 1\AppData\Roaming\Kodi\cache\temp
+[2017-12-08 16:44:34] [Auto Clean Up] Old Thumbs: On
+[2017-12-08 16:44:35] 0 total thumbs cleaned up.
+[2017-12-08 16:44:35] [Auto Clean Up] Packages: On
+[2017-12-08 16:56:59] 2017-12-08 16:56:59.643000
+[2017-12-08 16:57:00] Continuing Start Up Script
+[2017-12-08 16:57:00] [Path Check] Started
+[2017-12-08 16:57:01] [Path Check] Good!
+[2017-12-08 16:57:01] [Auto Install Repo] Started
+[2017-12-08 16:57:01] [Auto Install Repo] Not Enabled
+[2017-12-08 16:57:01] [Auto Update Wizard] Started
+[2017-12-08 16:57:03] [Auto Update Wizard] No New Version v1.0.2
+[2017-12-08 16:57:03] [Notifications] Started
+[2017-12-08 16:57:03] [Notifications] id[1] Dismissed
+[2017-12-08 16:57:03] [Installed Check] Started
+[2017-12-08 16:57:03] [Installed Check] Not Enabled
+[2017-12-08 16:57:03] [Build Check] Started
+[2017-12-08 16:57:03] [Build Check] Build Installed
+[2017-12-08 16:57:03] [Build Check] Build Installed: Checking Updates
+[2017-12-08 16:57:04] [Check Updates] [Installed Version: 1.0.1] [Current Version: 1.0.1]
+[2017-12-08 16:57:04] [Trakt Data] Started
+[2017-12-08 16:57:04] [Trakt Data] Not Enabled
+[2017-12-08 16:57:04] [Real Debrid Data] Started
+[2017-12-08 16:57:04] [Real Debrid Data] Not Enabled
+[2017-12-08 16:57:04] [Login Data] Started
+[2017-12-08 16:57:04] [Login Data] Not Enabled
+[2017-12-08 16:57:04] [Auto Clean Up] Started
+[2017-12-08 16:57:04] [Auto Clean Up] Cache: On
+[2017-12-08 16:57:05] [Success] wiped C:\Users\RTOpro Computer 1\AppData\Roaming\Kodi\userdata\addon_data\script.module.simplecache 
+[2017-12-08 16:57:11] [Success] cleared 1 files from C:\Users\RTOpro Computer 1\AppData\Roaming\Kodi\cache\temp
+[2017-12-08 16:57:11] [Auto Clean Up] Old Thumbs: On
+[2017-12-08 16:57:11] 0 total thumbs cleaned up.
+[2017-12-08 16:57:11] [Auto Clean Up] Packages: On
+[2017-12-09 11:16:09] 2017-12-09 11:16:09.548000
+[2017-12-09 11:16:10] Continuing Start Up Script
+[2017-12-09 11:16:11] [Path Check] Started
+[2017-12-09 11:16:11] [Path Check] Good!
+[2017-12-09 11:16:11] [Auto Install Repo] Started
+[2017-12-09 11:16:11] [Auto Install Repo] Not Enabled
+[2017-12-09 11:16:11] [Auto Update Wizard] Started
+[2017-12-09 11:16:13] [Auto Update Wizard] No New Version v1.0.2
+[2017-12-09 11:16:13] [Notifications] Started
+[2017-12-09 11:16:14] [Notifications] id[1] Dismissed
+[2017-12-09 11:16:14] [Installed Check] Started
+[2017-12-09 11:16:14] [Installed Check] Not Enabled
+[2017-12-09 11:16:14] [Build Check] Started
+[2017-12-09 11:16:14] [Build Check] Build Installed
+[2017-12-09 11:16:14] [Build Check] Build Installed: Checking Updates
+[2017-12-09 11:16:14] [Check Updates] [Installed Version: 1.0.1] [Current Version: 1.0.1]
+[2017-12-09 11:16:14] [Trakt Data] Started
+[2017-12-09 11:16:14] [Trakt Data] Not Enabled
+[2017-12-09 11:16:14] [Real Debrid Data] Started
+[2017-12-09 11:16:14] [Real Debrid Data] Not Enabled
+[2017-12-09 11:16:14] [Login Data] Started
+[2017-12-09 11:16:14] [Login Data] Not Enabled
+[2017-12-09 11:16:14] [Auto Clean Up] Started
+[2017-12-09 11:16:14] [Auto Clean Up] Cache: On
+[2017-12-09 11:16:15] [Success] wiped C:\Users\RTOpro Computer 1\AppData\Roaming\Kodi\userdata\addon_data\script.module.simplecache 
+[2017-12-09 11:16:18] [Success] cleared 1 files from C:\Users\RTOpro Computer 1\AppData\Roaming\Kodi\cache\temp
+[2017-12-09 11:16:18] [Auto Clean Up] Old Thumbs: On
+[2017-12-09 11:16:18] 0 total thumbs cleaned up.
+[2017-12-09 11:16:18] [Auto Clean Up] Packages: On
+[2017-12-09 12:12:54] [ Version : '1.0.2' ] [ Mode : 'None' ] [ Name : 'None' ] [ Url : 'None' ]
+[2017-12-09 12:13:06] [ Version : '1.0.2' ] [ Mode : 'None' ] [ Name : 'None' ] [ Url : 'None' ]
+[2017-12-09 12:13:57] [ Version : '1.0.2' ] [ Mode : 'None' ] [ Name : 'None' ] [ Url : 'None' ]
+[2017-12-09 12:14:14] [ Version : '1.0.2' ] [ Mode : 'None' ] [ Name : 'None' ] [ Url : 'None' ]
+[2017-12-10 22:37:01] 2017-12-10 22:37:01.380000
+[2017-12-10 22:37:02] Continuing Start Up Script
+[2017-12-10 22:37:02] [Path Check] Started
+[2017-12-10 22:37:02] [Path Check] Good!
+[2017-12-10 22:37:02] [Auto Install Repo] Started
+[2017-12-10 22:37:02] [Auto Install Repo] Not Enabled
+[2017-12-10 22:37:02] [Auto Update Wizard] Started
+[2017-12-10 22:37:04] [Auto Update Wizard] No New Version v1.0.2
+[2017-12-10 22:37:04] [Notifications] Started
+[2017-12-10 22:37:04] [Notifications] id[1] Dismissed
+[2017-12-10 22:37:04] [Installed Check] Started
+[2017-12-10 22:37:04] [Installed Check] Not Enabled
+[2017-12-10 22:37:04] [Build Check] Started
+[2017-12-10 22:37:04] [Build Check] Build Installed
+[2017-12-10 22:37:04] [Build Check] Build Installed: Checking Updates
+[2017-12-10 22:37:05] [Check Updates] [Installed Version: 1.0.1] [Current Version: 1.0.1]
+[2017-12-10 22:37:05] [Trakt Data] Started
+[2017-12-10 22:37:05] [Trakt Data] Not Enabled
+[2017-12-10 22:37:05] [Real Debrid Data] Started
+[2017-12-10 22:37:05] [Real Debrid Data] Not Enabled
+[2017-12-10 22:37:05] [Login Data] Started
+[2017-12-10 22:37:05] [Login Data] Not Enabled
+[2017-12-10 22:37:05] [Auto Clean Up] Started
+[2017-12-10 22:37:05] [Auto Clean Up] Cache: On
+[2017-12-10 22:37:05] [Success] wiped C:\Users\Jamisons-PC\AppData\Roaming\Kodi\userdata\addon_data\script.module.simplecache 
+[2017-12-10 22:37:05] [Success] wiped C:\Users\Jamisons-PC\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.toonjet\urlcache 
+[2017-12-10 22:37:05] [Success] cleared 1 files from C:\Users\Jamisons-PC\AppData\Roaming\Kodi\cache\temp
+[2017-12-10 22:37:05] [Auto Clean Up] Old Thumbs: On
+[2017-12-10 22:37:05] 0 total thumbs cleaned up.
+[2017-12-10 22:37:06] [Auto Clean Up] Packages: On
+[2017-12-10 23:13:21] 2017-12-10 23:13:21.773000
+[2017-12-10 23:13:22] Continuing Start Up Script
+[2017-12-10 23:13:22] [Path Check] Started
+[2017-12-10 23:13:22] [Path Check] Good!
+[2017-12-10 23:13:22] [Auto Install Repo] Started
+[2017-12-10 23:13:22] [Auto Install Repo] Not Enabled
+[2017-12-10 23:13:22] [Auto Update Wizard] Started
+[2017-12-11 00:37:13] [ Version : '1.0.2' ] [ Mode : 'None' ] [ Name : 'None' ] [ Url : 'None' ]
+[2017-12-11 00:38:35] [ Version : '1.0.2' ] [ Mode : 'None' ] [ Name : 'None' ] [ Url : 'None' ]
+[2017-12-11 08:18:11] 2017-12-11 08:18:11.571000
+[2017-12-11 08:18:13] Continuing Start Up Script
+[2017-12-11 08:18:13] [Path Check] Started
+[2017-12-11 08:18:13] [Path Check] Good!
+[2017-12-11 08:18:13] [Auto Install Repo] Started
+[2017-12-11 08:18:13] [Auto Install Repo] Not Enabled
+[2017-12-11 08:18:13] [Auto Update Wizard] Started
+[2017-12-11 08:18:14] [Auto Update Wizard] No New Version v1.0.2
+[2017-12-11 08:18:14] [Notifications] Started
+[2017-12-11 08:18:15] [Notifications] id[1] Dismissed
+[2017-12-11 08:18:15] [Installed Check] Started
+[2017-12-11 08:18:15] [Installed Check] Not Enabled
+[2017-12-11 08:18:15] [Build Check] Started
+[2017-12-11 08:18:15] [Build Check] Build Installed
+[2017-12-11 08:18:15] [Build Check] Build Installed: Checking Updates
+[2017-12-11 08:18:15] [Check Updates] [Installed Version: 1.0.1] [Current Version: 1.0.1]
+[2017-12-11 08:18:15] [Trakt Data] Started
+[2017-12-11 08:18:15] [Trakt Data] Not Enabled
+[2017-12-11 08:18:15] [Real Debrid Data] Started
+[2017-12-11 08:18:15] [Real Debrid Data] Not Enabled
+[2017-12-11 08:18:15] [Login Data] Started
+[2017-12-11 08:18:15] [Login Data] Not Enabled
+[2017-12-11 08:18:15] [Auto Clean Up] Started
+[2017-12-11 08:18:15] [Auto Clean Up] Cache: On
+[2017-12-11 08:18:16] [Success] wiped C:\Users\Jamisons-PC\AppData\Roaming\Kodi\userdata\addon_data\script.module.simplecache 
+[2017-12-11 08:18:27] [Success] wiped C:\Users\Jamisons-PC\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.toonjet\urlcache 
+[2017-12-11 08:18:29] [Wiped] C:\Users\Jamisons-PC\AppData\Roaming\Kodi\cache\ted-cookies.lwp
+[2017-12-11 08:18:29] [Wiped] C:\Users\Jamisons-PC\AppData\Roaming\Kodi\cache\ted_talks_subs.srt
+[2017-12-11 08:18:29] [Success] cleared 3 files from C:\Users\Jamisons-PC\AppData\Roaming\Kodi\cache\temp
+[2017-12-11 08:18:29] [Auto Clean Up] Old Thumbs: On
+[2017-12-11 08:18:29] 0 total thumbs cleaned up.
+[2017-12-11 08:18:30] [Auto Clean Up] Packages: On

@@ -1,0 +1,1 @@
+["WELCOME! No", ["welcome november", "welcome nora vasconcellos", "welcome no", "welcome noise", "welcome now", "welcome noob", "welcome noibat", "welcome november song", "welcome noob league of legends", "welcome note"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

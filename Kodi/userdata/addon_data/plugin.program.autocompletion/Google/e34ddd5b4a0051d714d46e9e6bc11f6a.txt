@@ -1,0 +1,1 @@
+["Settings", ["settings", "settings for pubg", "settings guide", "settings for obs", "settings fire", "settings settings", "settings youtube", "settings on kodi", "settings for night photography", "settings player unknown battlegrounds"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["USA", ["usain bolt", "usa", "usa song", "usa today", "usa anthem", "usain bolt running", "usa soccer", "usa news", "usa vs portugal 2017", "usaf"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

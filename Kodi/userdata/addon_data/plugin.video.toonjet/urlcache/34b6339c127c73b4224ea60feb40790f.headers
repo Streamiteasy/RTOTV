@@ -1,0 +1,16 @@
+Expires: Mon, 11 Dec 2017 13:55:36 GMT
+Date: Mon, 11 Dec 2017 13:55:36 GMT
+Cache-Control: private, max-age=0, must-revalidate, no-transform
+ETag: "7991kDR-QPaa9r0pePmDjBEa2h8/LgX2FeBDW0LwysJdIkcc4nWvpL0"
+Vary: Origin
+Vary: X-Origin
+Content-Type: application/json; charset=UTF-8
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Server: GSE
+Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
+Connection: close
+Transfer-Encoding: chunked
+X-Local-Cache: HIT
+X-Location: https://www.googleapis.com/youtube/v3/playlistItems?prettyPrint=false&fields=nextPageToken%2Citems%2FcontentDetails%2FvideoId&playlistId=UUhWOr1WxJ5UCqLFKPXk4pKA&maxResults=50&part=contentDetails&key=AIzaSyCR4bRcTluwteqwplIC34wEf0GWi9PbSXQ

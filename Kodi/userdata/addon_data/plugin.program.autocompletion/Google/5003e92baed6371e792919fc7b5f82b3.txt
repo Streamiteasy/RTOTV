@@ -1,0 +1,1 @@
+["supe", ["superman", "super why", "super bass", "super", "supermariologan", "superhero", "super mario", "supernatural", "superhero kids", "supergirl"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

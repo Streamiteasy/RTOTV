@@ -1,0 +1,1 @@
+["U.S. News", ["u.s. news", "u.s. news today", "u.s. news live", "u.s. news and world report", "u.s. news on north korea", "u.s. news college rankings 2018", "u.s news today 2016", "u.s news shooting", "u.s. news 9/25/16", "latest u.s. news"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

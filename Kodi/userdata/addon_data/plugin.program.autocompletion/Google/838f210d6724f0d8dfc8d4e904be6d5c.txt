@@ -1,0 +1,1 @@
+["HGTV", ["hgtv", "hgtv urban oasis", "hgtv daddy", "hgtv shows", "hgtv live", "hgtv hgtv", "hgtv dream home", "hgtv urban oasis 2017", "hgtv halloween", "hgtv property brothers"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

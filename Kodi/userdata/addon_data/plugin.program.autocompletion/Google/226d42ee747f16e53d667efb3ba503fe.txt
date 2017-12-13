@@ -1,0 +1,1 @@
+["jam", ["james brown", "james blunt", "james", "james harden", "james taylor", "jam", "james bay", "jamie foxx", "jamaica", "james bond"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

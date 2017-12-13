@@ -1,0 +1,1 @@
+["NFL Teams", ["nfl teams", "nfl team's record", "nfl teams 2017", "nfl teams history", "nfl teams fight", "nfl teams new helmets", "nfl teams intro", "nfl teams caught cheating", "nfl teams that will disappoint", "nfl teams draft"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

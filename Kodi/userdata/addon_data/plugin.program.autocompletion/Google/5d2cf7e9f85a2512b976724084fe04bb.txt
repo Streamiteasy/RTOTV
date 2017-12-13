@@ -1,0 +1,1 @@
+["looney", ["looney tunes", "looney tunes show", "looney", "looney tunes cartoons", "looney tunes intro", "looney tunes live", "looney toon", "looney tunes dash", "looney tunes movie", "looney tunes song"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["Travel Ch", ["travel channel", "travel china", "travel cheap", "travel channel halloween", "travel channel ghost adventures", "travel channel documentary", "travel channel live", "travel channel food", "travel chile", "travel chicago"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["LOCALT", ["localtbc.trade new update", "localtunnel", "localbtc", "local trash can", "locality", "location", "local tube", "local trains", "local tv", "localtunnel tutorial"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

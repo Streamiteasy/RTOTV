@@ -1,0 +1,1 @@
+["su", ["sublime", "superman", "sugar", "summer", "super why", "super bass", "super", "survival", "survivor", "suicid\u00e9 squad"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

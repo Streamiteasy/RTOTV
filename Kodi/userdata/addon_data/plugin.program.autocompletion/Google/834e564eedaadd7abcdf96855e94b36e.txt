@@ -1,0 +1,1 @@
+["New releases", ["new releases", "new releases movies", "new releases music", "new releases 2018", "new releases songs", "new releases august 2017", "new releases hip hop", "new releases september 2017", "new releases 2017 movies", "new releases on netflix"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

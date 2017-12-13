@@ -1,0 +1,1 @@
+["LO", ["logic", "location", "look what you made me do", "logan", "love", "look at me", "loyalty", "love songs", "logic 1800", "lorde"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

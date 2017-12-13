@@ -1,0 +1,1 @@
+["Fu", ["future", "funny vines", "funny videos", "funny", "full movies", "funnel vision", "funny fails", "funny songs", "funny pranks", "fun"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

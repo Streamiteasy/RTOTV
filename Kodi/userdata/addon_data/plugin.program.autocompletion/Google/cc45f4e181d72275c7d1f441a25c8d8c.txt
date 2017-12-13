@@ -1,0 +1,1 @@
+["Fushi", ["fushigi", "fushigi yuugi", "fusion", "fushigi yuugi ova", "fushigi yuugi op", "fushi", "fushigi yuugi ost", "fushigi yuugi amv", "fushigi tricks", "fushigi yuugi ova 2"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

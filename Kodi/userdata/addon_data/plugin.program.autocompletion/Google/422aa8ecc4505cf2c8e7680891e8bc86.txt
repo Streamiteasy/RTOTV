@@ -1,0 +1,1 @@
+["http://spr.", ["http://spr.nu", "http://spr.ly/motep1", "http://daftarj.spr.gov.my/daftarj/daftarjbm.aspx"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["Kentucky N", ["kentucky news", "kentucky ninja", "kentucky nightmare", "kentucky nights", "kentucky night shoot", "kentucky north carolina", "kentucky nba 2k18", "kentucky native american", "kentucky native", "kentucky nfl"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

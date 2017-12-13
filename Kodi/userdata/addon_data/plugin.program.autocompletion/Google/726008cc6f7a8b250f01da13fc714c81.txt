@@ -1,0 +1,1 @@
+["http://fusion.tvaddons.co", ["http://fusion.tvaddons.co", "http://fusion.tvaddons.com", "http //fusion.tvaddons.co", "http://fusion.tvaddons.co/"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY"]}]

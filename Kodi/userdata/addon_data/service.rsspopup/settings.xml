@@ -1,0 +1,14 @@
+<settings>
+    <setting id="bild" value="true" />
+    <setting id="breite-bild" value="100" />
+    <setting id="breite-message" value="1280" />
+    <setting id="custom" value="false" />
+    <setting id="font" value="font13" />
+    <setting id="fontcolor" value="FFFFFFFF" />
+    <setting id="greyout" value="true" />
+    <setting id="hoehe-bild" value="100" />
+    <setting id="hoehe-message" value="100" />
+    <setting id="lesezeit" value="6" />
+    <setting id="x-message" value="5" />
+    <setting id="y-message" value="5" />
+</settings>

@@ -1,0 +1,1 @@
+["LOCA", ["location", "loca", "loca loca", "local bus", "locash", "location cover", "local h", "local natives", "local news", "location karaoke"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

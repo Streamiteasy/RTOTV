@@ -1,0 +1,1 @@
+["louisville ky", ["louisville ky", "louisville ky news", "louisville ky rap", "louisville ky hood", "louisville ky tour", "louisville ky rapper", "louisville ky haunted house", "louisville ky song", "louisville ky police chase", "louisville ky first 48"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

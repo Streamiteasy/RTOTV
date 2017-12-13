@@ -1,0 +1,1 @@
+["C", ["chris brown", "cardi b", "cartoon", "closer", "coldplay", "cnn", "c", "chief keef", "comedy", "cars"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["Cinema", ["cinema", "cinema snob", "cinematography", "cinematic", "cinema 4d", "cinemawins", "cinematic music", "cinemasins saw", "cinemasins it", "cinemagraph"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

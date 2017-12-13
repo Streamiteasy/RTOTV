@@ -1,0 +1,1 @@
+["Travel", ["travel", "travel vlog", "traveling", "travel video", "traveler", "travel channel", "travel blogger", "travelling", "travel tips", "travelers season 2"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

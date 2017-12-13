@@ -1,0 +1,1 @@
+["ar", ["arcangel", "ark", "arsenal", "arthur", "ariana grande", "area 51", "art", "ari", "arms", "ariel"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

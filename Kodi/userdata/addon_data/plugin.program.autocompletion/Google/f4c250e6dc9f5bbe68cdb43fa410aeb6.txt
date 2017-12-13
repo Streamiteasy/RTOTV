@@ -1,0 +1,1 @@
+["loon", ["looney tunes", "loona", "loon", "looney tunes show", "loonie", "looney", "loona odd eye circle sweet crazy love", "looney tunes cartoons", "loona eclipse", "looney tunes intro"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

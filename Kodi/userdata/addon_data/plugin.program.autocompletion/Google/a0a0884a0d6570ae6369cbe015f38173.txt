@@ -1,0 +1,1 @@
+["Travel C", ["travel channel", "travel cambodia", "travel china", "travel camera", "travel couple", "travel cheap", "travel channel halloween", "travel commercial", "travel camper", "travel channel ghost adventures"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID>settings</defaultID>
+		<label>10004</label>
+		<label2>Settings</label2>
+		<icon>special://skin/extras/icons/settings.png</icon>
+		<thumb />
+		<action>ActivateWindow(Settings)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.program.thertotvwizard</defaultID>
+		<label>The RTO TV Wizard</label>
+		<label2>Program</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cJamisons-PC%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.program.thertotvwizard%5cicon.png/</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.thertotvwizard",return)</action>
+	</shortcut>
+</shortcuts>

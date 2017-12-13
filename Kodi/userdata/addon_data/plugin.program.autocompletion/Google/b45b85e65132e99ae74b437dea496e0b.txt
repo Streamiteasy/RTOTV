@@ -1,0 +1,1 @@
+["CollegeHumor", ["collegehumor pov", "collegehumor apple", "collegehumor gay", "collegehumor iphone", "collegehumor weed", "collegehumor badman", "collegehumor honest", "collegehumor", "collegehumor songs", "collegehumor college"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]
