@@ -1,0 +1,12 @@
+<control type="rss" id="123">
+  <description>Jamison's Sales & Rental NEWS: WE are clearing out our showfloor because we are having them redone 01-19-18.  UP TO 30% off all current inventory. 502-633-4864 www.Jamisonshomestore.com Thank you for Choosing RTOTV!</description>
+  <left>80</left>
+  <top>60</top>
+  <width>500</width>
+  <visible>true</visible>
+  <font>font14</font>
+  <textcolor>ff00ff7f</textcolor>
+  <urlset>1</urlset>
+  <headlinecolor>ff00ff7f</headlinecolor>
+  <titlecolor>FF655656</titlecolor>
+</control>
