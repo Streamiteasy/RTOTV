@@ -1,12 +1,18 @@
-<control type="rss" id="123">
-  <description>Jamison's Sales & Rental NEWS: WE are clearing out our showfloor because we are having them redone 01-19-18.  UP TO 30% off all current inventory. 502-633-4864 www.Jamisonshomestore.com Thank you for Choosing RTOTV!</description>
-  <left>80</left>
-  <top>60</top>
-  <width>500</width>
-  <visible>true</visible>
-  <font>font14</font>
-  <textcolor>ff00ff7f</textcolor>
-  <urlset>1</urlset>
-  <headlinecolor>ff00ff7f</headlinecolor>
-  <titlecolor>FF655656</titlecolor>
-</control>
+<rss version="2.0">
+ <channel>
+  <title>RTOTV: TV on your TERMS</title>
+  
+  <item>
+   <title>Jamison's Sales and Rental NEWS: We are clearing our showfloor for renovations so what does this mean for you? HUGE discounts on all in stock Merchandise until 1/18/18</title>
+  </item>
+  
+  <item>
+   <title>Jamison's Contact info: 151 Boone Station Road Shelbyville, KY 40065 www.Jamisonshomestore.com</title>
+  </item>
+  
+  <item>
+   <title>Enjoy your day and love eachother</title>
+  </item>
+  
+ </channel>
+</rss>
