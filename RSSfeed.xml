@@ -1,12 +1,10 @@
-<? xml version="1.0" ?>
 <rss version="2.0">
-<channel>
-<title Welcome to RTOTV and Thank you. GET IT RIGHT NOW!!! RENT TO OWN SPECIALS - Grand Opening Specials Kenmore Washer and Dryer $49.99 monthly, Sofas and Loveseats starting at $49.99 monthly, Sharp 50" TV $39.99 a month. Dixie Highway Louisville, KY OPENING SOON! </title>
-<description></description>
-<link>http://www.yourweb.com</link>
-<item>
-<title
-<description> Enjoy </description>
-<link>http://www.yourweb.com</link>
-</channel>
+ <channel>
+  <title>RTOTV: A Special Message From Our Sponsor</title>
+
+  <item>
+   <title>GET IT RIGHT NOW!!! RENT TO OWN SPECIALS - Grand Opening Specials Kenmore Washer and Dryer $49.99 monthly, Sofas and Loveseats starting at $49.99 monthly, Sharp 50" TV $39.99 a month. Dixie Highway Louisville, KY OPENING SOON!</title>
+  </item>
+
+ </channel>
 </rss>
